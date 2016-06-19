@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Nedergard",
+			"Nike",
+			"Pxos",
+			"SuperPete"
+		]
+	},
+	"homebrew-skin-desc": "Uudistettu versio MonoBookista raikkaalla ulkoasulla ja useilla käytettävyysparannuksilla",
+	"homebrew.css": "/* Tämä sivu sisältää Homebrew-ulkoasua muuttavia tyylejä. */",
+	"homebrew.js": "/* Tämän sivun JavaScript-koodi liitetään Homebrew-tyyliin */",
+	"homebrew-action-addsection": "Lisää aihe",
+	"homebrew-action-delete": "Poista",
+	"homebrew-action-move": "Siirrä",
+	"homebrew-action-protect": "Suojaa",
+	"homebrew-action-undelete": "Palauta",
+	"homebrew-action-unprotect": "Muuta suojausta",
+	"homebrew-view-create": "Luo",
+	"homebrew-view-edit": "Muokkaa",
+	"homebrew-view-history": "Näytä historia",
+	"homebrew-view-view": "Lue",
+	"homebrew-view-viewsource": "Näytä lähdekoodi",
+	"homebrew-more-actions": "Muut"
+}

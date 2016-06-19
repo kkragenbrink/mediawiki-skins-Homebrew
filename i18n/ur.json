@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Istabani",
+			"Noor2020",
+			"Tahir mq",
+			"محبوب عالم",
+			"عثمان خان شاہ",
+			"عرفان ارشد"
+		]
+	},
+	"homebrew-action-addsection": "نیا موضوع",
+	"homebrew-action-delete": "حذف کرو",
+	"homebrew-action-move": "منتقل کرو",
+	"homebrew-action-protect": "محفوظ کرو",
+	"homebrew-action-undelete": "بحال",
+	"homebrew-action-unprotect": "تحفظ میں تبدیلی",
+	"homebrew-view-create": "تخلیق",
+	"homebrew-view-edit": "ترمیم",
+	"homebrew-view-history": "تاریخچہ",
+	"homebrew-view-view": "مطالعہ",
+	"homebrew-view-viewsource": "مسودہ",
+	"homebrew-more-actions": "مزید"
+}

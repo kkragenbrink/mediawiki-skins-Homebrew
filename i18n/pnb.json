@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arslan",
+			"Khalid Mahmood"
+		]
+	},
+	"homebrew-action-addsection": "مضمون پاؤ",
+	"homebrew-action-delete": "مکاؤ",
+	"homebrew-action-move": "ٹرو",
+	"homebrew-action-protect": "بچاؤ",
+	"homebrew-action-undelete": "واپس لیاؤ",
+	"homebrew-action-unprotect": "تبدیلی بچاؤ",
+	"homebrew-view-create": "بناؤ",
+	"homebrew-view-edit": "لکھو",
+	"homebrew-view-history": "تریخ وکھاؤ",
+	"homebrew-view-view": "پڑھو",
+	"homebrew-view-viewsource": "ویکھو",
+	"homebrew-more-actions": "ہور"
+}

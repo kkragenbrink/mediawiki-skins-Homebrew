@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aleator",
+			"Anskar",
+			"Calak",
+			"Paucabot",
+			"Ssola",
+			"Vriullop",
+			"Toniher",
+			"Fitoschido"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Versió moderna del MonoBook amb un nou aspesctes i moltes millores en la usabilitat",
+	"homebrew-action-addsection": "Afegeix un tema",
+	"homebrew-action-delete": "Esborra",
+	"homebrew-action-move": "Reanomena",
+	"homebrew-action-protect": "Protegeix",
+	"homebrew-action-undelete": "Restaura",
+	"homebrew-action-unprotect": "Desprotegeix",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Modifica",
+	"homebrew-view-history": "Mostra l’historial",
+	"homebrew-view-view": "Mostra",
+	"homebrew-view-viewsource": "Mostra el codi",
+	"homebrew-more-actions": "Més"
+}

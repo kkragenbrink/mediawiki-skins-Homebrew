@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bua333",
+			"Mucalexx"
+		]
+	},
+	"homebrew-action-addsection": "An Obschnitt dazua doa",
+	"homebrew-action-delete": "Leschn",
+	"homebrew-action-move": "Vaschiabm",
+	"homebrew-action-protect": "Schitzn",
+	"homebrew-action-undelete": "Wiederherstön",
+	"homebrew-action-unprotect": "freigeem",
+	"homebrew-view-create": "Aufbaun",
+	"homebrew-view-edit": "Werkln",
+	"homebrew-view-history": "Gschicht oschaugn",
+	"homebrew-view-view": "Lesn",
+	"homebrew-view-viewsource": "Quejtext ozoagn"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sylvain2803"
+		]
+	},
+	"homebrew-action-addsection": "Shuk mushuk rimanakuyta kallarina",
+	"homebrew-action-delete": "Pichana",
+	"homebrew-action-move": "Apakuna",
+	"homebrew-action-protect": "Harkana",
+	"homebrew-action-undelete": "Kutin wacharichina",
+	"homebrew-action-unprotect": "Harkayta shukchina",
+	"homebrew-view-create": "Kamarina",
+	"homebrew-view-edit": "Killkana",
+	"homebrew-view-history": "Wiñay kawsayta rikuna",
+	"homebrew-view-view": "Killkakatina",
+	"homebrew-view-viewsource": "Pukyu killkata rikuna"
+}

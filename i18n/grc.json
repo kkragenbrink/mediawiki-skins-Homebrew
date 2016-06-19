@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Omnipaedista"
+		]
+	},
+	"homebrew-action-addsection": "Θέμα προστιθέναι",
+	"homebrew-action-delete": "Σβεννύναι",
+	"homebrew-action-move": "Κινεῖν",
+	"homebrew-action-protect": "Φυλάττειν",
+	"homebrew-action-undelete": "Ἀποκαθιστάναι",
+	"homebrew-action-unprotect": "Ἄλλαξον τὴν φύλαξιν",
+	"homebrew-view-create": "Ποιεῖν",
+	"homebrew-view-edit": "Μεταγράφειν",
+	"homebrew-view-history": "Ἱστορίαν ὁρᾶν",
+	"homebrew-view-view": "Ἀναγνῶναι",
+	"homebrew-view-viewsource": "Ὁρᾶν τὴν πηγήν"
+}

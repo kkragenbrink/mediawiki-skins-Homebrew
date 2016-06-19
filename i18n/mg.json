@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"homebrew-action-addsection": "Hanampy lohahevitra",
+	"homebrew-action-delete": "Fafana",
+	"homebrew-action-move": "Hanolo anarana",
+	"homebrew-action-protect": "Arovy",
+	"homebrew-action-undelete": "Avereno",
+	"homebrew-action-unprotect": "Hanala ny fiarovana",
+	"homebrew-view-create": "Foronona",
+	"homebrew-view-edit": "Hanova",
+	"homebrew-view-history": "Hijery ny tantara",
+	"homebrew-view-view": "Hamaky",
+	"homebrew-view-viewsource": "Hijery fango",
+	"homebrew-more-actions": "Be kokoa"
+}

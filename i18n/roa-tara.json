@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"skinname-homebrew": "Vettore",
+	"homebrew-skin-desc": "Versione moderne de MonoBook cu 'nu sguarde aggiornate e 'nu sbuènne de miglioramende sus a l'ausabbilità",
+	"homebrew.css": "/* 'U CSS ca se iacchie aqquà 'u 'ndrucane le utinde d'a masckere Vettore */",
+	"homebrew.js": "/* Ogne JavaScript aqquà avène carecate pe le utinde ca ausane 'a masckere Vettore */",
+	"homebrew-action-addsection": "Aggiunge 'na discussiona",
+	"homebrew-action-delete": "Scangille",
+	"homebrew-action-move": "Spuèste",
+	"homebrew-action-protect": "Protegge",
+	"homebrew-action-undelete": "Repristine",
+	"homebrew-action-unprotect": "Cange 'a protezione",
+	"homebrew-view-create": "Ccreje",
+	"homebrew-view-edit": "Cange",
+	"homebrew-view-history": "Vide 'u cunde",
+	"homebrew-view-view": "Ligge",
+	"homebrew-view-viewsource": "Vide 'u sorgende",
+	"homebrew-more-actions": "De cchiù"
+}

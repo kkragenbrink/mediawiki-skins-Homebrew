@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huuchin"
+		]
+	},
+	"homebrew-action-addsection": "Төриг немх",
+	"homebrew-action-delete": "Һарһх",
+	"homebrew-action-move": "Көндәх",
+	"homebrew-action-protect": "Харсх",
+	"homebrew-action-undelete": "Һарһх биш",
+	"homebrew-action-unprotect": "Харсх биш",
+	"homebrew-view-create": "Бүтәх",
+	"homebrew-view-edit": "Чиклх",
+	"homebrew-view-history": "Тууҗин хәләвр",
+	"homebrew-view-view": "Умшлһн",
+	"homebrew-view-viewsource": "Темдгллһнә хәләвр"
+}

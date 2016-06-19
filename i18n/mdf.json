@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Numulunj pilgae",
+			"Metsavend"
+		]
+	},
+	"homebrew-action-addsection": "Поладомс мезень колга корхтамс",
+	"homebrew-action-delete": "Нардамс",
+	"homebrew-action-move": "Шашфтомс",
+	"homebrew-action-protect": "Араламс",
+	"homebrew-action-undelete": "Мърдафтомс",
+	"homebrew-action-unprotect": "Араламать полафтомс",
+	"homebrew-view-create": "Тиемс",
+	"homebrew-view-edit": "Петнемс",
+	"homebrew-view-history": "История няфтемс",
+	"homebrew-view-view": "Морафтомс",
+	"homebrew-view-viewsource": "Лисьма няфтемс",
+	"homebrew-more-actions": "Сяда лама"
+}

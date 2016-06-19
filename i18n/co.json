@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paulu"
+		]
+	},
+	"homebrew-action-addsection": "Aghjunghje discussione",
+	"homebrew-action-delete": "Supprimà",
+	"homebrew-action-move": "Cullucà",
+	"homebrew-action-protect": "Pruteghje",
+	"homebrew-action-unprotect": "Cambià a prutezzione",
+	"homebrew-view-create": "Creà",
+	"homebrew-view-edit": "Mudificà",
+	"homebrew-view-history": "Vede a cronolugia",
+	"homebrew-view-view": "Leghje",
+	"homebrew-view-viewsource": "Vede a surghjente"
+}

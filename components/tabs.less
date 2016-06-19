@@ -1,0 +1,238 @@
+/*
+Styling for namespace tabs (page, discussion) and views (read, edit, view history, watch and other actions)
+*/
+
+/* Navigation Labels */
+div.homebrewTabs h3 {
+	display: none;
+}
+
+/* Namespaces and Views */
+div.homebrewTabs {
+	/* @noflip */
+	float: left;
+//	.background-image('images/tab-break.png');
+	background-position: bottom left;
+	background-repeat: no-repeat;
+	padding-left: 1px;
+
+	ul {
+		/* @noflip */
+		float: left;
+		list-style-type: none;
+		list-style-image: none;
+		margin: 0;
+		padding: 0;
+//		.background-image('images/tab-break.png');
+		background-position: right bottom;
+		background-repeat: no-repeat;
+
+		li {
+			/* @noflip */
+			float: left;
+			/* For IE6, overridden later to display:block by modern browsers */
+			display: inline-block;
+			margin: 0;
+			padding: 0;
+//			background-color: #f3f3f3;
+//			.background-image('images/tab-normal-fade.png');
+			background-position: bottom left;
+			background-repeat: repeat-x;
+			white-space: nowrap;
+		}
+
+		/* IGNORED BY IE6 which doesn't support child selector */
+		> li {
+			display: block;
+		}
+	}
+
+	li {
+		&.new {
+			a,
+			a:visited{
+				color: #CCC;
+			}
+		}
+
+		&.selected {
+//			.background-image('images/tab-current-fade.png');
+			a,
+			a:visited{
+				color: #FFF;
+				text-decoration: none;
+			}
+		}
+
+		&.icon {
+			a {
+				background-position: bottom right;
+				background-repeat: no-repeat;
+			}
+		}
+
+		a {
+			/* For IE6, overridden later to display:block by modern browsers */
+			display: inline-block;
+			padding-left: 0.5em;
+			padding-right: 0.5em;
+			color: #CCC;
+			cursor: pointer;
+			font-size: 0.8em;
+		}
+
+		/* Ignored by IE6 which doesn't support child selector */
+		> a {
+			display: block;
+		}
+	}
+
+	span {
+		display: inline-block;
+//		.background-image('images/tab-break.png');
+		background-position: bottom right;
+		background-repeat: no-repeat;
+
+		a  {
+			/* For IE6, overridden later to display:block by modern browsers */
+			display: inline-block;
+			padding-top: 1.25em;
+		}
+
+		/* Ignored by IE6 which doesn't support child selector */
+		> a {
+			/* @noflip */
+			float: left;
+			display: block;
+		}
+	}
+}
+
+/* Variants and Actions */
+div.homebrewMenu {
+	/* @noflip */
+	direction: ltr;
+	/* @noflip */
+	float: left;
+	cursor: pointer;
+	position: relative;
+}
+
+body.rtl div.homebrewMenu {
+	/* @noflip */
+	direction: rtl;
+}
+
+div#mw-head div.homebrewMenu h3 {
+	/* @noflip */
+	float: left;
+	.background-image('images/tab-break.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	font-size: 1em;
+	// This effectively moves the "background border" outside of the element to act like a real
+	// border. It is necessary for the dropdown (div.homebrewMenu div.menu) to align well.
+	padding-right: 1px;
+	margin-right: -1px;
+}
+
+div.homebrewMenu h3 span {
+	display: block;
+	font-size: 0.8em;
+	padding-left: 0.7em;
+	padding-top: 1.1em;
+	margin-right: 20px;
+	font-weight: normal;
+	color: #CCC;
+}
+
+div.homebrewMenu h3 a {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 20px;
+	.background-image-svg('images/arrow-down-icon.svg', 'images/arrow-down-icon.png');
+	background-position: 100% 70%;
+	background-repeat: no-repeat;
+	.transition(background-position 250ms);
+}
+
+div.homebrewMenu.menuForceShow h3 a {
+	background-position: 100% 100%;
+}
+
+div.homebrewMenuFocus h3 a {
+	.background-image-svg('images/arrow-down-focus-icon.svg', 'images/arrow-down-focus-icon.png');
+}
+
+div.homebrewMenu div.menu {
+	// Match the width of the dropdown "heading" (the tab)
+	min-width: 100%;
+	position: absolute;
+	top: 2em;
+	left: -1px;
+	background-color: white;
+	border: solid 1px silver;
+	border-top-width: 0;
+	clear: both;
+	text-align: left;
+	display: none;
+	// overlap indicators (which has z-index 1, too)
+	z-index: 1;
+}
+
+/* Enable forcing showing of the menu for accessibility */
+div.homebrewMenu:hover div.menu,
+div.homebrewMenu.menuForceShow div.menu {
+	display: block;
+}
+
+div.homebrewMenu ul {
+	list-style-type: none;
+	list-style-image: none;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+/* Fixes old versions of FireFox */
+div.homebrewMenu ul,
+x:-moz-any-link {
+	min-width: 5em;
+}
+
+/* Returns things back to normal in modern versions of FireFox */
+div.homebrewMenu ul,
+x:-moz-any-link,
+x:default {
+	min-width: 0;
+}
+
+div.homebrewMenu li {
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+/* OVERRIDDEN BY COMPLIANT BROWSERS */
+div.homebrewMenu li a {
+	display: inline-block;
+	padding: 0.5em;
+	white-space: nowrap;
+	color: @menu-link-color;
+	cursor: pointer;
+	font-size: 0.8em;
+}
+
+/* IGNORED BY IE6 */
+div.homebrewMenu li > a {
+	display: block;
+}
+
+div.homebrewMenu li.selected a,
+div.homebrewMenu li.selected a:visited {
+	color: #333;
+	text-decoration: none;
+}
+
+@import 'watchstar.less';

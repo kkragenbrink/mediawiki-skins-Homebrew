@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"E THP",
+			"Ebrahimi-amir",
+			"Mousa",
+			"Amir a57"
+		]
+	},
+	"homebrew-action-addsection": "قوْنو آرتیر",
+	"homebrew-action-delete": "سیل",
+	"homebrew-action-move": "داشی",
+	"homebrew-action-protect": "قوْرو",
+	"homebrew-action-undelete": "سیلمگی قایتار",
+	"homebrew-action-unprotect": "قوْروماغی دَییشدیر",
+	"homebrew-view-create": "یارات",
+	"homebrew-view-edit": "دَییشدیر",
+	"homebrew-view-history": "گئچمیشه باخ",
+	"homebrew-view-view": "اوْخو",
+	"homebrew-view-viewsource": "قایناغا باخ",
+	"homebrew-more-actions": "داها"
+}

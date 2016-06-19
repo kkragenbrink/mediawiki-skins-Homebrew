@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Filipinayzd"
+		]
+	},
+	"homebrew-action-delete": "Puraon",
+	"homebrew-action-move": "Ilipat",
+	"homebrew-action-protect": "Protektaran",
+	"homebrew-action-undelete": "Ibalik",
+	"homebrew-action-unprotect": "Ribayan a proteksyon",
+	"homebrew-view-create": "Gumibo",
+	"homebrew-view-edit": "Balyowan",
+	"homebrew-view-history": "Baydon a kasaysayan",
+	"homebrew-view-view": "Basahon",
+	"homebrew-view-viewsource": "Baydon a ginikanan",
+	"homebrew-more-actions": "Dakul pa"
+}

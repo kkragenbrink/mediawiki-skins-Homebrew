@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"homebrew-action-addsection": "Мывзу зијод кардеј",
+	"homebrew-action-delete": "Рәдд кардеј",
+	"homebrew-action-move": "Номи дәгиш кардеј",
+	"homebrew-action-protect": "Мыдофијә кардеј",
+	"homebrew-action-undelete": "Бәрпо кардеј",
+	"homebrew-action-unprotect": "Мыдофијә дәгиш кардеј",
+	"homebrew-view-create": "Офәјеј",
+	"homebrew-view-edit": "Сәрост кардеј",
+	"homebrew-view-history": "Тарых",
+	"homebrew-view-view": "Һандемон",
+	"homebrew-view-viewsource": "Дијә кардеј"
+}

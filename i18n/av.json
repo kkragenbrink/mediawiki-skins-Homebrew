@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар",
+			"Gazimagomedov"
+		]
+	},
+	"homebrew-skin-desc": "MonoBook'алъул цӀияб версия цияб куцгун ва цӀиял юзабилитиялгун",
+	"homebrew-action-addsection": "Тема жубазе",
+	"homebrew-action-delete": "БацIцIине",
+	"homebrew-action-move": "ЦӀар хисизе",
+	"homebrew-action-protect": "Хиса-басияздасан цIунизе",
+	"homebrew-action-undelete": "БукӀараб гӀадин гьабизе",
+	"homebrew-action-unprotect": "ЦӀуни хисизе",
+	"homebrew-view-create": "Гьабизе",
+	"homebrew-view-edit": "Хисизабизе",
+	"homebrew-view-history": "Тарих балагьизе",
+	"homebrew-view-view": "ЦӀализе",
+	"homebrew-view-viewsource": "Вики-текст балагьизе",
+	"homebrew-more-actions": "Жеги"
+}

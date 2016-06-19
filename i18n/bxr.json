@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjargal",
+			"Elvonudinium"
+		]
+	},
+	"homebrew-action-addsection": "Һэдэб нэмэхэ",
+	"homebrew-action-delete": "Усадхаха",
+	"homebrew-action-move": "Зөөхэ",
+	"homebrew-view-create": "Үүдхэхэ",
+	"homebrew-view-edit": "Заһабарилха",
+	"homebrew-view-history": "Түүхые хараха",
+	"homebrew-view-view": "Уншаха",
+	"homebrew-view-viewsource": "эшэ үндэһэндэнь хандаха"
+}

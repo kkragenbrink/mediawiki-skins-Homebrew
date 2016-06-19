@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84",
+			"Rudko",
+			"Sudo77(new)",
+			"KuboF",
+			"Mikulas1"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Moderná verzia MonoBooku so sviežim vzhľadom a vylepšenou použiteľnosťou",
+	"homebrew.css": "/* Tu umiestnené CSS bude ovplyvňovať používateľov štýlu Homebrew */",
+	"homebrew.js": "/* Tu sa nachádzajúci JavaScript sa načíta používateľom vzhľadu Homebrew */",
+	"homebrew-action-addsection": "Pridať tému",
+	"homebrew-action-delete": "Zmazať",
+	"homebrew-action-move": "Presunúť",
+	"homebrew-action-protect": "Zamknúť",
+	"homebrew-action-undelete": "Obnoviť",
+	"homebrew-action-unprotect": "Zmeniť stav ochrany",
+	"homebrew-view-create": "Vytvoriť",
+	"homebrew-view-edit": "Upraviť",
+	"homebrew-view-history": "Zobraziť históriu",
+	"homebrew-view-view": "Čítať",
+	"homebrew-view-viewsource": "Zobraziť zdroj",
+	"homebrew-more-actions": "Viac"
+}

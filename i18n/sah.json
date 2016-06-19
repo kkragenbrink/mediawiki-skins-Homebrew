@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"HalanTul"
+		]
+	},
+	"homebrew-action-addsection": "Тиэмэ эбии",
+	"homebrew-action-delete": "Сот",
+	"homebrew-action-move": "Аатын уларыт",
+	"homebrew-action-protect": "Уларыйбат гын",
+	"homebrew-action-undelete": "Төннөр",
+	"homebrew-action-unprotect": "Көмүскэлин уларыт",
+	"homebrew-view-create": "Ай",
+	"homebrew-view-edit": "Уларыт",
+	"homebrew-view-history": "Устуоруйатын көрүү",
+	"homebrew-view-view": "Ааҕыы",
+	"homebrew-view-viewsource": "Бэлиэлэрин көрүү",
+	"homebrew-more-actions": "Эбии"
+}

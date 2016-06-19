@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Isidore Dantas",
+			"The Discoverer"
+		]
+	},
+	"homebrew-action-addsection": "Vixoi zodd",
+	"homebrew-action-delete": "Kadd",
+	"homebrew-action-move": "Zago bodol",
+	"homebrew-action-protect": "Rakh",
+	"homebrew-view-create": "Roch",
+	"homebrew-view-edit": "Bodol",
+	"homebrew-view-history": "Itihas polloi",
+	"homebrew-view-view": "Vach",
+	"homebrew-view-viewsource": "Mull polloi",
+	"homebrew-more-actions": "Anik"
+}

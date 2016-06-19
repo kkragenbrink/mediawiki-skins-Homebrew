@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paul Beppler",
+			"Midnight Gambler"
+		]
+	},
+	"homebrew-action-addsection": "Abschnitt hinzufüche",
+	"homebrew-action-delete": "Lösche",
+	"homebrew-action-move": "Verschiebe",
+	"homebrew-action-protect": "Schütz",
+	"homebrew-action-undelete": "Wiederherstelle",
+	"homebrew-action-unprotect": "Seiteschutz ännre",
+	"homebrew-view-create": "Erstell",
+	"homebrew-view-edit": "Beoorbeite",
+	"homebrew-view-history": "Versionsgeschicht",
+	"homebrew-view-view": "Lese",
+	"homebrew-view-viewsource": "Quelltext oonzeiche",
+	"homebrew-more-actions": "Meahr"
+}

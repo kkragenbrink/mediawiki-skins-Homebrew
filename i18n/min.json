@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iwan Novirion",
+			"Luthfi94",
+			"VoteITP"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew-action-addsection": "Bagian baru",
+	"homebrew-action-delete": "Hapuih",
+	"homebrew-action-move": "Pindahkan",
+	"homebrew-action-protect": "Linduangkan",
+	"homebrew-action-undelete": "Pambatalan pangapuihan",
+	"homebrew-action-unprotect": "Tuka palinduangan",
+	"homebrew-view-create": "Buek",
+	"homebrew-view-edit": "Suntiang",
+	"homebrew-view-history": "Riwayaik",
+	"homebrew-view-view": "Baco",
+	"homebrew-view-viewsource": "Caliak sumber"
+}

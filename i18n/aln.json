@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bresta"
+		]
+	},
+	"homebrew.css": "/* CSSi i vednosun këtu ka me i prekë shfrytëzuesit e dukjes Homebrew */",
+	"homebrew.js": "/* Çdo JavaScript këtu ka me u ngarkue për shfrytëzuesit që përdorin dukjen Homebrew */",
+	"homebrew-action-addsection": "Shto temë",
+	"homebrew-action-delete": "Fshij",
+	"homebrew-action-move": "Zhvendos",
+	"homebrew-action-protect": "Mbroj",
+	"homebrew-action-undelete": "Kthe fshimjen mbrapsht",
+	"homebrew-action-unprotect": "Hiq mbrojtjen",
+	"homebrew-view-create": "Krijo",
+	"homebrew-view-edit": "Redakto",
+	"homebrew-view-history": "Shih historinë",
+	"homebrew-view-view": "Lexo",
+	"homebrew-view-viewsource": "Shih kodin"
+}

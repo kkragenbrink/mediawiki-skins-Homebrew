@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aritra",
+			"Ashok modhvadia",
+			"Dsvyas",
+			"KartikMistry"
+		]
+	},
+	"homebrew-skin-desc": "તાજા દેખાવ અને વધુ ઉપયોગી સુધારાઓ સાથે મોનોબુકની આધુનિક આવૃત્તિ",
+	"homebrew-action-addsection": "નવો વિષય",
+	"homebrew-action-delete": "રદ કરો",
+	"homebrew-action-move": "ખસેડો",
+	"homebrew-action-protect": "સુરક્ષિત કરો",
+	"homebrew-action-undelete": "રદ કરેલું પાછું વાળો",
+	"homebrew-action-unprotect": "સુરક્ષા બદલો",
+	"homebrew-view-create": "બનાવો",
+	"homebrew-view-edit": "ફેરફાર કરો",
+	"homebrew-view-history": "ઇતિહાસ જુઓ",
+	"homebrew-view-view": "વાંચો",
+	"homebrew-view-viewsource": "સ્રોત જુઓ",
+	"homebrew-more-actions": "વધુ"
+}

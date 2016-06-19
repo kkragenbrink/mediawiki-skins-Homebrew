@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"DasRakel"
+		]
+	},
+	"homebrew-action-delete": "Wegdoen",
+	"homebrew-action-move": "Ernoemn",
+	"homebrew-view-create": "Anmoakn",
+	"homebrew-view-edit": "Bewerkn",
+	"homebrew-view-history": "Geschiedenisse bekykn",
+	"homebrew-view-view": "Leezn",
+	"homebrew-view-viewsource": "Brontekst bekykn"
+}

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew-skin-desc": "Moderní verze MonoBooku s novějším vzhledem a vylepšenou použitelností",
+	"homebrew.css": "/* Zde uvedené CSS bude ovlivňovat pouze styl „Vektor“ */",
+	"homebrew.js": "/* JavaScript pro uživatele používající vzhled „Vektor“ */",
+	"homebrew-action-addsection": "Přidat téma",
+	"homebrew-action-delete": "Smazat",
+	"homebrew-action-move": "Přesunout",
+	"homebrew-action-protect": "Zamknout",
+	"homebrew-action-undelete": "Obnovit",
+	"homebrew-action-unprotect": "Změnit zámek",
+	"homebrew-view-create": "Založit",
+	"homebrew-view-edit": "Editovat",
+	"homebrew-view-history": "Zobrazit historii",
+	"homebrew-view-view": "Číst",
+	"homebrew-view-viewsource": "Zobrazit zdrojový kód",
+	"homebrew-more-actions": "Další"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iketsi",
+			"Qaqqalik"
+		]
+	},
+	"homebrew-action-addsection": "Imm. nutaaq",
+	"homebrew-action-move": "Nuuguk",
+	"homebrew-view-create": "Pilersiguk",
+	"homebrew-view-edit": "Aaqqissoruk",
+	"homebrew-view-history": "Oqalutt.",
+	"homebrew-view-view": "Takuuk",
+	"homebrew-view-viewsource": "Toqqavia takuuk"
+}

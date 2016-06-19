@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marozols",
+			"Papuass"
+		]
+	},
+	"homebrew-action-addsection": "Jauna sadaļa",
+	"homebrew-action-delete": "Dzēst",
+	"homebrew-action-move": "Pārvietot",
+	"homebrew-action-protect": "Aizsargāt",
+	"homebrew-action-undelete": "Atjaunot",
+	"homebrew-action-unprotect": "Mainīt aizsardzību",
+	"homebrew-view-create": "Izveidot",
+	"homebrew-view-edit": "Labot",
+	"homebrew-view-history": "Hronoloģija",
+	"homebrew-view-view": "Skatīt",
+	"homebrew-view-viewsource": "Aplūkot kodu",
+	"homebrew-more-actions": "Vairāk"
+}

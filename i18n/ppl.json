@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"A R King"
+		]
+	},
+	"homebrew-action-addsection": "Yankwik temaj",
+	"homebrew-action-delete": "Shikishti",
+	"homebrew-action-move": "Shikijkwani",
+	"homebrew-action-undelete": "Shalkwepa",
+	"homebrew-view-create": "Shikchiwa",
+	"homebrew-view-edit": "Shikpata",
+	"homebrew-view-history": "Ken mupatak",
+	"homebrew-view-view": "Shiamatachia",
+	"homebrew-view-viewsource": "Shikita ne codigoj"
+}

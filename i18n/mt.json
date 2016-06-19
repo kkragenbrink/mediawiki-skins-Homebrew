@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli",
+			"Leli Forte"
+		]
+	},
+	"homebrew-action-addsection": "Żid diskussjoni",
+	"homebrew-action-delete": "Ħassar",
+	"homebrew-action-move": "Mexxi",
+	"homebrew-action-protect": "Ipproteġi",
+	"homebrew-action-undelete": "Irkupra",
+	"homebrew-action-unprotect": "Biddel il-protezzjoni",
+	"homebrew-view-create": "Oħloq",
+	"homebrew-view-edit": "Editja",
+	"homebrew-view-history": "Ara l-kronoloġija",
+	"homebrew-view-view": "Aqra",
+	"homebrew-view-viewsource": "Ara s-sors",
+	"homebrew-more-actions": "Aktar"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chaduvari",
+			"Kiranmayee",
+			"Praveen Illa",
+			"Ravichandra",
+			"Veeven"
+		]
+	},
+	"skinname-homebrew": "వెక్టర్",
+	"homebrew-action-addsection": "విషయాన్ని చేర్చు",
+	"homebrew-action-delete": "తొలగించు",
+	"homebrew-action-move": "తరలించు",
+	"homebrew-action-protect": "సంరక్షించు",
+	"homebrew-action-undelete": "తొలగింపును రద్దుచెయ్యి",
+	"homebrew-action-unprotect": "సంరక్షణను మార్చు",
+	"homebrew-view-create": "సృష్టించు",
+	"homebrew-view-edit": "సవరించు",
+	"homebrew-view-history": "చరిత్రను చూడండి",
+	"homebrew-view-view": "చదువు",
+	"homebrew-view-viewsource": "మూలాన్ని చూపించు",
+	"homebrew-more-actions": "మరిన్ని"
+}

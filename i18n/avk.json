@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wikimistusik"
+		]
+	},
+	"homebrew-action-addsection": "Loplekura va detce",
+	"homebrew-action-delete": "Sulara",
+	"homebrew-action-move": "Arrundara",
+	"homebrew-action-protect": "Nendara",
+	"homebrew-view-create": "Redura",
+	"homebrew-view-edit": "Betara",
+	"homebrew-view-history": "Wira va izvot",
+	"homebrew-view-view": "Belira",
+	"homebrew-view-viewsource": "klitawira"
+}

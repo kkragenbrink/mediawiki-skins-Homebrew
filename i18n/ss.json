@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sibande"
+		]
+	},
+	"homebrew-action-addsection": "Ngeta sihloko",
+	"homebrew-action-move": "Khweshisa",
+	"homebrew-view-create": "Create",
+	"homebrew-view-edit": "Hlela",
+	"homebrew-view-history": "Bona umlandvo",
+	"homebrew-view-view": "Fundza"
+}

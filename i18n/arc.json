@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"334a",
+			"Basharh",
+			"Michaelovic"
+		]
+	},
+	"homebrew-action-addsection": "ܐܘܣܦ ܡܠܘܐܐ",
+	"homebrew-action-delete": "ܫܘܦ",
+	"homebrew-action-move": "ܫܢܝ",
+	"homebrew-action-protect": "ܛܪ",
+	"homebrew-action-undelete": "ܠܐ ܫܘܦ",
+	"homebrew-action-unprotect": "ܫܚܠܦ ܢܛܝܪܘܬܐ",
+	"homebrew-view-create": "ܒܪܝ",
+	"homebrew-view-edit": "ܫܚܠܦ",
+	"homebrew-view-history": "ܚܙܝ ܬܫܥܝܬܐ",
+	"homebrew-view-view": "ܩܪܝ",
+	"homebrew-view-viewsource": "ܚܙܝ ܡܒܘܥܐ"
+}

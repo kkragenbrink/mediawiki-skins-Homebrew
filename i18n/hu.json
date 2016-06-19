@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bdamokos",
+			"Dani",
+			"Dj",
+			"Misibacsi",
+			"Tacsipacsi",
+			"Tgr"
+		]
+	},
+	"homebrew-skin-desc": "A MonoBook felület modern változata frissebb kinézettel és sok használhatóságot javító fejlesztéssel",
+	"homebrew.css": "/* Az ide elhelyezett CSS hatással lesz a Homebrew felület használóira */",
+	"homebrew.js": "/* A Homebrew felületet használó szerkesztők számára betöltendő JavaScriptek */",
+	"homebrew-action-addsection": "Új téma nyitása",
+	"homebrew-action-delete": "Törlés",
+	"homebrew-action-move": "Átnevezés",
+	"homebrew-action-protect": "Lapvédelem",
+	"homebrew-action-undelete": "Visszaállítás",
+	"homebrew-action-unprotect": "Védelem módosítása",
+	"homebrew-view-create": "Létrehozás",
+	"homebrew-view-edit": "Szerkesztés",
+	"homebrew-view-history": "Laptörténet",
+	"homebrew-view-view": "Olvasás",
+	"homebrew-view-viewsource": "A lap forrása",
+	"homebrew-more-actions": "Több"
+}

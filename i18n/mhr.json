@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Azim",
+			"Sergey Ivanov",
+			"Сай",
+			"Санюн Вадик"
+		]
+	},
+	"homebrew-action-addsection": "У ӱжашым тӱҥалаш",
+	"homebrew-action-delete": "Шӧраш",
+	"homebrew-action-move": "Лӱмым вашталташ",
+	"homebrew-action-protect": "Тӧрлатымаш деч аралаш",
+	"homebrew-action-undelete": "Шӧрымым пӧртылаш",
+	"homebrew-action-unprotect": "Оролым вашталташ",
+	"homebrew-view-create": "Ышташ",
+	"homebrew-view-edit": "Тӧрлаташ",
+	"homebrew-view-history": "Эртымгорным ончалаш",
+	"homebrew-view-view": "Лудаш",
+	"homebrew-view-viewsource": "Тӱҥалтыш текстым ончалаш"
+}

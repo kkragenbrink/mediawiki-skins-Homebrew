@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"skinname-homebrew": "Väktor",
+	"homebrew-skin-desc": "En modärne Väsjohn vun dä älldere Bedehnbovverfläsch „Monobooch“ met enem neue Ußsinn un Verbäßeronge bem Bedehne.",
+	"homebrew.css": "/* Dat CSS heh aan dä Schtäll wirrek blohß op de Bedehnbovverfläsch „Väktor“ */",
+	"homebrew.js": "/* De JavaSkreppte fun heh krejje alle Sigge met dä Bedehnbovverfläsch „Väktor“ jeschek */",
+	"homebrew-action-addsection": "Ne neue Afschnet onge drahn!",
+	"homebrew-action-delete": "Fottschmihße!",
+	"homebrew-action-move": "Ömnänne!",
+	"homebrew-action-protect": "Schöze!",
+	"homebrew-action-undelete": "Zerökholle!",
+	"homebrew-action-unprotect": "Schoz ändere!",
+	"homebrew-view-create": "Neu Schrihve!",
+	"homebrew-view-edit": "Änndere!",
+	"homebrew-view-history": "Väsjohne zeije!",
+	"homebrew-view-view": "Lässe!",
+	"homebrew-view-viewsource": "Der Wikkitäx aanlohre!",
+	"homebrew-more-actions": "Mih"
+}

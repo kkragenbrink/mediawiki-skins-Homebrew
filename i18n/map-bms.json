@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"homebrew-action-addsection": "Nambah topik",
+	"homebrew-action-delete": "Busek",
+	"homebrew-action-move": "Pindah",
+	"homebrew-action-protect": "Reksa",
+	"homebrew-action-undelete": "Batalna pambusakan",
+	"homebrew-action-unprotect": "Owahi pangreksan",
+	"homebrew-view-create": "Gawe",
+	"homebrew-view-edit": "Sunting",
+	"homebrew-view-history": "Sajarah kaca",
+	"homebrew-view-view": "Waca",
+	"homebrew-view-viewsource": "Deleng sumbere"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ex13",
+			"Tivek",
+			"Bugoslav"
+		]
+	},
+	"homebrew-action-addsection": "Dodaj temu",
+	"homebrew-action-delete": "Izbriši",
+	"homebrew-action-move": "Premjesti",
+	"homebrew-action-protect": "Zaštiti",
+	"homebrew-action-undelete": "Vrati",
+	"homebrew-action-unprotect": "Promijeni zaštitu",
+	"homebrew-view-create": "Započni",
+	"homebrew-view-edit": "Uredi",
+	"homebrew-view-history": "Vidi stare izmjene",
+	"homebrew-view-view": "Čitaj",
+	"homebrew-view-viewsource": "Vidi izvor",
+	"homebrew-more-actions": "Više"
+}

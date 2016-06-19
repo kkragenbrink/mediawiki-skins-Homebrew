@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Szonja"
+		]
+	},
+	"homebrew-action-addsection": "Tilja topikos",
+	"homebrew-action-delete": "Tšuu nikki",
+	"homebrew-action-undelete": "Tšuu paale",
+	"homebrew-view-create": "Luona",
+	"homebrew-view-edit": "Muoka",
+	"homebrew-view-history": "Sik histores",
+	"homebrew-view-view": "Draba",
+	"homebrew-view-viewsource": "Sik navasiinako koodos"
+}

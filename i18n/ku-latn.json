@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ferhengvan",
+			"Gomada",
+			"Bikarhêner",
+			"George Animal"
+		]
+	},
+	"homebrew-action-addsection": "Mijarekê lê zêde bike",
+	"homebrew-action-delete": "Jê bibe",
+	"homebrew-action-move": "Nav biguherîne",
+	"homebrew-action-protect": "Biparêze",
+	"homebrew-action-undelete": "Jê nebe",
+	"homebrew-action-unprotect": "Parastinê biguherîne",
+	"homebrew-view-create": "Çêke",
+	"homebrew-view-edit": "Biguherîne",
+	"homebrew-view-history": "Dîrokê bibîne",
+	"homebrew-view-view": "Bixwîne",
+	"homebrew-view-viewsource": "Çavkaniyan bibîne",
+	"homebrew-more-actions": "Bêhtir"
+}

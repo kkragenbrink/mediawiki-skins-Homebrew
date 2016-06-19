@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ker",
+			"Pikne",
+			"WikedKentaur"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew-skin-desc": "MonoBooki uuem versioon värskema väljanägemise ja mitme kasutajasõbralikuma täiendusega",
+	"homebrew.css": "/* Siin asuv kaskaadilaadistik puudutab kõiki Vektori-kujunduse kasutajaid. */",
+	"homebrew.js": "/* Siin asuv JavaScript laaditakse kõigi Vektori-kujunduse kasutajate jaoks. */",
+	"homebrew-action-addsection": "Lisa teema",
+	"homebrew-action-delete": "Kustuta",
+	"homebrew-action-move": "Teisalda",
+	"homebrew-action-protect": "Kaitse",
+	"homebrew-action-undelete": "Taasta",
+	"homebrew-action-unprotect": "Muuda kaitset",
+	"homebrew-view-create": "Loo",
+	"homebrew-view-edit": "Muuda",
+	"homebrew-view-history": "Näita ajalugu",
+	"homebrew-view-view": "Vaata",
+	"homebrew-view-viewsource": "Vaata lähteteksti",
+	"homebrew-more-actions": "Veel"
+}

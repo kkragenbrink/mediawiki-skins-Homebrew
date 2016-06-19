@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Garas",
+			"Homo",
+			"Matasg",
+			"Perkunas",
+			"Hugo.arg",
+			"Tomasdd",
+			"Albertas"
+		]
+	},
+	"skinname-homebrew": "Vektorinė",
+	"homebrew-skin-desc": "Moderni MonoBook versija su šviežiausia išvaizda ir daugybe panaudojamumo patobulinimų",
+	"homebrew-action-addsection": "Pridėti temą",
+	"homebrew-action-delete": "Ištrinti",
+	"homebrew-action-move": "Pervardyti",
+	"homebrew-action-protect": "Užrakinti",
+	"homebrew-action-undelete": "Atkurti",
+	"homebrew-action-unprotect": "Keisti apsaugą",
+	"homebrew-view-create": "Kurti",
+	"homebrew-view-edit": "Redaguoti",
+	"homebrew-view-history": "Peržiūrėti istoriją",
+	"homebrew-view-view": "Skaityti",
+	"homebrew-view-viewsource": "Žiūrėti kodą",
+	"homebrew-more-actions": "Daugiau"
+}

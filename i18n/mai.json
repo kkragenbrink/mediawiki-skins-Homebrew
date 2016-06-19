@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ggajendra",
+			"Umeshberma",
+			"Tulsi Bhagat"
+		]
+	},
+	"skinname-homebrew": "सदिश",
+	"homebrew-action-addsection": "विचार-बिन्दु जोड़ू",
+	"homebrew-action-delete": "मेटाउ",
+	"homebrew-action-move": "घसकाउ",
+	"homebrew-action-protect": "रक्षण करू",
+	"homebrew-action-undelete": "आपस लाउ",
+	"homebrew-action-unprotect": "सुरक्षा बदलू",
+	"homebrew-view-create": "बनाउ",
+	"homebrew-view-edit": "सम्पादन करू",
+	"homebrew-view-history": "इतिहास देखू",
+	"homebrew-view-view": "पढ़ू",
+	"homebrew-view-viewsource": "जड़ि देखू",
+	"homebrew-more-actions": "आर"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Katimawan2005",
+			"Val2397"
+		]
+	},
+	"homebrew-action-addsection": "Dagdagan ing pisasabian",
+	"homebrew-action-delete": "Buran",
+	"homebrew-action-move": "Iyalis",
+	"homebrew-action-protect": "Protectan/kambilan",
+	"homebrew-action-undelete": "Isubli/iurung ya pangabura",
+	"homebrew-action-unprotect": "Idayu ya panga-protecta",
+	"homebrew-view-create": "Maglalang",
+	"homebrew-view-edit": "Alilan",
+	"homebrew-view-history": "Lawen ya ing amlat",
+	"homebrew-view-view": "Basan",
+	"homebrew-view-viewsource": "Lawen ya ing pikuanan"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kening Aldgilles",
+			"SK-luuut",
+			"Robin0van0der0vliet"
+		]
+	},
+	"homebrew-action-addsection": "Kopke tafoegje",
+	"homebrew-action-delete": "Fuortsmite",
+	"homebrew-action-move": "Omneame",
+	"homebrew-action-protect": "Beskermje",
+	"homebrew-action-undelete": "Tebeksette",
+	"homebrew-action-unprotect": "Beskerming fuorthelje",
+	"homebrew-view-create": "Oanmeitsje",
+	"homebrew-view-edit": "Bewurkje",
+	"homebrew-view-history": "Skiednis sjen litte",
+	"homebrew-view-view": "Lês",
+	"homebrew-view-viewsource": "Besjoch de boarne",
+	"homebrew-more-actions": "Mear"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dark Eagle"
+		]
+	},
+	"homebrew-action-addsection": "Dalikt padaļu",
+	"homebrew-action-delete": "Iztreit",
+	"homebrew-action-move": "Puorceļt",
+	"homebrew-action-protect": "Apsorguot",
+	"homebrew-action-unprotect": "Puormeit apsardzeibu",
+	"homebrew-view-edit": "Pataiseit",
+	"homebrew-view-history": "Viesture",
+	"homebrew-view-view": "Vērtīs"
+}

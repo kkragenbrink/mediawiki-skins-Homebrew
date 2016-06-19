@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Modern Versioun vu Monobook mat frëschem Look a ville Verbesserunge vun der Benotzerfrëndlechkeet",
+	"homebrew.css": "/* CSS deen hei steet huet Afloss op all Benotzer vum Ausgesinn Homebrew */",
+	"homebrew.js": "/* All JavaScript hei gëtt gelueden esoubal ee Benotzer d'Ausgesinn Homebrew benotzt */",
+	"homebrew-action-addsection": "Sujet derbäisetzen",
+	"homebrew-action-delete": "Läschen",
+	"homebrew-action-move": "Réckelen",
+	"homebrew-action-protect": "Spären",
+	"homebrew-action-undelete": "Restauréieren",
+	"homebrew-action-unprotect": "Spär änneren",
+	"homebrew-view-create": "Uleeën",
+	"homebrew-view-edit": "Änneren",
+	"homebrew-view-history": "Versioune weisen",
+	"homebrew-view-view": "Liesen",
+	"homebrew-view-viewsource": "Quellcode weisen",
+	"homebrew-more-actions": "Méi"
+}

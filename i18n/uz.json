@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abdulla",
+			"Arystanbek",
+			"Casual",
+			"CoderSI",
+			"Sociologist",
+			"Nataev"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew-action-addsection": "Mavzu qoʻshish",
+	"homebrew-action-delete": "O‘chirish",
+	"homebrew-action-move": "Ko‘chirish",
+	"homebrew-action-protect": "Himoyalash",
+	"homebrew-action-undelete": "Tiklash",
+	"homebrew-action-unprotect": "Himoyani oʻzgartirish",
+	"homebrew-view-create": "Yaratish",
+	"homebrew-view-edit": "Tahrirlash",
+	"homebrew-view-history": "Tarix",
+	"homebrew-view-view": "Mutolaa",
+	"homebrew-view-viewsource": "Manbasini koʻrish",
+	"homebrew-more-actions": "Yana"
+}

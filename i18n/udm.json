@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andrewboltachev"
+		]
+	},
+	"homebrew-action-addsection": "Выль темаез ватсано",
+	"homebrew-action-delete": "Быдтоно",
+	"homebrew-action-move": "Мукет интые выжтыны",
+	"homebrew-action-protect": "Утьыны",
+	"homebrew-view-create": "Кылдытоно",
+	"homebrew-view-edit": "Тупатоно",
+	"homebrew-view-history": "История",
+	"homebrew-view-view": "Лыдӟоно",
+	"homebrew-view-viewsource": "Кодзэ учкыны"
+}

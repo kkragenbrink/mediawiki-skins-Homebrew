@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maor X"
+		]
+	},
+	"homebrew-action-delete": "Ojuichajaa",
+	"homebrew-action-move": "Ansülaa",
+	"homebrew-action-protect": "Eisalajaa",
+	"homebrew-view-create": "Akumajaa",
+	"homebrew-view-edit": "Anaataa",
+	"homebrew-view-history": "Achikii a'wanajaayamaajatü",
+	"homebrew-view-view": "Aashaje'eraa",
+	"homebrew-view-viewsource": "Anüliaa eejeetülee"
+}

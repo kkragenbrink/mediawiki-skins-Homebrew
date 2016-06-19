@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Atabek"
+		]
+	},
+	"homebrew-action-addsection": "Tema qosıw",
+	"homebrew-action-delete": "O'shiriw",
+	"homebrew-action-move": "Ko'shiriw",
+	"homebrew-action-protect": "Qorg'aw",
+	"homebrew-action-undelete": "Qayta tiklew",
+	"homebrew-action-unprotect": "Qorg'awdı o'zgertiw",
+	"homebrew-view-create": "Jaratıw",
+	"homebrew-view-edit": "O'zgertiw",
+	"homebrew-view-history": "Tariyxın ko'riw",
+	"homebrew-view-view": "Oqıw",
+	"homebrew-view-viewsource": "Deregin ko'riw"
+}

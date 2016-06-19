@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro"
+		]
+	},
+	"skinname-homebrew": "Sızımlı",
+	"homebrew-action-addsection": "Yaña tema östäw",
+	"homebrew-action-delete": "Beterü",
+	"homebrew-action-move": "Küçerü",
+	"homebrew-action-protect": "Yaqlaw",
+	"homebrew-action-undelete": "Qaytaru",
+	"homebrew-action-unprotect": "Yaqlawnı beterü",
+	"homebrew-view-create": "Tözü",
+	"homebrew-view-edit": "Üzgärtü",
+	"homebrew-view-history": "Tarixın qaraw",
+	"homebrew-view-view": "Uqu",
+	"homebrew-view-viewsource": "Çığanağın qaraw"
+}

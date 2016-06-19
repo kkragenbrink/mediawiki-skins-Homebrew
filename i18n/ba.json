@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Assele",
+			"Haqmar",
+			"Рустам Нурыев"
+		]
+	},
+	"skinname-homebrew": "Векторлы",
+	"homebrew-action-addsection": "Тема өҫтәргә",
+	"homebrew-action-delete": "Юйырға",
+	"homebrew-action-move": "Исемен үҙгәртергә",
+	"homebrew-action-protect": "Һаҡларға",
+	"homebrew-action-undelete": "Тергеҙергә",
+	"homebrew-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"homebrew-view-create": "Яһау",
+	"homebrew-view-edit": "Үҙгәртергә",
+	"homebrew-view-history": "Тарихты ҡарау",
+	"homebrew-view-view": "Уҡыу",
+	"homebrew-view-viewsource": "Сығанаҡты ҡарарға",
+	"homebrew-more-actions": "Тағы"
+}

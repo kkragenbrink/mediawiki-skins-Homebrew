@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent"
+		]
+	},
+	"homebrew-action-addsection": "Ilovai unvon",
+	"homebrew-action-delete": "Hazf",
+	"homebrew-action-move": "Kūconidan",
+	"homebrew-action-protect": "Muhofizat",
+	"homebrew-action-undelete": "Ehjo",
+	"homebrew-action-unprotect": "Ba dar ovardan az muhofizat",
+	"homebrew-view-create": "Eçod",
+	"homebrew-view-edit": "Viroiş",
+	"homebrew-view-history": "Namoişi ta'rix",
+	"homebrew-view-view": "Xondan",
+	"homebrew-view-viewsource": "Namoişi manba'"
+}

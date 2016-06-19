@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"homebrew-action-delete": "Verwische",
+	"homebrew-action-move": "Ziehe",
+	"homebrew-action-protect": "Schitze",
+	"homebrew-view-create": "Schtaerte",
+	"homebrew-view-edit": "Ennere",
+	"homebrew-view-history": "Gschicht zeige",
+	"homebrew-view-view": "Lese"
+}

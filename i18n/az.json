@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS",
+			"Arystanbek",
+			"Gulmammad",
+			"Sortilegus",
+			"Vago",
+			"Vugar 1981",
+			"Wertuose"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew.css": "/* Burada yerləşən CSS Homebrew istifadəçilərinə tətbiq olunur */",
+	"homebrew.js": "/* Burada Homebrew skin istifadəçiləri üçün istənilən JavaScript yüklənəcək */",
+	"homebrew-action-addsection": "Mövzu əlavə et",
+	"homebrew-action-delete": "Sil",
+	"homebrew-action-move": "Adını dəyişdir",
+	"homebrew-action-protect": "Mühafizə et",
+	"homebrew-action-undelete": "Bərpa et",
+	"homebrew-action-unprotect": "Mühafizəni kənarlaşdır",
+	"homebrew-view-create": "Yarat",
+	"homebrew-view-edit": "Redaktə",
+	"homebrew-view-history": "Tarixçəyə bax",
+	"homebrew-view-view": "Oxu",
+	"homebrew-view-viewsource": "Mənbəyə bax",
+	"homebrew-more-actions": "Daha"
+}

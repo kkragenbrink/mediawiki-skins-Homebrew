@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"skinname-homebrew": "Vèctor",
+	"homebrew.css": "/* Lo code CSS betâ ique afècterat los usanciérs de l’habelyâjo « Vèctor ». */",
+	"homebrew.js": "/* Tot code JavaScript betâ ique serat chargiê per los usanciérs de l’habelyâjo « Vèctor ». */",
+	"homebrew-action-addsection": "Apondre na chousa",
+	"homebrew-action-delete": "Suprimar",
+	"homebrew-action-move": "Dèplaciér",
+	"homebrew-action-protect": "Protègiér",
+	"homebrew-action-undelete": "Refâre",
+	"homebrew-action-unprotect": "Changiér la protèccion",
+	"homebrew-view-create": "Fâre",
+	"homebrew-view-edit": "Changiér",
+	"homebrew-view-history": "Vêre l’historico",
+	"homebrew-view-view": "Liére",
+	"homebrew-view-viewsource": "Vêre lo tèxto sôrsa",
+	"homebrew-more-actions": "Més"
+}

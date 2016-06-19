@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Insübrich",
+			"Ninonino"
+		]
+	},
+	"homebrew-action-addsection": "Giunta argument",
+	"homebrew-action-delete": "Scancela",
+	"homebrew-action-move": "Sposta",
+	"homebrew-action-protect": "Prutegg",
+	"homebrew-action-undelete": "Recüpera",
+	"homebrew-action-unprotect": "Càmbia la protesiù",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Mudifega",
+	"homebrew-view-history": "Varda la storia",
+	"homebrew-view-view": "Legg",
+	"homebrew-view-viewsource": "Varda el codes",
+	"homebrew-more-actions": "Amò"
+}

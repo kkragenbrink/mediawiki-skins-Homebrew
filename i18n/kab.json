@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mmistmurt"
+		]
+	},
+	"homebrew-action-addsection": "Rnud ameggay",
+	"homebrew-action-delete": "Mḥu",
+	"homebrew-action-move": "Smimeḍ",
+	"homebrew-action-protect": "Mmesten",
+	"homebrew-action-undelete": "Uɣaled",
+	"homebrew-action-unprotect": "Beddel amesten",
+	"homebrew-view-create": "Snulfu",
+	"homebrew-view-edit": "Ẓẓiẓreg",
+	"homebrew-view-history": "Ẓeṛ amazray",
+	"homebrew-view-view": "Ɣer",
+	"homebrew-view-viewsource": "Ẓer aɣbalu"
+}

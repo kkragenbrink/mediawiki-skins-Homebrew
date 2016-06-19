@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akeron",
+			"Crochet.david",
+			"DavidL",
+			"Gomoko",
+			"Jean-Frédéric",
+			"Od1n"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Version moderne de MonoBook avec un aspect rajeuni et beaucoup d’améliorations ergonomiques",
+	"homebrew.css": "/* Le CSS placé ici affectera les utilisateurs de l’habillage Homebrew. */",
+	"homebrew.js": "/* Tout code JavaScript placé ici sera chargé pour les utilisateurs de l’habillage Homebrew */",
+	"homebrew-action-addsection": "Ajouter un sujet",
+	"homebrew-action-delete": "Supprimer",
+	"homebrew-action-move": "Renommer",
+	"homebrew-action-protect": "Protéger",
+	"homebrew-action-undelete": "Rétablir",
+	"homebrew-action-unprotect": "Changer la protection",
+	"homebrew-view-create": "Créer",
+	"homebrew-view-edit": "Modifier",
+	"homebrew-view-history": "Historique",
+	"homebrew-view-view": "Lire",
+	"homebrew-view-viewsource": "Voir la source",
+	"homebrew-more-actions": "Plus"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm",
+			"Toliño",
+			"Vivaelcelta"
+		]
+	},
+	"homebrew-skin-desc": "Versión moderna da aparencia MonoBook, cun aspecto fresco e moitas melloras na usabilidade",
+	"homebrew.css": "/* O CSS que se coloque aquí afectará a quen use a aparencia Homebrew */",
+	"homebrew.js": "/* Calquera JavaScript que haxa aquí será cargado para os usuarios que usen a aparencia Homebrew */",
+	"homebrew-action-addsection": "Nova sección",
+	"homebrew-action-delete": "Borrar",
+	"homebrew-action-move": "Mover",
+	"homebrew-action-protect": "Protexer",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Cambiar a protección",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Editar",
+	"homebrew-view-history": "Ver o historial",
+	"homebrew-view-view": "Ler",
+	"homebrew-view-viewsource": "Ver o código fonte",
+	"homebrew-more-actions": "Máis"
+}

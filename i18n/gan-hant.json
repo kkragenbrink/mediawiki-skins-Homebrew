@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Symane"
+		]
+	},
+	"homebrew-action-addsection": "添主題",
+	"homebrew-action-delete": "刪吥",
+	"homebrew-action-move": "移吥",
+	"homebrew-action-protect": "護到",
+	"homebrew-action-undelete": "望下刪吥嗰頁面",
+	"homebrew-action-unprotect": "解除保護",
+	"homebrew-view-create": "創建",
+	"homebrew-view-edit": "編輯",
+	"homebrew-view-history": "望下歷史",
+	"homebrew-view-view": "讀",
+	"homebrew-view-viewsource": "望下原始碼"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"ОйЛ"
+		]
+	},
+	"homebrew-action-addsection": "новꙑ бєсѣдꙑ чѧсти сътворѥниѥ",
+	"homebrew-action-delete": "поничьжєниѥ",
+	"homebrew-action-move": "прѣимєнованиѥ",
+	"homebrew-action-protect": "ꙁабранѥниѥ",
+	"homebrew-action-unprotect": "иꙁмѣни ꙁабранѥниꙗ обраꙁъ",
+	"homebrew-view-create": "сътворѥниѥ",
+	"homebrew-view-edit": "исправи",
+	"homebrew-view-history": "їсторїꙗ",
+	"homebrew-view-view": "чьтѥниѥ",
+	"homebrew-view-viewsource": "страницѧ источьнъ обраꙁъ",
+	"homebrew-more-actions": "вѧщє"
+}

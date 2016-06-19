@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jordz"
+		]
+	},
+	"homebrew-action-addsection": "Pagdugang og topiko",
+	"homebrew-action-delete": "Papasa",
+	"homebrew-action-move": "Ibalhin",
+	"homebrew-action-protect": "Protektahi",
+	"homebrew-action-undelete": "Ayaw papasa",
+	"homebrew-action-unprotect": "Ayaw protektahi",
+	"homebrew-view-create": "Himoa",
+	"homebrew-view-edit": "Usba",
+	"homebrew-view-history": "Tan-awa ang kaagi",
+	"homebrew-view-view": "Basaha",
+	"homebrew-view-viewsource": "Tan-awa ang ginikanan"
+}

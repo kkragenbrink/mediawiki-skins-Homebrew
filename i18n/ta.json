@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mayooranathan",
+			"Shanmugamp7",
+			"Surya Prakash.S.A.",
+			"TRYPPN",
+			"Jayarathina"
+		]
+	},
+	"homebrew-action-addsection": "தலைப்பைச் சேர்",
+	"homebrew-action-delete": "நீக்குக",
+	"homebrew-action-move": "நகர்த்தவும்",
+	"homebrew-action-protect": "காக்கவும்",
+	"homebrew-action-undelete": "நீக்கத்தை நிறுத்து",
+	"homebrew-action-unprotect": "காப்பை மாற்று",
+	"homebrew-view-create": "உருவாக்கவும்",
+	"homebrew-view-edit": "தொகு",
+	"homebrew-view-history": "வரலாற்றைக் காட்டவும்",
+	"homebrew-view-view": "படிக்கவும்",
+	"homebrew-view-viewsource": "மூலத்தைக் காட்டவும்",
+	"homebrew-more-actions": "மேலும்"
+}

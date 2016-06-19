@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arlin",
+			"Sahran",
+			"Tel'et"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew.css": "/* CSS placed here will affect users of the Homebrew skin */",
+	"homebrew.js": "/* Any JavaScript here will be loaded for users using the Homebrew skin */",
+	"homebrew-action-addsection": "يېڭى تېما قوش",
+	"homebrew-action-delete": "ئۆچۈر",
+	"homebrew-action-move": "يۆتكە",
+	"homebrew-action-protect": "قوغدا",
+	"homebrew-action-undelete": "ئەسلىگە قايتۇر",
+	"homebrew-action-unprotect": "قوغداش ئۆزگەرت",
+	"homebrew-view-create": "قۇر",
+	"homebrew-view-edit": "تەھرىر",
+	"homebrew-view-history": "تارىخ كۆرسەت",
+	"homebrew-view-view": "ئوقۇ",
+	"homebrew-view-viewsource": "مەنبەنى كۆرسەت"
+}

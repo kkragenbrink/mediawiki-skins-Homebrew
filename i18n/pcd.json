@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geoleplubo"
+		]
+	},
+	"homebrew-action-addsection": "Rajouter un sujeut",
+	"homebrew-action-delete": "Défacer",
+	"homebrew-action-move": "Canger ch'nom",
+	"homebrew-action-protect": "Garantir",
+	"homebrew-action-undelete": "N'poin défacher",
+	"homebrew-action-unprotect": "Canger l'garantie",
+	"homebrew-view-create": "Créer",
+	"homebrew-view-edit": "Éditer",
+	"homebrew-view-history": "Vir l'histoère",
+	"homebrew-view-view": "Lire",
+	"homebrew-view-viewsource": "Vir l'source"
+}

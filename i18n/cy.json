@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr"
+		]
+	},
+	"homebrew-action-addsection": "Ychwanegu adran",
+	"homebrew-action-delete": "Dileu",
+	"homebrew-action-move": "Symud",
+	"homebrew-action-protect": "Diogelu",
+	"homebrew-action-undelete": "Adfer",
+	"homebrew-action-unprotect": "Newid y diogelwch",
+	"homebrew-view-create": "Dechrau",
+	"homebrew-view-edit": "Golygu",
+	"homebrew-view-history": "Gweld yr hanes",
+	"homebrew-view-view": "Darllen",
+	"homebrew-view-viewsource": "Dangos côd y dudalen",
+	"homebrew-more-actions": "Rhagor"
+}

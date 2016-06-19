@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chavash",
+			"FLAGELLVM DEI",
+			"Chuvash2014"
+		]
+	},
+	"homebrew-action-addsection": "Тема хуш",
+	"homebrew-action-delete": "Кăларса пăрах",
+	"homebrew-action-move": "Ятне улăштар",
+	"homebrew-action-protect": "Хӳтĕле",
+	"homebrew-view-create": "Çĕннине ту",
+	"homebrew-view-edit": "Тӳрлет",
+	"homebrew-view-history": "Истори",
+	"homebrew-view-view": "Вула",
+	"homebrew-view-viewsource": "Кодне пăх",
+	"homebrew-more-actions": "Тата"
+}

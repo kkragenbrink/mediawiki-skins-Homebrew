@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"homebrew-action-addsection": "Gionté n'argoment",
+	"homebrew-action-delete": "Scancelé",
+	"homebrew-action-move": "Tramudé",
+	"homebrew-action-protect": "Protege",
+	"homebrew-action-undelete": "Arcuperé",
+	"homebrew-action-unprotect": "Cangé la protession",
+	"homebrew-view-create": "Creé",
+	"homebrew-view-edit": "Modifiché",
+	"homebrew-view-history": "Smon-e la stòria",
+	"homebrew-view-view": "Lese",
+	"homebrew-view-viewsource": "Vëdde la sorgiss",
+	"homebrew-more-actions": "Ëd pi"
+}

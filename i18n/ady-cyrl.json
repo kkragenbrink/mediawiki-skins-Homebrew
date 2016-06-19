@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Adamsa123",
+			"Amire80",
+			"Celekan",
+			"Siklawy",
+			"GR44 Luc",
+			"SamGamgee",
+			"SmartNart12",
+			"Inyzh"
+		]
+	},
+	"homebrew-action-addsection": "Iофтхьабз",
+	"homebrew-action-delete": "ЛъэкӀ",
+	"homebrew-action-move": "Хьы",
+	"homebrew-action-protect": "Иухъумэ",
+	"homebrew-action-undelete": "Умылъэк1",
+	"homebrew-action-unprotect": "Умыухъумэ",
+	"homebrew-view-create": "КъэшI",
+	"homebrew-view-edit": "ХэӀэзыхь",
+	"homebrew-view-history": "Тарихъым eплъ",
+	"homebrew-view-view": "Едж",
+	"homebrew-view-viewsource": "Еплъ лъапсэм",
+	"homebrew-more-actions": "Джыри"
+}

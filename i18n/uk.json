@@ -1,0 +1,31 @@
+{
+	"@metadata": {
+		"authors": [
+			"AS",
+			"Ahonc",
+			"Base",
+			"Calak",
+			"Dim Grits",
+			"NickK",
+			"Prima klasy4na",
+			"Тест",
+			"Ата"
+		]
+	},
+	"skinname-homebrew": "Векторне",
+	"homebrew-skin-desc": "Сучасна версія MonoBook зі свіжим виглядом і багатьма зручними покращеннями",
+	"homebrew.css": "/* Розміщений тут CSS-код буде використаний в темі оформлення Векторне */",
+	"homebrew.js": "/* Розміщений тут код JavaScript буде завантажений для всіх користувачів, що використовують векторну тему оформлення */",
+	"homebrew-action-addsection": "Додати тему",
+	"homebrew-action-delete": "Вилучити",
+	"homebrew-action-move": "Перейменувати",
+	"homebrew-action-protect": "Захистити",
+	"homebrew-action-undelete": "Відновити",
+	"homebrew-action-unprotect": "Зміна захисту",
+	"homebrew-view-create": "Створити",
+	"homebrew-view-edit": "Редагувати",
+	"homebrew-view-history": "Переглянути історію",
+	"homebrew-view-view": "Читати",
+	"homebrew-view-viewsource": "Переглянути код",
+	"homebrew-more-actions": "Ще"
+}

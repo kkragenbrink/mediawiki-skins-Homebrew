@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cainamarques",
+			"Diego Queiroz",
+			"Giro720",
+			"Helder.wiki",
+			555,
+			"He7d3r"
+		]
+	},
+	"homebrew.js": "/* Qualquer JavaScript aqui colocado afetará os usuários do skin Homebrew */",
+	"homebrew-action-addsection": "Adicionar tópico",
+	"homebrew-action-delete": "Eliminar",
+	"homebrew-action-move": "Mover",
+	"homebrew-action-protect": "Proteger",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Alterar a proteção",
+	"homebrew-view-create": "Criar",
+	"homebrew-view-edit": "Editar",
+	"homebrew-view-history": "Ver histórico",
+	"homebrew-view-view": "Ler",
+	"homebrew-view-viewsource": "Ver código-fonte",
+	"homebrew-more-actions": "Mais"
+}

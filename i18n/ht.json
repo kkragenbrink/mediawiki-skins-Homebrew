@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boukman",
+			"Internoob",
+			"Masterches",
+			"Tisave"
+		]
+	},
+	"homebrew-action-addsection": "Ajoute yon sijè",
+	"homebrew-action-delete": "Efase",
+	"homebrew-action-move": "Chanje non",
+	"homebrew-action-protect": "Pwoteje",
+	"homebrew-action-undelete": "Retabli",
+	"homebrew-action-unprotect": "Pa pwoteje",
+	"homebrew-view-create": "Kreye",
+	"homebrew-view-edit": "Modifye",
+	"homebrew-view-history": "Gade istorik",
+	"homebrew-view-view": "Li",
+	"homebrew-view-viewsource": "Wè kòd tèks sa a",
+	"homebrew-more-actions": "Plis"
+}

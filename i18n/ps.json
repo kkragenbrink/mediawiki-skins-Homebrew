@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"skinname-homebrew": "وېکټور",
+	"homebrew.css": "/* د CSS هره بڼه چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"homebrew.js": "/* د جاوا هر يو سکرېپټ چې دلته ځای پر ځای کېږي هغه به د وېکټور د پوښ ټولو کارنانو لپاره کار کوي */",
+	"homebrew-action-addsection": "سرليک ورگډول",
+	"homebrew-action-delete": "ړنگول",
+	"homebrew-action-move": "لېږدول",
+	"homebrew-action-protect": "ژغورل",
+	"homebrew-action-undelete": "ناړنگول",
+	"homebrew-action-unprotect": "ژغورنه بدلول",
+	"homebrew-view-create": "جوړول",
+	"homebrew-view-edit": "سمول",
+	"homebrew-view-history": "پېښليک کتل",
+	"homebrew-view-view": "لوستل",
+	"homebrew-view-viewsource": "سرچينه کتل",
+	"homebrew-more-actions": "نور"
+}

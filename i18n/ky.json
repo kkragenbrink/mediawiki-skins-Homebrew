@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chorobek",
+			"Growingup",
+			"Ztimur",
+			"Викиней",
+			"Janatkg"
+		]
+	},
+	"homebrew-action-addsection": "Тема кошуу",
+	"homebrew-action-delete": "Өчүрүү",
+	"homebrew-action-move": "Аталышын өзгөртүү",
+	"homebrew-action-protect": "Коргоо",
+	"homebrew-action-undelete": "Калыбына келтирүү",
+	"homebrew-action-unprotect": "Коргоону өзгөртүү",
+	"homebrew-view-create": "Түзүү",
+	"homebrew-view-edit": "Оңдоо",
+	"homebrew-view-history": "Тарыхын кароо",
+	"homebrew-view-view": "Окуу",
+	"homebrew-view-viewsource": "Кайнарын кароо",
+	"homebrew-more-actions": "Кененирээк"
+}

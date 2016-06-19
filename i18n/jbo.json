@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gleki"
+		]
+	},
+	"skinname-homebrew": "la vektor",
+	"homebrew-skin-desc": "lo cabna versio be la monobuk i vifne tarmi i so'i da nu xamgu zenba",
+	"homebrew-action-addsection": "jmina la'e se casnu",
+	"homebrew-action-delete": "vimcu",
+	"homebrew-action-move": "stika lo cmene",
+	"homebrew-action-protect": "bandu",
+	"homebrew-action-undelete": "volvygau",
+	"homebrew-action-unprotect": "cnegau lo bandu",
+	"homebrew-view-create": "zbasu",
+	"homebrew-view-edit": "stika",
+	"homebrew-view-history": "lo ckupau citri",
+	"homebrew-view-view": "tcidu",
+	"homebrew-view-viewsource": "cpacu lo krasi",
+	"homebrew-more-actions": "ji'a"
+}

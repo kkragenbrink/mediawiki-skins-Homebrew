@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174",
+			"Pyt"
+		]
+	},
+	"homebrew-skin-desc": "Modern werjuun faan Monobook mä frisk skak an föl muar mögelkhaiden",
+	"homebrew-action-addsection": "Nei kirew began",
+	"homebrew-action-delete": "Strik",
+	"homebrew-action-move": "Fersküüw",
+	"homebrew-action-protect": "Seekre",
+	"homebrew-action-undelete": "Weder iinstel",
+	"homebrew-action-unprotect": "Sidjenseekerhaid",
+	"homebrew-view-create": "Maage",
+	"homebrew-view-edit": "Bewerke",
+	"homebrew-view-history": "Ferluup uunluke",
+	"homebrew-view-view": "Lees",
+	"homebrew-view-viewsource": "Kweltekst uunluke",
+	"homebrew-more-actions": "Muar"
+}

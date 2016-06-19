@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maax"
+		]
+	},
+	"homebrew-action-addsection": "Hadal ku dar",
+	"homebrew-action-delete": "Tirtir",
+	"homebrew-action-move": "Wareeji",
+	"homebrew-action-protect": "Difaac",
+	"homebrew-action-undelete": "Ha tirtirin",
+	"homebrew-action-unprotect": "Bedel difaacida",
+	"homebrew-view-create": "Sameey",
+	"homebrew-view-edit": "Wax ka bedel",
+	"homebrew-view-history": "Itusi taariikhda",
+	"homebrew-view-view": "Akhri",
+	"homebrew-view-viewsource": "Itusi xogta"
+}

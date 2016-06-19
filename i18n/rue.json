@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb",
+			"Tkalyn"
+		]
+	},
+	"homebrew-action-addsection": "Придати тему",
+	"homebrew-action-delete": "Вымазати",
+	"homebrew-action-move": "Переменовати",
+	"homebrew-action-protect": "Всокотити",
+	"homebrew-action-undelete": "Обновити",
+	"homebrew-action-unprotect": "Змінити замок",
+	"homebrew-view-create": "Створити",
+	"homebrew-view-edit": "Едітовати",
+	"homebrew-view-history": "Видїти історію",
+	"homebrew-view-view": "Чітати",
+	"homebrew-view-viewsource": "Видїти код",
+	"homebrew-more-actions": "Веце"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Horus",
+			"Octahedron80",
+			"Woraponboonkerd"
+		]
+	},
+	"skinname-homebrew": "เวกเตอร์",
+	"homebrew.css": "/* สไตล์ชีตในหน้านี้จะส่งผลแก่ผู้ใช้ที่ใช้สกินเวกเตอร์ */",
+	"homebrew.js": "/* จาวาสคริปต์ใด ๆ ในหน้านี้จะถูกโหลดให้แก่ผู้ใช้ที่ใช้สกินเวกเตอร์ */",
+	"homebrew-action-addsection": "เพิ่มหัวข้อ",
+	"homebrew-action-delete": "ลบ",
+	"homebrew-action-move": "เปลี่ยนชื่อ",
+	"homebrew-action-protect": "ล็อก",
+	"homebrew-action-undelete": "กู้คืน",
+	"homebrew-action-unprotect": "เปลี่ยนการล็อก",
+	"homebrew-view-create": "สร้าง",
+	"homebrew-view-edit": "แก้ไข",
+	"homebrew-view-history": "ดูประวัติ",
+	"homebrew-view-view": "อ่าน",
+	"homebrew-view-viewsource": "ดูโค้ด",
+	"homebrew-more-actions": "เพิ่มเติม"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro",
+			"Rinatus",
+			"Ильнар",
+			"Рашат Якупов",
+			"Derslek"
+		]
+	},
+	"skinname-homebrew": "Сызымлы",
+	"homebrew-action-addsection": "Яңа тема өстәү",
+	"homebrew-action-delete": "Бетерү",
+	"homebrew-action-move": "Күчерү",
+	"homebrew-action-protect": "Яклау",
+	"homebrew-action-undelete": "Кайтару",
+	"homebrew-action-unprotect": "Яклауны үзгәртү",
+	"homebrew-view-create": "Төзү",
+	"homebrew-view-edit": "Үзгәртү",
+	"homebrew-view-history": "Тарихын карау",
+	"homebrew-view-view": "Уку",
+	"homebrew-view-viewsource": "Чыганагын карау",
+	"homebrew-more-actions": "Тагын"
+}

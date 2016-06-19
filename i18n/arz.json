@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ghaly",
+			"Meno25",
+			"Ramsis II"
+		]
+	},
+	"homebrew.css": "/* CSS اللى هنا حتأثر على اليوزرز اللى بيستخدموا واجهة فكتور */",
+	"homebrew.js": "/* اى جافاسكريبت هنا حتتحمل لكل يوزر بيستخدم واجهة فكتور */",
+	"homebrew-action-addsection": "ضيف موضوع",
+	"homebrew-action-delete": "مسح",
+	"homebrew-action-move": "نقل",
+	"homebrew-action-protect": "حمايه",
+	"homebrew-action-undelete": "الغى المسح",
+	"homebrew-action-unprotect": "غير الحمايه",
+	"homebrew-view-create": "اعمل",
+	"homebrew-view-edit": "تعديل",
+	"homebrew-view-history": "استعراض التاريخ",
+	"homebrew-view-view": "قرايه",
+	"homebrew-view-viewsource": "استعراض المصدر",
+	"homebrew-more-actions": "اكتر"
+}

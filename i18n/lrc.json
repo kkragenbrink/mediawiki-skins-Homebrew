@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"homebrew-action-addsection": "داسون اضاف بكيد",
+	"homebrew-action-delete": "پاکسا کردن",
+	"homebrew-action-move": "جاوه جا بوئيت",
+	"homebrew-action-protect": "پر و پیم بكيد",
+	"homebrew-action-undelete": "حذف نبيئني",
+	"homebrew-action-unprotect": "حمايت آلشت بكيد",
+	"homebrew-view-create": "راس كردن",
+	"homebrew-view-edit": "ڤیرایئشت",
+	"homebrew-view-history": "ديئن ڤیرگار",
+	"homebrew-view-view": "حنن",
+	"homebrew-view-viewsource": "سرچشمه نه بوينيت",
+	"homebrew-more-actions": "بیشتر"
+}

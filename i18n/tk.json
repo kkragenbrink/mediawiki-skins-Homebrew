@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hanberke"
+		]
+	},
+	"homebrew-action-addsection": "Tema goş",
+	"homebrew-action-delete": "Öçür",
+	"homebrew-action-move": "Adyny üýtget",
+	"homebrew-action-protect": "Goraga al",
+	"homebrew-action-undelete": "Öçürmäni yzyna al",
+	"homebrew-action-unprotect": "Goragy üýtget",
+	"homebrew-view-create": "Döret",
+	"homebrew-view-edit": "Üýtget",
+	"homebrew-view-history": "Taryhy gör",
+	"homebrew-view-view": "Oka",
+	"homebrew-view-viewsource": "Çeşmäni gör"
+}

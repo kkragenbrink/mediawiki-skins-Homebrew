@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ganesh",
+			"Nepaboy",
+			"SatyamMishra"
+		]
+	},
+	"homebrew-action-addsection": "बिसय जोड़ीं",
+	"homebrew-action-delete": "मिटाईं",
+	"homebrew-action-move": "स्थानांतरण",
+	"homebrew-action-protect": "संरक्षित करीं",
+	"homebrew-action-undelete": "मत मिटाईं",
+	"homebrew-action-unprotect": "सुरक्षा बदलीं",
+	"homebrew-view-create": "बनाईं",
+	"homebrew-view-edit": "संपादन",
+	"homebrew-view-history": "इतिहास देखीं",
+	"homebrew-view-view": "पढ़ीं",
+	"homebrew-view-viewsource": "स्रोत देखीं",
+	"homebrew-more-actions": "अधिका"
+}

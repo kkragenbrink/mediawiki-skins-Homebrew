@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"NehalDaveND",
+			"Shubha"
+		]
+	},
+	"homebrew-action-addsection": "विषयः योज्यताम्",
+	"homebrew-action-delete": "अपाक्रियताम्",
+	"homebrew-action-move": "शीर्षकं परिवर्त्यताम्",
+	"homebrew-action-protect": "संरक्ष्यताम्",
+	"homebrew-action-undelete": "अनपाक्रियाम्",
+	"homebrew-action-unprotect": "संरक्षणं परिवर्तयतु",
+	"homebrew-view-create": "सृज्यताम्",
+	"homebrew-view-edit": "सम्पाद्यताम्",
+	"homebrew-view-history": "इतिहासः दृश्यताम्",
+	"homebrew-view-view": "पठ्यताम्",
+	"homebrew-view-viewsource": "स्रोतः दृश्यताम्",
+	"homebrew-more-actions": "अधिकम्"
+}

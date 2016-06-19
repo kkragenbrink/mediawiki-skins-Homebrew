@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boulaur",
+			"Cedric31"
+		]
+	},
+	"homebrew.css": "/* Lo CSS plaçat aicí afectarà los utilizaires de l’abilhatge Homebrew */",
+	"homebrew.js": "/* Tot JavaScript aicí serà cargat amb las paginas accedidas pels utilizaires de l’abilhatge Homebrew unicament. */",
+	"homebrew-action-addsection": "Apondre un subjècte",
+	"homebrew-action-delete": "Suprimir",
+	"homebrew-action-move": "Tornar nomenar",
+	"homebrew-action-protect": "Protegir",
+	"homebrew-action-undelete": "Restablir",
+	"homebrew-action-unprotect": "Suprimir la proteccion",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Modificar",
+	"homebrew-view-history": "Veire l'istoric",
+	"homebrew-view-view": "Legir",
+	"homebrew-view-viewsource": "Veire la font",
+	"homebrew-more-actions": "Mai"
+}

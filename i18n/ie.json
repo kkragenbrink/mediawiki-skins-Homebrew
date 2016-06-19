@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Makuba",
+			"Renan"
+		]
+	},
+	"homebrew.css": "/* CSS colocat ci va afectar usatores de pelle Homebrew */",
+	"homebrew.js": "/* Alquel JavaScript ci va esser cargat por usatores que usa li pelle Homebrew */",
+	"homebrew-action-addsection": "Adjunter tema",
+	"homebrew-action-delete": "Deleter",
+	"homebrew-action-move": "Mover",
+	"homebrew-action-protect": "Gardar",
+	"homebrew-action-undelete": "Restituer",
+	"homebrew-action-unprotect": "Desgardar",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Redacter",
+	"homebrew-view-history": "Historie de versiones",
+	"homebrew-view-view": "Leer",
+	"homebrew-view-viewsource": "Vider fonte"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Rotemliss"
+		]
+	},
+	"skinname-homebrew": "וקטור",
+	"homebrew-skin-desc": "גרסה מודרנית של מונובוק עם מראה רענן והרבה שיפורי שמישות",
+	"homebrew.css": "/* הסגנונות הנכתבים כאן ישפיעו על העיצוב Homebrew בלבד */",
+	"homebrew.js": "/* כל סקריפט JavaScript שנכתב כאן ירוץ רק עבור המשתמשים בעיצוב Homebrew */",
+	"homebrew-action-addsection": "הוספת נושא",
+	"homebrew-action-delete": "מחיקה",
+	"homebrew-action-move": "העברה",
+	"homebrew-action-protect": "הגנה",
+	"homebrew-action-undelete": "ביטול מחיקה",
+	"homebrew-action-unprotect": "שינוי הגנה",
+	"homebrew-view-create": "יצירה",
+	"homebrew-view-edit": "עריכה",
+	"homebrew-view-history": "הצגת היסטוריה",
+	"homebrew-view-view": "קריאה",
+	"homebrew-view-viewsource": "הצגת מקור",
+	"homebrew-more-actions": "עוד"
+}

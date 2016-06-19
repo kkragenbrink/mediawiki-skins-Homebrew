@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imdadb"
+		]
+	},
+	"homebrew-action-addsection": "Púskun sarhál",
+	"homebrew-action-delete": "Mesa",
+	"homebrew-action-move": "Surif",
+	"homebrew-action-protect": "Rakk",
+	"homebrew-view-create": "Biná",
+	"homebrew-view-edit": "Radbadal",
+	"homebrew-view-history": "Lekav e ur",
+	"homebrew-view-view": "Xuán",
+	"homebrew-view-viewsource": "Bumpad e ur"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gálaniitoluodda",
+			"Jeblad",
+			"Trondtr"
+		]
+	},
+	"homebrew-action-addsection": "Lasit fáttá",
+	"homebrew-action-delete": "Sihko",
+	"homebrew-action-move": "Sirdde",
+	"homebrew-action-protect": "Suodjal",
+	"homebrew-action-undelete": "Máhcat",
+	"homebrew-action-unprotect": "Rievdat suodjaleami",
+	"homebrew-view-create": "Álggat",
+	"homebrew-view-edit": "Rievdat",
+	"homebrew-view-history": "Geahča historjjá",
+	"homebrew-view-view": "Loga",
+	"homebrew-view-viewsource": "Geahča gáldokoda"
+}

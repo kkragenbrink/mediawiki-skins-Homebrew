@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asmen",
+			"Calak",
+			"Erdemaslancan",
+			"Mirzali"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew-action-addsection": "Mewzu vıraze",
+	"homebrew-action-delete": "Bestere",
+	"homebrew-action-move": "Bere",
+	"homebrew-action-protect": "Bışevekne",
+	"homebrew-action-undelete": "Esterıtışi peyser bıgê",
+	"homebrew-action-unprotect": "Starkerdışi bıvurne",
+	"homebrew-view-create": "Vıraze",
+	"homebrew-view-edit": "Bıvurne",
+	"homebrew-view-history": "Tarixê pele bıvêne",
+	"homebrew-view-view": "Bıwane",
+	"homebrew-view-viewsource": "Çımey bıvêne",
+	"homebrew-more-actions": "Zêde"
+}

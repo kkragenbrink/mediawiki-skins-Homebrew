@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Adi Mayndra",
+			"BASAbali"
+		]
+	},
+	"homebrew-action-addsection": "imbuhin indik wacana",
+	"homebrew-action-delete": "ngapus",
+	"homebrew-action-move": "kisidang",
+	"homebrew-action-protect": "nyaga",
+	"homebrew-view-create": "ngawe",
+	"homebrew-view-edit": "mecikang",
+	"homebrew-view-history": "indik sane lintang",
+	"homebrew-view-view": "Waca",
+	"homebrew-view-viewsource": "cingak witnyane"
+}

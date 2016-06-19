@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Benojan",
+			"Poiuyt"
+		]
+	},
+	"homebrew-action-addsection": "加話題",
+	"homebrew-action-delete": "刪",
+	"homebrew-action-move": "移",
+	"homebrew-action-protect": "保",
+	"homebrew-action-undelete": "弗刪",
+	"homebrew-action-unprotect": "换保护状态",
+	"homebrew-view-create": "建",
+	"homebrew-view-edit": "编",
+	"homebrew-view-history": "望页史",
+	"homebrew-view-view": "读",
+	"homebrew-view-viewsource": "望源码",
+	"homebrew-more-actions": "还多"
+}

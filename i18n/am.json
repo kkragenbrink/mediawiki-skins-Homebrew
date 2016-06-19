@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Codex Sinaiticus",
+			"Elfalem",
+			"Hinstein",
+			"Teferra"
+		]
+	},
+	"homebrew-action-addsection": "ርዕስ ጨምር",
+	"homebrew-action-delete": "አጥፋ",
+	"homebrew-action-move": "ለማዛወር",
+	"homebrew-action-protect": "ለመቆለፍ",
+	"homebrew-action-undelete": "አታጥፋ",
+	"homebrew-action-unprotect": "አለመቆለፍ",
+	"homebrew-view-create": "አዲስ ፍጠር",
+	"homebrew-view-edit": "አርም",
+	"homebrew-view-history": "ታሪኩን አሳይ",
+	"homebrew-view-view": "ለማንበብ",
+	"homebrew-view-viewsource": "ጥሬ ኮድ ለመመልከት",
+	"homebrew-more-actions": "ተጨማሪ"
+}

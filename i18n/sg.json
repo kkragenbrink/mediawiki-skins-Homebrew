@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mdkidiri"
+		]
+	},
+	"homebrew-action-addsection": "Zîa mbênî lilö daä",
+	"homebrew-action-delete": "Lungûla",
+	"homebrew-action-move": "Sanzêe ïrï",
+	"homebrew-action-protect": "Funga",
+	"homebrew-action-undelete": "Kîri na nî",
+	"homebrew-action-unprotect": "Sanzêe fungä",
+	"homebrew-view-create": "Seka",
+	"homebrew-view-edit": "Sepe",
+	"homebrew-view-history": "Tanda mbai nî",
+	"homebrew-view-view": "Dîko",
+	"homebrew-view-viewsource": "Fa ligbî nî"
+}

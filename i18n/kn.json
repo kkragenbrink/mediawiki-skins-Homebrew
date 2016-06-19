@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ktkaushik",
+			"Nayvik",
+			"VASANTH S.N.",
+			"Omshivaprakash"
+		]
+	},
+	"homebrew-action-addsection": "ವಿಷಯ ಸೇರಿಸಿ",
+	"homebrew-action-delete": "ಅಳಿಸು",
+	"homebrew-action-move": "ಸ್ಥಳಾಂತರಿಸಿ",
+	"homebrew-action-protect": "ಸಂರಕ್ಷಿಸು",
+	"homebrew-action-undelete": "ಅಳಿಸಬೇಡ",
+	"homebrew-action-unprotect": "ರಕ್ಷಣೆಯನ್ನು ಬದಲಾವಣೆ",
+	"homebrew-view-create": "ಸೃಷ್ಟಿಸು",
+	"homebrew-view-edit": "ಸಂಪಾದಿಸಿ",
+	"homebrew-view-history": "ಇತಿಹಾಸವನ್ನು ನೋಡಿ",
+	"homebrew-view-view": "ಓದು",
+	"homebrew-view-viewsource": "ಆಕರ ವೀಕ್ಷಿಸು",
+	"homebrew-more-actions": "ಇನ್ನಷ್ಟು"
+}

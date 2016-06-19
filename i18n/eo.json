@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"KuboF",
+			"Objectivesea",
+			"Yekrats"
+		]
+	},
+	"skinname-homebrew": "Vektoro",
+	"homebrew.css": "/* La jena CSS influos la paĝaspekton por uzantoj de la Vektora temo. */",
+	"homebrew.js": "/* La jena Ĝavaskripto ŝargiĝos por uzantoj de la Vektora temo. */",
+	"homebrew-action-addsection": "Aldoni temon",
+	"homebrew-action-delete": "Forigi",
+	"homebrew-action-move": "Alinomi",
+	"homebrew-action-protect": "Protekti",
+	"homebrew-action-undelete": "Malforigi",
+	"homebrew-action-unprotect": "Ŝanĝi protektadon",
+	"homebrew-view-create": "Krei",
+	"homebrew-view-edit": "Redakti",
+	"homebrew-view-history": "Vidi historion",
+	"homebrew-view-view": "Legi",
+	"homebrew-view-viewsource": "Vidi fonton",
+	"homebrew-more-actions": "Pli"
+}

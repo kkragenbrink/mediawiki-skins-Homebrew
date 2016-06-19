@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paivud"
+		]
+	},
+	"homebrew-action-addsection": "Vassõn teema",
+	"homebrew-action-delete": "Pühi",
+	"homebrew-action-move": "Liikut",
+	"homebrew-action-protect": "Varjaa",
+	"homebrew-view-create": "Loo cülci",
+	"homebrew-view-edit": "Muuttaa",
+	"homebrew-view-history": "Istori",
+	"homebrew-view-view": "Lukõa",
+	"homebrew-view-viewsource": "Lähtekoodi"
+}

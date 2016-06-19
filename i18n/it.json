@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Darth Kule",
+			"Gianfranco",
+			"Melos",
+			"Pietrodn",
+			"FRacco",
+			"Elitre"
+		]
+	},
+	"homebrew-skin-desc": "Versione moderna del MonoBook con un aspetto rinnovato e molti miglioramenti dell'usabilità",
+	"homebrew.css": "/* Gli stili CSS inseriti qui si applicano agli utenti che usano la skin Homebrew */",
+	"homebrew.js": "/* Il codice JavaScript inserito qui viene caricato dagli utenti che usano la skin Homebrew */",
+	"homebrew-action-addsection": "Aggiungi discussione",
+	"homebrew-action-delete": "Cancella",
+	"homebrew-action-move": "Sposta",
+	"homebrew-action-protect": "Proteggi",
+	"homebrew-action-undelete": "Ripristina",
+	"homebrew-action-unprotect": "Cambia la protezione",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Modifica",
+	"homebrew-view-history": "Cronologia",
+	"homebrew-view-view": "Leggi",
+	"homebrew-view-viewsource": "Visualizza wikitesto",
+	"homebrew-more-actions": "Altro"
+}

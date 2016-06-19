@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachitrali"
+		]
+	},
+	"homebrew-action-addsection": "نوغ موضوع",
+	"homebrew-action-delete": "بوغاوے",
+	"homebrew-action-move": "منتقل کورے",
+	"homebrew-action-protect": "محفوظ کورے",
+	"homebrew-action-undelete": "اچی انگیے",
+	"homebrew-action-unprotect": "غیر محفوظ",
+	"homebrew-view-create": "ساوزاوے",
+	"homebrew-view-edit": "ایڈٹ کورے",
+	"homebrew-view-history": "تاریخچہ",
+	"homebrew-view-view": "راوے",
+	"homebrew-view-viewsource": "مسودہ",
+	"homebrew-more-actions": "مزید"
+}

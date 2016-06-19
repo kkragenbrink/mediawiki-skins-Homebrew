@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alunardon90",
+			"Candalua",
+			"Frigotoni",
+			"GatoSelvadego",
+			"Vajotwo"
+		]
+	},
+	"homebrew-action-addsection": "Xonta discusion",
+	"homebrew-action-delete": "Scanseƚa",
+	"homebrew-action-move": "Sposta",
+	"homebrew-action-protect": "Protegi",
+	"homebrew-action-undelete": "Recupera",
+	"homebrew-action-unprotect": "Canbia ƚa protesion",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Canbia",
+	"homebrew-view-history": "Varda ƚa stòria",
+	"homebrew-view-view": "Lexi",
+	"homebrew-view-viewsource": "Varda el testo",
+	"homebrew-more-actions": "Piassè"
+}

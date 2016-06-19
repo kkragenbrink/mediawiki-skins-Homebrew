@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirzali"
+		]
+	},
+	"homebrew-action-addsection": "Mewzu ilawe ke",
+	"homebrew-action-delete": "Bestere",
+	"homebrew-action-move": "Bere",
+	"homebrew-action-protect": "Bısevekne",
+	"homebrew-action-undelete": "Esterıtene peyser bıcê",
+	"homebrew-action-unprotect": "Rake",
+	"homebrew-view-create": "Vıraze",
+	"homebrew-view-edit": "Bıvurne",
+	"homebrew-view-history": "Tarixi basne",
+	"homebrew-view-view": "Bıwane",
+	"homebrew-view-viewsource": "Çımey bıvêne"
+}

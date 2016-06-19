@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gastaz",
+			"Giromin Cangiaxo"
+		]
+	},
+	"homebrew-action-addsection": "Azónzi discusción",
+	"homebrew-action-delete": "Scancella",
+	"homebrew-action-move": "Mescia",
+	"homebrew-action-protect": "Protezi",
+	"homebrew-action-undelete": "Recuppera",
+	"homebrew-action-unprotect": "Cangia a proteçion",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Càngia",
+	"homebrew-view-history": "Fanni védde a Stöia",
+	"homebrew-view-view": "Lêzi",
+	"homebrew-view-viewsource": "Veddi a sorgénte"
+}

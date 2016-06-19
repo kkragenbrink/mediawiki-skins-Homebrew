@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Protostar"
+		]
+	},
+	"homebrew-action-addsection": "Add tòpik",
+	"homebrew-action-delete": "Delet",
+	"homebrew-action-move": "Muf",
+	"homebrew-action-protect": "Protèkt",
+	"homebrew-view-create": "Kreat",
+	"homebrew-view-edit": "Chenj",
+	"homebrew-view-history": "Luk historia",
+	"homebrew-view-view": "Rid",
+	"homebrew-view-viewsource": "Luk dhi sòrs"
+}

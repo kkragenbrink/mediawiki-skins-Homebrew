@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amikeco",
+			"Bouron"
+		]
+	},
+	"homebrew-action-addsection": "Нæуæг ныхас бакæнын",
+	"homebrew-action-delete": "Схафын",
+	"homebrew-action-move": "Ном ивын",
+	"homebrew-action-protect": "Сæхгæнын",
+	"homebrew-action-undelete": "Рацаразын",
+	"homebrew-action-unprotect": "Ивын хъахъхъæд",
+	"homebrew-view-create": "Скæнын",
+	"homebrew-view-edit": "Ивын",
+	"homebrew-view-history": "Истори",
+	"homebrew-view-view": "Кæсын",
+	"homebrew-view-viewsource": "Код кæсын",
+	"homebrew-more-actions": "Фылдæр"
+}

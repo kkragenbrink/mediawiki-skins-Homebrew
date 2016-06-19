@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asoxor",
+			"Calak"
+		]
+	},
+	"skinname-homebrew": "ڤێکتۆر",
+	"homebrew-action-addsection": "بابەت دابنێ",
+	"homebrew-action-delete": "بیسڕەوە",
+	"homebrew-action-move": "بیگوازەوە",
+	"homebrew-action-protect": "بیپارێزە",
+	"homebrew-action-undelete": "سڕینەوە بگەڕێنەوە",
+	"homebrew-action-unprotect": "پاراستن بگۆڕە",
+	"homebrew-view-create": "دروستکردن",
+	"homebrew-view-edit": "دەستکاریی بکە",
+	"homebrew-view-history": "مێژووەکەی ببینە",
+	"homebrew-view-view": "بیخوێنەوە",
+	"homebrew-view-viewsource": "سەرچاوەکەی ببینە",
+	"homebrew-more-actions": "زیاتر"
+}

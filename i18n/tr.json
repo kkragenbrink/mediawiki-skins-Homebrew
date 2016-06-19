@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek",
+			"Emperyan",
+			"Joseph",
+			"Stultiwikia",
+			"Vito Genovese",
+			"Rapsar"
+		]
+	},
+	"homebrew-skin-desc": "Taze bir görünüm ile MonoBook Modern versiyonu ve kullanılabilirlik iyileştirmeler",
+	"homebrew-action-addsection": "Konu ekle",
+	"homebrew-action-delete": "Sil",
+	"homebrew-action-move": "Taşı",
+	"homebrew-action-protect": "Koru",
+	"homebrew-action-undelete": "Silinmeyi geri al",
+	"homebrew-action-unprotect": "Korumayı değiştir",
+	"homebrew-view-create": "Oluştur",
+	"homebrew-view-edit": "Değiştir",
+	"homebrew-view-history": "Geçmişi gör",
+	"homebrew-view-view": "Oku",
+	"homebrew-view-viewsource": "Kaynağı gör",
+	"homebrew-more-actions": "Diğer"
+}

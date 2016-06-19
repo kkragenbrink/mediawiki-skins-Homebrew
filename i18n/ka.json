@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alsandro",
+			"David1010",
+			"გიორგიმელა"
+		]
+	},
+	"skinname-homebrew": "ვექტორული",
+	"homebrew.css": "/* აქ ჩასმული CSS გამოყენებული იქნება ვექტორული გაფორმების თემაში */",
+	"homebrew-action-addsection": "თემის ჩამატება",
+	"homebrew-action-delete": "წაშლა",
+	"homebrew-action-move": "გადატანა",
+	"homebrew-action-protect": "დაცვა",
+	"homebrew-action-undelete": "აღდგენა",
+	"homebrew-action-unprotect": "დაცვის შეცვლა",
+	"homebrew-view-create": "შექმნა",
+	"homebrew-view-edit": "რედაქტირება",
+	"homebrew-view-history": "ისტორია",
+	"homebrew-view-view": "შემოწმებული სტატია",
+	"homebrew-view-viewsource": "წყაროს ხილვა",
+	"homebrew-more-actions": "მეტი"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harvzsf",
+			"JinJian"
+		]
+	},
+	"homebrew-action-addsection": "Igdugang hin himangrawon",
+	"homebrew-action-delete": "Para-a",
+	"homebrew-action-move": "Balhina",
+	"homebrew-action-protect": "Panalipda",
+	"homebrew-action-undelete": "Igbalik an ginpara",
+	"homebrew-action-unprotect": "Liwani an panalipod",
+	"homebrew-view-create": "Himo-a",
+	"homebrew-view-edit": "Igliwat",
+	"homebrew-view-history": "Kitaa an kaagi",
+	"homebrew-view-view": "Basaha",
+	"homebrew-view-viewsource": "Kitaa an ginkuhaan",
+	"homebrew-more-actions": "Damo pa"
+}

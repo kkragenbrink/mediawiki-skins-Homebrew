@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gunnernett",
+			"Njardarlogar"
+		]
+	},
+	"homebrew-action-addsection": "Nytt emne",
+	"homebrew-action-delete": "Slett",
+	"homebrew-action-move": "Flytt",
+	"homebrew-action-protect": "Vern",
+	"homebrew-action-undelete": "Gjenopprett",
+	"homebrew-action-unprotect": "Endra vern",
+	"homebrew-view-create": "Opprett",
+	"homebrew-view-edit": "Endre",
+	"homebrew-view-history": "Sjå historikken",
+	"homebrew-view-view": "Les",
+	"homebrew-view-viewsource": "Sjå kjelda",
+	"homebrew-more-actions": "Meir"
+}

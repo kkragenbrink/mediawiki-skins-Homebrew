@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek",
+			"Daniyar",
+			"GaiJin",
+			"Kaztrans"
+		]
+	},
+	"homebrew-action-addsection": "Тақырып қосу",
+	"homebrew-action-delete": "Жою",
+	"homebrew-action-move": "Атауын өзгерту",
+	"homebrew-action-protect": "Қорғау",
+	"homebrew-action-undelete": "Жоюды болдырмау",
+	"homebrew-action-unprotect": "Қорғанысын өзгерту",
+	"homebrew-view-create": "Бастау",
+	"homebrew-view-edit": "Өңдеу",
+	"homebrew-view-history": "Өңделу тарихы",
+	"homebrew-view-view": "Оқу",
+	"homebrew-view-viewsource": "Қайнарын қарау",
+	"homebrew-more-actions": "Тағы"
+}

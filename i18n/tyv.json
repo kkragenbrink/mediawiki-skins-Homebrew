@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Agilight",
+			"Sborsody"
+		]
+	},
+	"skinname-homebrew": "Вектор",
+	"homebrew-action-addsection": "Кол сөстү немелээри",
+	"homebrew-action-delete": "Ырадыры",
+	"homebrew-action-move": "Шимчээри",
+	"homebrew-action-protect": "Камгалаары",
+	"homebrew-action-undelete": "Эгидер",
+	"homebrew-action-unprotect": "Камгалалды өскертири",
+	"homebrew-view-create": "Чаяары",
+	"homebrew-view-edit": "Эдер",
+	"homebrew-view-history": "Төөгүнү көөрү",
+	"homebrew-view-view": "Номчуур",
+	"homebrew-view-viewsource": "Дөзү бижиин көөрү"
+}

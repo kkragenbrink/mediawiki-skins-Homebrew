@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silvicola"
+		]
+	},
+	"homebrew.css": "/* CSS hiir beâjflusd nôr dii Homebrew-schelfn. Wen'd ale uf ôômôôl beâjflusn wilsch, muâsch an MediaWiki:Common.css was ändârn. */",
+	"homebrew-action-addsection": "Ân najn abschnid ôôfangn",
+	"homebrew-action-delete": "Leschn",
+	"homebrew-action-move": "Umdaafn",
+	"homebrew-action-protect": "Schidsn",
+	"homebrew-action-undelete": "Leschn riggängich machn",
+	"homebrew-action-unprotect": "Schuds ufgeebn",
+	"homebrew-view-create": "Ôôleechn",
+	"homebrew-view-edit": "Bearbajdn",
+	"homebrew-view-history": "Wärsjoonsfolche",
+	"homebrew-view-view": "Leesn",
+	"homebrew-view-viewsource": "Gwäl-dhägsd ôôgugn"
+}

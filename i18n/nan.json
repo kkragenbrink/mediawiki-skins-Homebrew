@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ianbu",
+			"唐吉訶德的侍從"
+		]
+	},
+	"homebrew-action-addsection": "Ke chi̍t-ê toān-lo̍h",
+	"homebrew-action-delete": "Thâi",
+	"homebrew-action-move": "Sóa khì",
+	"homebrew-action-protect": "Pó-hō·",
+	"homebrew-action-undelete": "chhú-siau thâi tiàu",
+	"homebrew-action-unprotect": "kái pó-hō·",
+	"homebrew-view-create": "Khai-sí siá",
+	"homebrew-view-edit": "Siu-kái",
+	"homebrew-view-history": "khoàⁿ le̍k-sú",
+	"homebrew-view-view": "Tha̍k",
+	"homebrew-view-viewsource": "Khoàⁿ goân-sú lōe-iông",
+	"homebrew-more-actions": "Koh khoàⁿ"
+}

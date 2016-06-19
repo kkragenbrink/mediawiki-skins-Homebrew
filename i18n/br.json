@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew.css": "/* Talvezout a raio ar CSS lakaet amañ evit implijerien ar gwiskadur Vektor */",
+	"homebrew.js": "/* Kement JavaScript amañ a vo karget evit an implijerien a ra gant ar gwiskadur Vektor */",
+	"homebrew-action-addsection": "Rannbennad nevez",
+	"homebrew-action-delete": "Diverkañ",
+	"homebrew-action-move": "Adenvel",
+	"homebrew-action-protect": "Gwareziñ",
+	"homebrew-action-undelete": "Diziverkañ",
+	"homebrew-action-unprotect": "Cheñch gwarez",
+	"homebrew-view-create": "Krouiñ",
+	"homebrew-view-edit": "Kemmañ",
+	"homebrew-view-history": "Gwelet an istor",
+	"homebrew-view-view": "Lenn",
+	"homebrew-view-viewsource": "Sellet ouzh tarzh an destenn",
+	"homebrew-more-actions": "Muioc'h"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chelin",
+			"C.R."
+		]
+	},
+	"homebrew-skin-desc": "Verziona muderna 'e MonoBook cu n'aspetto nuovo nuovo e tante migliuramente d'uso",
+	"homebrew-action-addsection": "Aggiunge chiacchierata",
+	"homebrew-action-delete": "Scancèlla",
+	"homebrew-action-move": "Mòve",
+	"homebrew-action-protect": "Prutegge",
+	"homebrew-action-undelete": "Arrepiglia",
+	"homebrew-action-unprotect": "Càgna prutezzione",
+	"homebrew-view-create": "Cria",
+	"homebrew-view-edit": "Càgna",
+	"homebrew-view-history": "Vere cronologgia",
+	"homebrew-view-view": "Liegge",
+	"homebrew-view-viewsource": "Vere sorgente",
+	"homebrew-more-actions": "Cchiù"
+}

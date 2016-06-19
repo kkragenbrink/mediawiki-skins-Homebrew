@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Felis",
+			"Jun Misugi"
+		]
+	},
+	"homebrew-action-addsection": "Aggiungì oggettu",
+	"homebrew-action-delete": "Canzella",
+	"homebrew-action-move": "Ippustha",
+	"homebrew-action-protect": "Pruteggì",
+	"homebrew-view-create": "Cria",
+	"homebrew-view-edit": "Mudifigga",
+	"homebrew-view-history": "Vèdi isthòria",
+	"homebrew-view-view": "Leggi",
+	"homebrew-view-viewsource": "Vèdi fonti"
+}

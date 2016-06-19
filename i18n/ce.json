@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sasan700",
+			"Умар"
+		]
+	},
+	"skinname-homebrew": "Векторан",
+	"homebrew-action-addsection": "ТӀетоха хьедар",
+	"homebrew-action-delete": "ДӀаяккхар",
+	"homebrew-action-move": "ЦӀе хийцар",
+	"homebrew-action-protect": "Ларъяр",
+	"homebrew-action-undelete": "МеттахӀоттае",
+	"homebrew-action-unprotect": "ГӀароллех къаста",
+	"homebrew-view-create": "Кхоллар",
+	"homebrew-view-edit": "Нисъе",
+	"homebrew-view-history": "АгӀона хийцамаш",
+	"homebrew-view-view": "Éшар",
+	"homebrew-view-viewsource": "Билглонашка хьажа",
+	"homebrew-more-actions": "Кхин"
+}

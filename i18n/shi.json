@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dalinanir"
+		]
+	},
+	"homebrew-action-addsection": "Zayd amli",
+	"homebrew-action-delete": "Ḥiyd",
+	"homebrew-action-move": "Smmatti",
+	"homebrew-action-protect": "Ḥbu",
+	"homebrew-action-undelete": "Rard may mayḥiydn",
+	"homebrew-action-unprotect": "Ḥiyd aḥbu",
+	"homebrew-view-create": "Skert",
+	"homebrew-view-edit": "Ara",
+	"homebrew-view-history": "Mel amzruy",
+	"homebrew-view-view": "ɣr",
+	"homebrew-view-viewsource": "Ẓr asagm"
+}

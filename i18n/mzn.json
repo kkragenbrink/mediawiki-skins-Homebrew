@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mjbmr",
+			"محک"
+		]
+	},
+	"homebrew-action-addsection": "ترنه گپ بزوئن",
+	"homebrew-action-delete": "پاک هاکردن",
+	"homebrew-action-move": "دکش هاکردن",
+	"homebrew-action-protect": "زلفن بزوئن",
+	"homebrew-action-undelete": "دباره بنویشته بیّن",
+	"homebrew-action-unprotect": "زلفن عوض هاکردن",
+	"homebrew-view-create": "بساتن",
+	"homebrew-view-edit": "دچی‌ین",
+	"homebrew-view-history": "تاریخچه ره بَدی‌ین",
+	"homebrew-view-view": "بخوندستن",
+	"homebrew-view-viewsource": "ونه منبع ره هارشائن",
+	"homebrew-more-actions": "ویشته"
+}

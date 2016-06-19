@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lévi"
+		]
+	},
+	"homebrew-action-addsection": "Zûnta discusiòun",
+	"homebrew-action-delete": "Scanşèla",
+	"homebrew-action-move": "Spôsta",
+	"homebrew-action-protect": "Prutēz",
+	"homebrew-action-undelete": "Fà al recóper",
+	"homebrew-action-unprotect": "Câmbia la prutesiòun",
+	"homebrew-view-create": "Invèinta",
+	"homebrew-view-edit": "Mudéfica",
+	"homebrew-view-history": "Guêrda la stôria",
+	"homebrew-view-view": "Lēş",
+	"homebrew-view-viewsource": "Guêrda la surzéia",
+	"homebrew-more-actions": "Êter"
+}

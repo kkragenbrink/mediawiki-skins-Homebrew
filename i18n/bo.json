@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Freeyak",
+			"Phurbutsering"
+		]
+	},
+	"homebrew-action-addsection": "བརྗོད་གཞི་ཁ་སྣོན།",
+	"homebrew-action-delete": "སུབས།",
+	"homebrew-action-move": "སྤོར་བ།",
+	"homebrew-action-protect": "འགོག་སྲུང།",
+	"homebrew-action-undelete": "མི་བསུབས་",
+	"homebrew-action-unprotect": "སྲུང་སྐྱོབ་གློད་པ།",
+	"homebrew-view-create": "གསར་བཟོ།",
+	"homebrew-view-edit": "རྩོམ་སྒྲིག",
+	"homebrew-view-history": "ལོ་རྒྱུས་ལ་ལྟ་བ།",
+	"homebrew-view-view": "ཀློག་པ།",
+	"homebrew-view-viewsource": "ཁུངས་ལ་ལྟ་བ།"
+}

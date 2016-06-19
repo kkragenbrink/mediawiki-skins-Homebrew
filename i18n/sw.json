@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Muddyb Blast Producer"
+		]
+	},
+	"homebrew-action-addsection": "Weka mada",
+	"homebrew-action-delete": "Futa",
+	"homebrew-action-move": "Hamisha",
+	"homebrew-action-protect": "Linda",
+	"homebrew-action-undelete": "Rudisha",
+	"homebrew-action-unprotect": "Badilisha ulinzi",
+	"homebrew-view-create": "Anzisha",
+	"homebrew-view-edit": "Hariri",
+	"homebrew-view-history": "Fungua historia",
+	"homebrew-view-view": "Soma",
+	"homebrew-view-viewsource": "Tazama msimbo"
+}

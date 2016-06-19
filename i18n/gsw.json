@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"homebrew-action-addsection": "Abschnitt zuefiege",
+	"homebrew-action-delete": "Lesche",
+	"homebrew-action-move": "Verschiebe",
+	"homebrew-action-protect": "Schitze",
+	"homebrew-action-undelete": "Widerhärstelle",
+	"homebrew-action-unprotect": "Syteschutz ändere",
+	"homebrew-view-create": "Aalege",
+	"homebrew-view-edit": "Bearbeite",
+	"homebrew-view-history": "Versionsgschicht",
+	"homebrew-view-view": "Läse",
+	"homebrew-view-viewsource": "Quälltext aaluege",
+	"homebrew-more-actions": "Meh"
+}

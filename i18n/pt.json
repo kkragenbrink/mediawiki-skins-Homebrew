@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Giro720",
+			"Hamilton Abreu",
+			"Malafaya",
+			"Vitorvicentevalente",
+			"Waldir"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Versão moderna do MonoBook com um visual fresco e várias melhorias de usabilidade",
+	"homebrew.css": "/* Código CSS colocado aqui afectará os utilizadores do tema Homebrew */",
+	"homebrew.js": "/* Código Javascript colocado aqui será carregado para utilizadores do tema Homebrew */",
+	"homebrew-action-addsection": "Adicionar&nbsp;tópico",
+	"homebrew-action-delete": "Eliminar",
+	"homebrew-action-move": "Mover",
+	"homebrew-action-protect": "Proteger",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Alterar protecção",
+	"homebrew-view-create": "Criar",
+	"homebrew-view-edit": "Editar",
+	"homebrew-view-history": "Ver histórico",
+	"homebrew-view-view": "Ler",
+	"homebrew-view-viewsource": "Ver fonte",
+	"homebrew-more-actions": "Mais"
+}

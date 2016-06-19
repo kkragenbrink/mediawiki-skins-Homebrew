@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatus",
+			"JenVan",
+			"Kaganer",
+			"Nemo bis",
+			"Okras",
+			"Александр Сигачёв"
+		]
+	},
+	"skinname-homebrew": "Векторное",
+	"homebrew-skin-desc": "Современная версия MonoBook с обновлённым оформлением и многими улучшениями в юзабилити",
+	"homebrew.css": "/* Размещённый здесь CSS будет применяться к векторной теме оформления  */",
+	"homebrew.js": "/* Размещённый здесь код JavaScript будет загружаться пользователям, использующим тему оформления Homebrew */",
+	"homebrew-action-addsection": "Добавить тему",
+	"homebrew-action-delete": "Удалить",
+	"homebrew-action-move": "Переименовать",
+	"homebrew-action-protect": "Защитить",
+	"homebrew-action-undelete": "Восстановить",
+	"homebrew-action-unprotect": "Изменить защиту",
+	"homebrew-view-create": "Создать",
+	"homebrew-view-edit": "Править",
+	"homebrew-view-history": "История",
+	"homebrew-view-view": "Читать",
+	"homebrew-view-viewsource": "Просмотр разметки",
+	"homebrew-more-actions": "Ещё"
+}

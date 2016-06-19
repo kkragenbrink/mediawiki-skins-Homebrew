@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hazard-SJ",
+			"Yocahuna"
+		]
+	},
+	"homebrew-action-addsection": "Ad tapik",
+	"homebrew-action-delete": "Diliit",
+	"homebrew-action-move": "Muuv",
+	"homebrew-action-protect": "Protek",
+	"homebrew-action-undelete": "Andiliit",
+	"homebrew-action-unprotect": "Neu protektian",
+	"homebrew-view-create": "Kriet",
+	"homebrew-view-edit": "Hedit",
+	"homebrew-view-history": "Vyuu ischri",
+	"homebrew-view-view": "Riid",
+	"homebrew-view-viewsource": "Vyuu Suos"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Enzoreg",
+			"Zanatos"
+		]
+	},
+	"homebrew-action-addsection": "Zid topic",
+	"homebrew-action-delete": "Suprimi",
+	"homebrew-action-move": "Neqel",
+	"homebrew-action-protect": "Ḫami",
+	"homebrew-action-undelete": "rja lhadf",
+	"homebrew-action-unprotect": "Ḫiyed l-ḫimaya",
+	"homebrew-view-create": "Ĥṫareĝ",
+	"homebrew-view-edit": "Ĝedel",
+	"homebrew-view-history": "Ṫariĥ l-fiċyé",
+	"homebrew-view-view": "Qra",
+	"homebrew-view-viewsource": "Ċof l-masdar"
+}

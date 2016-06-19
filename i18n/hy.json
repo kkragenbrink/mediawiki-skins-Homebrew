@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teak",
+			"Vadgt",
+			"Xelgen",
+			"Arman musikyan"
+		]
+	},
+	"skinname-homebrew": "Սովորական",
+	"homebrew-action-addsection": "Ավելացնել քննարկում",
+	"homebrew-action-delete": "Ջնջել",
+	"homebrew-action-move": "Տեղափոխել այս էջը",
+	"homebrew-action-protect": "Պաշտպանել",
+	"homebrew-action-undelete": "Վերականգնել",
+	"homebrew-action-unprotect": "Փոխել պաշտպանումը",
+	"homebrew-view-create": "Ստեղծել",
+	"homebrew-view-edit": "Խմբագրել",
+	"homebrew-view-history": "Դիտել պատմությունը",
+	"homebrew-view-view": "Կարդալ",
+	"homebrew-view-viewsource": "Դիտել ելատեքստը",
+	"homebrew-more-actions": "Ավելին"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mostafadaneshvar",
+			"RigiMahnoor"
+		]
+	},
+	"homebrew-action-addsection": "هور کتن عنوان",
+	"homebrew-action-delete": "زورگ",
+	"homebrew-action-move": "جاه په جاه",
+	"homebrew-action-protect": "حفاظت",
+	"homebrew-action-undelete": "ترینگ",
+	"homebrew-action-unprotect": "پروتکشنء ٹگل بدئ",
+	"homebrew-view-create": "شرکتن",
+	"homebrew-view-edit": "اصلاح",
+	"homebrew-view-history": "چارتن تاریح",
+	"homebrew-view-view": "وانتن",
+	"homebrew-view-viewsource": "پیشدارگ بن جاه",
+	"homebrew-more-actions": "گیشتر"
+}

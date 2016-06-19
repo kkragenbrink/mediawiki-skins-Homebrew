@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Clerc",
+			"Fiestoforo"
+		]
+	},
+	"homebrew-action-addsection": "Püñamtun dungu",
+	"homebrew-action-delete": "Liftun",
+	"homebrew-action-move": "Wiñamün",
+	"homebrew-action-protect": "Nürüfkünun",
+	"homebrew-action-undelete": "Wüñoñamümün",
+	"homebrew-action-unprotect": "Kalekünun Nürüfkünun",
+	"homebrew-view-create": "Dewman",
+	"homebrew-view-edit": "Kümeelün",
+	"homebrew-view-history": "Pengelün rupañmael",
+	"homebrew-view-view": "Chillkatun",
+	"homebrew-view-viewsource": "Kimam chew küpan chi wirin",
+	"homebrew-more-actions": "Doy"
+}

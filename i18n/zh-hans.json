@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liangent",
+			"Liuxinyu970226",
+			"Xiaomingyan",
+			"Cwek"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "提供清新的外观和很多可用性改进的现代版MonoBook",
+	"homebrew.css": "/* 放置于这里的CSS将影响使用Homebrew皮肤的用户 */",
+	"homebrew.js": "/* 这里的任何JavaScript将为使用Homebrew皮肤的用户加载 */",
+	"homebrew-action-addsection": "添加话题",
+	"homebrew-action-delete": "删除",
+	"homebrew-action-move": "移动",
+	"homebrew-action-protect": "保护",
+	"homebrew-action-undelete": "还原",
+	"homebrew-action-unprotect": "更改保护",
+	"homebrew-view-create": "创建",
+	"homebrew-view-edit": "编辑",
+	"homebrew-view-history": "查看历史",
+	"homebrew-view-view": "阅读",
+	"homebrew-view-viewsource": "查看源代码",
+	"homebrew-more-actions": "更多"
+}

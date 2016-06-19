@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Better"
+		]
+	},
+	"homebrew-action-addsection": "Añiil tema",
+	"homebrew-action-delete": "Esborral",
+	"homebrew-action-move": "Mual",
+	"homebrew-action-protect": "Protegel",
+	"homebrew-action-undelete": "Esborral",
+	"homebrew-action-unprotect": "Esprotegel",
+	"homebrew-view-create": "Crial",
+	"homebrew-view-edit": "Eital",
+	"homebrew-view-history": "Guipal estorial",
+	"homebrew-view-view": "Leyel",
+	"homebrew-view-viewsource": "Guipal cóigu"
+}

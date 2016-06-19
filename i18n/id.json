@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arifin.wijaya",
+			"Bennylin",
+			"Farras",
+			"Iwan Novirion",
+			"Rex"
+		]
+	},
+	"skinname-homebrew": "Vektor",
+	"homebrew-skin-desc": "Versi modern dari MonoBook dengan tampilan segar dan banyak perbaikan kegunaan",
+	"homebrew.css": "/* CSS yang ada di sini akan diterapkan pada kulit Vektor. */",
+	"homebrew.js": "/* Semua JavaScript di sini akan dimuatkan untuk para pengguna yang menggunakan kulit Homebrew */",
+	"homebrew-action-addsection": "Bagian baru",
+	"homebrew-action-delete": "Hapus",
+	"homebrew-action-move": "Pindahkan",
+	"homebrew-action-protect": "Lindungi",
+	"homebrew-action-undelete": "Pembatalan penghapusan",
+	"homebrew-action-unprotect": "Ubah perlindungan",
+	"homebrew-view-create": "Buat",
+	"homebrew-view-edit": "Sunting",
+	"homebrew-view-history": "Versi terdahulu",
+	"homebrew-view-view": "Baca",
+	"homebrew-view-viewsource": "Lihat sumber",
+	"homebrew-more-actions": "Lainnya"
+}

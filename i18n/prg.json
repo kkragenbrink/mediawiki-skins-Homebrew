@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nertiks",
+			"Peteris"
+		]
+	},
+	"homebrew-action-delete": "Āupausinais",
+	"homebrew-action-move": "Prapīdais",
+	"homebrew-action-protect": "Kūnsteis",
+	"homebrew-action-unprotect": "Etkūnteis",
+	"homebrew-view-create": "Teīkeis",
+	"homebrew-view-edit": "Redigīs",
+	"homebrew-view-history": "Enwaidinnais istōrijan",
+	"homebrew-view-view": "Skaitāis",
+	"homebrew-view-viewsource": "Enwaidinnais appun"
+}

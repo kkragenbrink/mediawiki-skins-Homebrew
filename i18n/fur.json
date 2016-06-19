@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Klenje",
+			"Tocaibon"
+		]
+	},
+	"homebrew-action-addsection": "Gnove sezion",
+	"homebrew-action-delete": "Elimine",
+	"homebrew-action-move": "Môf",
+	"homebrew-action-protect": "Protêç",
+	"homebrew-action-undelete": "Recupere",
+	"homebrew-action-unprotect": "Gambie la protezion",
+	"homebrew-view-create": "Cree",
+	"homebrew-view-edit": "Cambie",
+	"homebrew-view-history": "Cjale il storic",
+	"homebrew-view-view": "Lei",
+	"homebrew-view-viewsource": "Cjale risultive"
+}

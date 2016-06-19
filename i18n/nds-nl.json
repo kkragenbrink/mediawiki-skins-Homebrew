@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"homebrew-action-addsection": "Niej onderwarp",
+	"homebrew-action-delete": "Vortdoon",
+	"homebrew-action-move": "Herneumen",
+	"homebrew-action-protect": "Beveiligen",
+	"homebrew-action-undelete": "Weerummeplaotsen",
+	"homebrew-action-unprotect": "Beveiliging wiezigen",
+	"homebrew-view-create": "Anmaken",
+	"homebrew-view-edit": "Bewarken",
+	"homebrew-view-history": "Geschiedenisse bekieken",
+	"homebrew-view-view": "Lezen",
+	"homebrew-view-viewsource": "Brontekste bekieken",
+	"homebrew-more-actions": "Meer"
+}

@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Ebraminio",
+			"Huji",
+			"Reza1615",
+			"Zack90"
+		]
+	},
+	"skinname-homebrew": "برداری",
+	"homebrew-skin-desc": "نسخه مدرن منوبوک با نگاه تازه و بهبود قابلیت استفاده",
+	"homebrew.css": "/* دستورات این بخش کاربرانی را که از پوستهٔ وکتور استفاده کنند تحت تاثیر قرار می‌دهند. */",
+	"homebrew.js": "/ * کدهای جاوااسکریپتی که در اینجا قرار می‌گیرند برای کاربران پوستهٔ وکتور  بارگیری می‌شود * /",
+	"homebrew-action-addsection": "افزودن بخش",
+	"homebrew-action-delete": "حذف",
+	"homebrew-action-move": "انتقال",
+	"homebrew-action-protect": "محافظت",
+	"homebrew-action-undelete": "احیا",
+	"homebrew-action-unprotect": "تغییر سطح حفاظت",
+	"homebrew-view-create": "ایجاد",
+	"homebrew-view-edit": "ویرایش",
+	"homebrew-view-history": "نمایش تاریخچه",
+	"homebrew-view-view": "خواندن",
+	"homebrew-view-viewsource": "نمایش مبدأ",
+	"homebrew-more-actions": "بیشتر"
+}

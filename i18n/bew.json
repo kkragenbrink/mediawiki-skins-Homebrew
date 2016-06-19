@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naval Scene"
+		]
+	},
+	"homebrew-action-delete": "Ngapus",
+	"homebrew-action-move": "Pindahin",
+	"homebrew-action-undelete": "Balikin nyang keapus",
+	"homebrew-view-create": "Bikin"
+}

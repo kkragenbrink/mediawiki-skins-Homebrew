@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kilavagora",
+			"Lika2672",
+			"Machirkholi",
+			"Silovan"
+		]
+	},
+	"homebrew-action-addsection": "თემაშ მიშაძინა",
+	"homebrew-action-delete": "ლასუა",
+	"homebrew-action-move": "გინოღალა",
+	"homebrew-action-protect": "თხილუა",
+	"homebrew-view-create": "დორსხუაფა",
+	"homebrew-view-edit": "რედაქტირაფა",
+	"homebrew-view-history": "ისტორიაშ ძირაფა",
+	"homebrew-view-view": "კითხირი",
+	"homebrew-view-viewsource": "ქიძირე წყუ",
+	"homebrew-more-actions": "უმოსი"
+}

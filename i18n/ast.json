@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu",
+			"Xuacu"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Versión moderna de MonoBook, con un aspeutu frescu y munchos ameyoramientos d'usabilidá",
+	"homebrew.css": "/* Los CSS allugaos equí afeutarán a los usuarios del aspeutu Homebrew */",
+	"homebrew.js": "/* Cualesquier JavaScript que tea equí se cargará pa los usuarios del aspeutu Homebrew */",
+	"homebrew-action-addsection": "Amestar seición",
+	"homebrew-action-delete": "Desaniciar",
+	"homebrew-action-move": "Treslladar",
+	"homebrew-action-protect": "Protexer",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Camudar la proteición",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Editar",
+	"homebrew-view-history": "Ver historial",
+	"homebrew-view-view": "Lleer",
+	"homebrew-view-viewsource": "Ver fonte",
+	"homebrew-more-actions": "Más"
+}

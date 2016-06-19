@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avicennasis",
+			"John Reid",
+			"Omnipaedista"
+		]
+	},
+	"homebrew-skin-desc": "Modern version o MonoBook wi ae fresh luik n monie uisabeelitie impruivments",
+	"homebrew-action-addsection": "Eik topic",
+	"homebrew-action-delete": "Delyte",
+	"homebrew-action-move": "Muiv",
+	"homebrew-action-protect": "Fend",
+	"homebrew-action-undelete": "Ondelyte",
+	"homebrew-action-unprotect": "Chynge protection",
+	"homebrew-view-create": "Ceaut",
+	"homebrew-view-edit": "Eedit",
+	"homebrew-view-history": "See histerie",
+	"homebrew-view-view": "Read",
+	"homebrew-view-viewsource": "See Soorce",
+	"homebrew-more-actions": "Mair"
+}

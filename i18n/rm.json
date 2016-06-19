@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gion-andri"
+		]
+	},
+	"homebrew-action-addsection": "Agiuntar chapitel",
+	"homebrew-action-delete": "Stizzar",
+	"homebrew-action-move": "Spustar",
+	"homebrew-action-protect": "Bloccar",
+	"homebrew-action-undelete": "Restituir",
+	"homebrew-action-unprotect": "Midar la protecziun",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Modifitgar",
+	"homebrew-view-history": "Cronologia",
+	"homebrew-view-view": "Leger",
+	"homebrew-view-viewsource": "Mussar il code"
+}

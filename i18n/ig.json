@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ukabia"
+		]
+	},
+	"homebrew-action-addsection": "Tinyé Okwu",
+	"homebrew-action-delete": "Kàcha",
+	"homebrew-action-move": "Páfụ",
+	"homebrew-action-protect": "Cẹdolu",
+	"homebrew-action-undelete": "Á gbàkashikwà",
+	"homebrew-action-unprotect": "Nchẹdo mgbanwe",
+	"homebrew-view-create": "Ké",
+	"homebrew-view-edit": "Mèzi",
+	"homebrew-view-history": "Zí ịta",
+	"homebrew-view-view": "Gụ́",
+	"homebrew-view-viewsource": "Zi mkpurụ"
+}

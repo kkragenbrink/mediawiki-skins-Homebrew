@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Omnipaedista",
+			"Sinopeus",
+			"ZaDiak"
+		]
+	},
+	"homebrew-action-delete": "Σβήσον",
+	"homebrew-action-move": "Ετεροχλάεμαν",
+	"homebrew-action-protect": "Ασπάλιγμαν",
+	"homebrew-action-undelete": "Κλώσιμον",
+	"homebrew-action-unprotect": "Άνοιγμαν",
+	"homebrew-view-create": "Ποίσον",
+	"homebrew-view-edit": "Άλλαξον",
+	"homebrew-view-history": "Τερέστεν ιστορίαν",
+	"homebrew-view-view": "Δεάβασον",
+	"homebrew-view-viewsource": "Τερέστεν κωδικόν"
+}

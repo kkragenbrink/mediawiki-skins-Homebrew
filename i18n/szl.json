@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Britscher",
+			"Gaj777",
+			"Przemub",
+			"Krol111"
+		]
+	},
+	"homebrew-action-addsection": "Nowo tajla",
+	"homebrew-action-delete": "Wyćepej",
+	"homebrew-action-move": "Przećep",
+	"homebrew-action-protect": "Zawrzij",
+	"homebrew-action-undelete": "Wćep",
+	"homebrew-action-unprotect": "Uodymkńij",
+	"homebrew-view-create": "Stwůrz",
+	"homebrew-view-edit": "Sprowjej",
+	"homebrew-view-history": "Uobocz gyszichta",
+	"homebrew-view-view": "Czytej",
+	"homebrew-view-viewsource": "Zdrzůdłowy tekst",
+	"homebrew-more-actions": "Wjyncyj"
+}

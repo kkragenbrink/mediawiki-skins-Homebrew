@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Modern version of MonoBook with fresh look and many usability improvements",
+	"homebrew.css": "/* CSS placed here will affect users of the Homebrew skin */",
+	"homebrew.js": "/* Any JavaScript here will be loaded for users using the Homebrew skin */",
+	"homebrew-action-addsection": "Add topic",
+	"homebrew-action-delete": "Delete",
+	"homebrew-action-move": "Move",
+	"homebrew-action-protect": "Protect",
+	"homebrew-action-undelete": "Undelete",
+	"homebrew-action-unprotect": "Change protection",
+	"homebrew-view-create": "Create",
+	"homebrew-view-edit": "Edit",
+	"homebrew-view-history": "View history",
+	"homebrew-view-view": "Read",
+	"homebrew-view-viewsource": "View source",
+	"homebrew-more-actions": "More"
+}

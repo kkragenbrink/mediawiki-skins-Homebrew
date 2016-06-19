@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bogups",
+			"Тамэ Балъкъэрхэ"
+		]
+	},
+	"homebrew-action-addsection": "Теухугъуэ щӀэуэ щӀэдзэн",
+	"homebrew-action-delete": "Ихын",
+	"homebrew-action-move": "ЦӀэр хъуэжын",
+	"homebrew-action-protect": "Хъумэн",
+	"homebrew-action-undelete": "ЗыфӀэгъэувэжын",
+	"homebrew-action-unprotect": "Хъумэныр техыжын",
+	"homebrew-view-create": "ЩӀын",
+	"homebrew-view-edit": "Гъэтэрэзын",
+	"homebrew-view-history": "Тхыдэм еплъын",
+	"homebrew-view-view": "Еджэн",
+	"homebrew-view-viewsource": "КъызхэкӀам еплъын"
+}

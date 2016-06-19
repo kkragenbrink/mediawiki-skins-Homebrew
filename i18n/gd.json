@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akerbeltz",
+			"GunChleoc"
+		]
+	},
+	"homebrew-skin-desc": "Tionndadh ùr-nodha de MonoBook le dreach ùr air 's iomadh leasachadh air a sho-chleachdachd",
+	"homebrew-action-addsection": "Cuir ris cuspair",
+	"homebrew-action-delete": "Sguab às",
+	"homebrew-action-move": "Gluais",
+	"homebrew-action-protect": "Dìon",
+	"homebrew-action-undelete": "Neo-dhèan an sguabadh às",
+	"homebrew-action-unprotect": "Atharraich an dìon",
+	"homebrew-view-create": "Cruthaich",
+	"homebrew-view-edit": "Deasaich",
+	"homebrew-view-history": "Seall an eachdraidh",
+	"homebrew-view-view": "Leugh",
+	"homebrew-view-viewsource": "Seall an tùs",
+	"homebrew-more-actions": "Barrachd"
+}

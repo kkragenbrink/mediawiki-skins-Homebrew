@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak",
+			"Romaine",
+			"SPQRobin",
+			"Siebrand",
+			"Troefkaart",
+			"Sjoerddebruin"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Moderne versie van MonoBook met een fris uiterlijk en verbeteringen op het gebied van gebruiksvriendelijkheid",
+	"homebrew.css": "/* CSS die hier wordt geplaatst heeft alleen invloed op het uiterlijk Homebrew */",
+	"homebrew.js": "/* JavaScript die hier wordt geplaatst heeft alleen invloed op gebruikers die het uiterlijk Homebrew gebruiken */",
+	"homebrew-action-addsection": "Kopje toevoegen",
+	"homebrew-action-delete": "Verwijderen",
+	"homebrew-action-move": "Hernoemen",
+	"homebrew-action-protect": "Beveiligen",
+	"homebrew-action-undelete": "Terugplaatsen",
+	"homebrew-action-unprotect": "Beveiliging wijzigen",
+	"homebrew-view-create": "Aanmaken",
+	"homebrew-view-edit": "Bewerken",
+	"homebrew-view-history": "Geschiedenis weergeven",
+	"homebrew-view-view": "Lezen",
+	"homebrew-view-viewsource": "Brontekst bekijken",
+	"homebrew-more-actions": "Meer"
+}

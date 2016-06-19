@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Capisano",
+			"Oxyzen"
+		]
+	},
+	"homebrew-action-addsection": "Magdugang sang topiko",
+	"homebrew-action-delete": "Panason",
+	"homebrew-action-move": "Isdogon",
+	"homebrew-action-protect": "Protektahan",
+	"homebrew-action-undelete": "Indi pag panason",
+	"homebrew-action-unprotect": "Islan ang proteksyon",
+	"homebrew-view-create": "Ubrahon",
+	"homebrew-view-edit": "Bag-uhon",
+	"homebrew-view-history": "Ipakita ang kasaysayan",
+	"homebrew-view-view": "Basahon",
+	"homebrew-view-viewsource": "Lantawon ang ginhalinan"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aalam",
+			"Babanwalia",
+			"Raj Singh",
+			"TariButtar"
+		]
+	},
+	"homebrew-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
+	"homebrew-action-delete": "ਹਟਾਓ",
+	"homebrew-action-move": "ਭੇਜੋ",
+	"homebrew-action-protect": "ਸੁਰੱਖਿਆ",
+	"homebrew-action-undelete": "ਹਟਾਉਣਾ-ਵਾਪਸ",
+	"homebrew-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
+	"homebrew-view-create": "ਬਣਾਓ",
+	"homebrew-view-edit": "ਸੋਧੋ",
+	"homebrew-view-history": "ਅਤੀਤ ਵੇਖੋ",
+	"homebrew-view-view": "ਪੜ੍ਹੋ",
+	"homebrew-view-viewsource": "ਸਰੋਤ ਵੇਖੋ",
+	"homebrew-more-actions": "ਹੋਰ"
+}

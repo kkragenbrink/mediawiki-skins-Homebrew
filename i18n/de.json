@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"The Evil IP address",
+			"Umherirrender"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Stellt eine modernisierte Benutzeroberfläche bereit",
+	"homebrew.css": "/* Das folgende CSS wird für Benutzer der Homebrew-Benutzeroberfläche geladen. */",
+	"homebrew.js": "/* Das folgende JavaScript wird für Benutzer der Homebrew-Benutzeroberfläche geladen. */",
+	"homebrew-action-addsection": "Abschnitt hinzufügen",
+	"homebrew-action-delete": "Löschen",
+	"homebrew-action-move": "Verschieben",
+	"homebrew-action-protect": "Schützen",
+	"homebrew-action-undelete": "Wiederherstellen",
+	"homebrew-action-unprotect": "Seitenschutz ändern",
+	"homebrew-view-create": "Erstellen",
+	"homebrew-view-edit": "Bearbeiten",
+	"homebrew-view-history": "Versionsgeschichte",
+	"homebrew-view-view": "Lesen",
+	"homebrew-view-viewsource": "Quelltext anzeigen",
+	"homebrew-more-actions": "Mehr"
+}

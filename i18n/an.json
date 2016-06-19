@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juanpabl",
+			"Carlos Cristia"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew.css": "/* Os estilos CSS colocaus aquí s'aplicarán ta totz os usuarios que faigan servir l'apariencia Homebrew */",
+	"homebrew.js": "/* Qualsiquier codigo Javascript escrito aquí se cargará ta totz os usuarios que usen a piel Homebrew */",
+	"homebrew-action-addsection": "Adhibir nueva sección",
+	"homebrew-action-delete": "Borrar",
+	"homebrew-action-move": "Tresladar",
+	"homebrew-action-protect": "Protecher",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Cambiar protección",
+	"homebrew-view-create": "Creyar",
+	"homebrew-view-edit": "Editar",
+	"homebrew-view-history": "Amostrar l'historial",
+	"homebrew-view-view": "Leyer",
+	"homebrew-view-viewsource": "Veyer o codigo fuent",
+	"homebrew-more-actions": "Mas"
+}

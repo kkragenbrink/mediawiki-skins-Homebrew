@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kscanne",
+			"Kwekubo",
+			"Moydow"
+		]
+	},
+	"skinname-homebrew": "Veicteoir",
+	"homebrew-action-addsection": "Cuir topaic leis",
+	"homebrew-action-delete": "Scrios",
+	"homebrew-action-move": "Athainmnigh",
+	"homebrew-action-protect": "Glasáil",
+	"homebrew-action-undelete": "Díscrios",
+	"homebrew-action-unprotect": "Díghlasáil",
+	"homebrew-view-create": "Cruthaigh",
+	"homebrew-view-edit": "Athraigh an lch seo",
+	"homebrew-view-history": "Féach ar stair",
+	"homebrew-view-view": "Léigh",
+	"homebrew-view-viewsource": "Féach ar fhoinse"
+}

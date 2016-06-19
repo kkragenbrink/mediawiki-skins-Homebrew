@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Przemub",
+			"Schläsinger",
+			"Timpul",
+			"Äberlausitzer"
+		]
+	},
+	"homebrew-action-addsection": "Obschnitt hinzufiega",
+	"homebrew-action-delete": "Läscha",
+	"homebrew-action-move": "Verschieba",
+	"homebrew-action-protect": "Schützen",
+	"homebrew-action-undelete": "Wiederherstella",
+	"homebrew-action-unprotect": "Freigahn",
+	"homebrew-view-create": "Erstella",
+	"homebrew-view-edit": "Bearbeita",
+	"homebrew-view-history": "Versionsgeschichte",
+	"homebrew-view-view": "Lessa",
+	"homebrew-view-viewsource": "Quelltext siehn"
+}

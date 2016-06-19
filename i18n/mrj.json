@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amdf"
+		]
+	},
+	"homebrew-action-delete": "Карангдаш",
+	"homebrew-action-move": "Лӹмӹм вашталташ",
+	"homebrew-action-protect": "Ӹшӹклӓш",
+	"homebrew-view-create": "Ӹштӓш",
+	"homebrew-view-edit": "Тӧрлӹмӓш",
+	"homebrew-view-history": "Историм анжымаш",
+	"homebrew-view-view": "Лыдмаш",
+	"homebrew-view-viewsource": "Сек пӹтӓриш кодым анжалаш"
+}

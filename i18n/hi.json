@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai",
+			"आलोक",
+			"रोहित रावत"
+		]
+	},
+	"homebrew-action-addsection": "विषय जोड़ें",
+	"homebrew-action-delete": "हटाएँ",
+	"homebrew-action-move": "स्थानांतरण करें",
+	"homebrew-action-protect": "सुरक्षित करें",
+	"homebrew-action-undelete": "हटाना वापस लें",
+	"homebrew-action-unprotect": "सुरक्षा बदलें",
+	"homebrew-view-create": "बनाएँ",
+	"homebrew-view-edit": "सम्पादन",
+	"homebrew-view-history": "इतिहास देखें",
+	"homebrew-view-view": "पढ़ें",
+	"homebrew-view-viewsource": "स्रोत देखें",
+	"homebrew-more-actions": "अधिक"
+}

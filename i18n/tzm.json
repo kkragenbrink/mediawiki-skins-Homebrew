@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Moha",
+			"Tifinaghes"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"homebrew-action-delete": "ⵓⴽⵓⵙ",
+	"homebrew-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"homebrew-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"homebrew-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"homebrew-view-create": "ⴰⵔⴰ",
+	"homebrew-view-edit": "ⴱⴷⴷⴻⵍ",
+	"homebrew-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"homebrew-view-view": "ⵖⵔ",
+	"homebrew-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ"
+}

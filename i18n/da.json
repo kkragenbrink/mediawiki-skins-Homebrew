@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Byrial",
+			"Christian List",
+			"Peter Alberti"
+		]
+	},
+	"homebrew-skin-desc": "Moderne version af MonoBook med frisk udseende og mange forbedringer af brugervenligheden",
+	"homebrew-action-addsection": "Nyt emne",
+	"homebrew-action-delete": "Slet",
+	"homebrew-action-move": "Flyt",
+	"homebrew-action-protect": "Beskyt",
+	"homebrew-action-undelete": "Gendan",
+	"homebrew-action-unprotect": "Ændr beskyttelse",
+	"homebrew-view-create": "Opret",
+	"homebrew-view-edit": "Redigér",
+	"homebrew-view-history": "Se historik",
+	"homebrew-view-view": "Læs",
+	"homebrew-view-viewsource": "Se kilden",
+	"homebrew-more-actions": "Mere"
+}

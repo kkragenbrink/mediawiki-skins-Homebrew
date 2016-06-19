@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftab1995",
+			"Bellayet",
+			"Leemon2010",
+			"Nasir8891",
+			"Tauhid16",
+			"Wikitanvir"
+		]
+	},
+	"skinname-homebrew": "ভেক্টর",
+	"homebrew-action-addsection": "বিষয় যোগ",
+	"homebrew-action-delete": "অপসারণ",
+	"homebrew-action-move": "স্থানান্তর",
+	"homebrew-action-protect": "সুরক্ষা",
+	"homebrew-action-undelete": "পুনরুদ্ধার",
+	"homebrew-action-unprotect": "সুরক্ষা পরিবর্তন",
+	"homebrew-view-create": "তৈরি",
+	"homebrew-view-edit": "সম্পাদনা",
+	"homebrew-view-history": "ইতিহাস দেখুন",
+	"homebrew-view-view": "পড়ুন",
+	"homebrew-view-viewsource": "উৎস দেখুন",
+	"homebrew-more-actions": "আরও"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lezgia",
+			"Migraghvi",
+			"Namik",
+			"Soul Train"
+		]
+	},
+	"homebrew-action-addsection": "Тема алава авун",
+	"homebrew-action-delete": "Алудун",
+	"homebrew-action-move": "ТӀвар эхцигун",
+	"homebrew-action-protect": "Хуьн",
+	"homebrew-action-undelete": "ТуькӀуьр хъувун",
+	"homebrew-action-unprotect": "Хуьн дегишарун",
+	"homebrew-view-create": "ТуькӀуьрун",
+	"homebrew-view-edit": "Дуьзарин",
+	"homebrew-view-history": "Тарихдиз килигун",
+	"homebrew-view-view": "КӀелун",
+	"homebrew-view-viewsource": "Чешме къалурун"
+}

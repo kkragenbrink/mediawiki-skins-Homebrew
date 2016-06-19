@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Botuzhaleny-sodamo"
+		]
+	},
+	"homebrew-action-addsection": "Поладомс мезде кортамс",
+	"homebrew-action-delete": "Нардамс",
+	"homebrew-action-move": "Печтевтемс",
+	"homebrew-action-protect": "Аравтомс ванстомас",
+	"homebrew-action-undelete": "Вельмевтемс нардазенть",
+	"homebrew-action-unprotect": "Полавтомс ванстоманзо",
+	"homebrew-view-create": "Теемс-Шкамс",
+	"homebrew-view-edit": "Витнемс-петнемс",
+	"homebrew-view-history": "Ваномс юронзо-путовксонзо",
+	"homebrew-view-view": "Ловномс",
+	"homebrew-view-viewsource": "Ваномс косто саезь"
+}

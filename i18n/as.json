@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bishnu Saikia",
+			"Chaipau",
+			"Gitartha.bordoloi"
+		]
+	},
+	"homebrew-action-addsection": "বিষয় যোগ",
+	"homebrew-action-delete": "বিলোপ কৰক",
+	"homebrew-action-move": "স্থানান্তৰ কৰক",
+	"homebrew-action-protect": "সুৰক্ষিত কৰক",
+	"homebrew-action-undelete": "পুনৰুদ্ধাৰ কৰক",
+	"homebrew-action-unprotect": "সুৰক্ষা সলনি কৰক",
+	"homebrew-view-create": "সৃষ্টি কৰক",
+	"homebrew-view-edit": "সম্পাদনা",
+	"homebrew-view-history": "ইতিহাস চাওক",
+	"homebrew-view-view": "পঢ়ক",
+	"homebrew-view-viewsource": "উৎস চাওক",
+	"homebrew-more-actions": "অধিক"
+}

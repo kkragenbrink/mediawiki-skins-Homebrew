@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Võrok"
+		]
+	},
+	"homebrew-action-addsection": "Vahtsõ teema ülespandminõ",
+	"homebrew-action-delete": "Kistudaq ärq",
+	"homebrew-action-move": "Nõstaq ümbre",
+	"homebrew-action-protect": "Kaidsaq",
+	"homebrew-action-undelete": "Tiiq tagasi",
+	"homebrew-action-unprotect": "Muudaq kaidsõt",
+	"homebrew-view-create": "Luuq",
+	"homebrew-view-edit": "Toimõndaq",
+	"homebrew-view-history": "Näütäq aoluku",
+	"homebrew-view-view": "Loeq",
+	"homebrew-view-viewsource": "Kaeq lätteteksti",
+	"homebrew-more-actions": "Viil"
+}

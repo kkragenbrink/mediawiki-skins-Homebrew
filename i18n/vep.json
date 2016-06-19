@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Игорь Бродский"
+		]
+	},
+	"homebrew-action-addsection": "Ližada tem",
+	"homebrew-action-delete": "Čuta poiš",
+	"homebrew-action-move": "Udesnimitada",
+	"homebrew-action-protect": "Kaita",
+	"homebrew-action-undelete": "Pördutada",
+	"homebrew-action-unprotect": "Toižetada kaičend",
+	"homebrew-view-create": "Säta",
+	"homebrew-view-edit": "Redaktiruida",
+	"homebrew-view-history": "Kacta istorii",
+	"homebrew-view-view": "Lugeda",
+	"homebrew-view-viewsource": "Kacta purtkehe"
+}

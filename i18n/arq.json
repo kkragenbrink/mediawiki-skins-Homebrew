@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda",
+			"Oldstoneage"
+		]
+	},
+	"homebrew-skin-desc": "طبعة جديدة تاع مونوبوك، ب شبحة جديدة و تحسانات فل إستعماليّة",
+	"homebrew-action-addsection": "زيد موضوع",
+	"homebrew-action-delete": "امحي",
+	"homebrew-action-move": "حول",
+	"homebrew-action-protect": "بروجي",
+	"homebrew-action-undelete": "ردّ كيما كان",
+	"homebrew-action-unprotect": "بدّل الـحماية",
+	"homebrew-view-create": "أصنع",
+	"homebrew-view-edit": "بدل",
+	"homebrew-view-history": "السجّيل تاع الحدات",
+	"homebrew-view-view": "أقرى",
+	"homebrew-view-viewsource": "شوف المصدر",
+	"homebrew-more-actions": "زيادة"
+}

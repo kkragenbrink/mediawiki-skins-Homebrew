@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Crazymadlover",
+			"Dalton2",
+			"Fitoschido",
+			"Locos epraix",
+			"Manuelt15",
+			"MarcoAurelio",
+			"Miguel2706",
+			"Platonides",
+			"Vivaelcelta"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Versión moderna de MonoBook, con un aspecto actualizado y muchas mejoras de usabilidad",
+	"homebrew.css": "/* El CSS colocado en esta página afectará a los usuarios que usen la apariencia \"Homebrew\" */",
+	"homebrew.js": "/* Cualquier código JavaScript escrito aquí se cargará para todos los usuarios que usen la apariencia Homebrew */",
+	"homebrew-action-addsection": "Sección nueva",
+	"homebrew-action-delete": "Borrar",
+	"homebrew-action-move": "Trasladar",
+	"homebrew-action-protect": "Proteger",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Cambiar protección",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Editar",
+	"homebrew-view-history": "Ver historial",
+	"homebrew-view-view": "Leer",
+	"homebrew-view-viewsource": "Ver código",
+	"homebrew-more-actions": "Más"
+}

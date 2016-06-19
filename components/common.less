@@ -1,0 +1,371 @@
+/*
+ * Any rules which should not be flipped automatically in right-to-left situations should be
+ * prepended with @noflip in a comment block.
+ *
+ * This stylesheet employs a few CSS trick to accomplish compatibility with a wide range of web
+ * browsers. The most common trick is to use some styles in IE6 only. This is accomplished by using
+ * a rule that makes things work in IE6, and then following it with a rule that begins with
+ * "html > body" or use a child selector ">", which is ignored by IE6 because it does not support
+ * the child selector. You can spot this by looking for the "OVERRIDDEN BY COMPLIANT BROWSERS" and
+ * "IGNORED BY IE6" comments.
+ */
+@import "mediawiki.mixins";
+@import "fonts";
+
+/* Framework */
+html {
+	font-size: @html-font-size;
+}
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: @content-font-family;
+    min-width: 1168px;
+}
+body {
+	background-color: @menu-background-color;
+}
+
+/* Content */
+#editform {
+    column-span: all;
+    -moz-column-span: all;
+    -webkit-column-span: all;
+}
+.mw-body-content-wrapper {
+    column-count: 2;
+    column-gap: 1cm;
+    column-width: 8cm;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    -webkit-column-width: 8cm;
+    -moz-column-width: 8cm;
+    -webkit-column-gap: 1cm;
+    -moz-column-gap: 1cm;
+    column-fill: auto;
+    -moz-column-fill: auto;
+    overflow: hidden;
+    position: relative;
+
+    &::after {
+        display: block;
+        height: 50px;
+        width: 100%;
+        background-image: url('images/footer.png');
+        background-size: cover;
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+
+    .page-number {
+        color: #c9ad6a;
+        position: absolute;
+        right: 25px;
+        bottom: 15px;
+    }
+
+    &:not(:only-child) {
+        height: 11in;
+    }
+}
+
+.mw-body-content-wrapper:nth-child(even) {
+    .page-number {
+        left: 25px;
+        right: auto;
+    }
+
+    &::after {
+        transform: scaleX(-1);
+    }
+}
+
+.ns-special, .ns-6, .ns-14, .ns-talk, .action-history {
+    .mw-body-content-wrapper {
+        column-count: 1;
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        max-height: none;
+    }
+
+    .mw-body { max-height: auto; }
+}
+
+.mw-body-content-wrapper, .catlinks {
+	background-color: @body-background-color;
+    background-image: url('images/bg.jpg'); 
+    box-shadow: 1px 4px 14px #000;
+    box-sizing: border-box;
+    padding: @content-padding;
+    padding-bottom: 50px;
+    width: 100%;
+    margin-top: 0;
+}
+
+.mw-body-content-wrapper { margin-bottom: 1em; }
+
+.catlinks { padding: 1em; font-size: 9pt; }
+
+.firstHeading { display: none; }
+
+.mw-body {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+	/* Border on top, left, and bottom side */
+	/* Merge the border with tabs' one (in their background image) */
+	margin-top: -1px;
+	color: @content-font-color;
+	direction: ltr;
+//    width: 850px;
+    width: 8.5in;
+
+	.mw-editsection,
+	.mw-editsection-like {
+		font-family: @content-font-family;
+	}
+
+	p {
+		line-height: inherit;
+		margin: 0.5em 0;
+	}
+
+    h1,h2,h3,h4 {
+        margin-top: .2em;
+        margin-bottom: .2em;
+        font-weight: 800;
+        color: #58180D;
+        border-bottom: none;
+        font-variant: small-caps;
+    }
+
+	h1,
+	h2 {
+		font-family: @content-heading-font-family;
+		line-height: @heading-line-height;
+		padding: 0;
+	}
+
+	h1 {
+        column-span: all;
+        -webkit-column-span: all;
+        -moz-column-span: all;
+		font-size: @content-heading-font-size;
+        text-align: center;
+
+        & + p {
+            text-indent: 0 !important;
+
+            &::first-letter {
+                font-family: "Solbera Imitation";
+                float: left;
+                font-size: 10em;
+                color: #222;
+                line-height: .8em;
+            }
+        }
+	}
+
+	h2 {
+		font-size: 18pt;
+	}
+
+	h3,
+	h4,
+	h5,
+	h6 {
+		line-height: @content-line-height;
+		padding-bottom: 0;
+	}
+
+	h3 {
+		font-size: 14pt;
+        border-bottom: 2px solid #c9ad6a
+	}
+
+	h3,
+	h4 {
+		font-weight: bold;
+	}
+
+    h4 { font-size: 12pt; }
+
+	h5,
+	h6 {
+		font-size: 100%; /* (reset) */
+	}
+
+    p + p, ul + p, ol + p, .mw-body-content-wrapper + .mw-content-ltr p {
+        text-indent: 1em;
+    }
+
+    dd {
+        margin-left: 0;
+        text-indent: -1.6em;
+        padding-left: 1.6em;
+
+        & dd {
+            margin-left: 1.6em;
+        }
+    }
+
+	#toc h2,
+	.toc h2 {
+		font-size: 100%; /* (reset) */
+		font-family: @content-font-family;
+	}
+
+	.firstHeading {
+		/* Change the default from mediawiki.skinning CSS to let indicators float into heading area */
+		overflow: visible;
+	}
+
+	.mw-indicators {
+		float: right;
+		line-height: @content-line-height;
+		font-size: @content-font-size;
+		/* Ensure that this is displayed on top of .mw-body-content and clickable */
+		position: relative;
+		z-index: 1;
+	}
+
+	.mw-indicator {
+		display: inline-block;
+		zoom: 1;
+		*display: inline;
+	}
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        -webkit-column-break-inside: avoid;
+        column-break-inside: avoid;
+
+        caption {
+            font-variant: small-caps;
+            font-weight: bold;
+            text-align: left;
+            font-size: 12pt;
+        }
+
+        th:first-of-type, td:first-of-type {
+            text-align: center;
+        }
+
+        th, td {
+            text-align: left;
+        }
+
+        tbody {
+            tr:nth-child(even) {
+                background-color: #e0e5c1;
+            }
+        }
+        
+        &.class {
+            th, td { text-align: center; }
+            td:nth-child(3), th:nth-child(3) { text-align: left; width: 50%;}
+        }
+        
+        &.equipment {
+            th, td { text-align: left; }
+            td:first-of-type { padding-left: 1em; }
+            td.colspan { padding-left: 0; }
+        }
+
+        &.class, &.equipment {
+            border-collapse: separate;
+            border-spacing: 0;
+            background-color: white;
+            border: solid;
+            border-image-outset: 37px 17px;
+            border-image-repeat: round;
+            border-image-slice: 150 200 150 200;
+            border-image-source: url('images/class-border.png');
+            border-image-width: 47px;
+            
+            margin-bottom: 5em;
+            margin-top: 3em;
+
+            th { 
+                padding-top: 2em;
+                vertical-align: bottom; 
+            }
+            td { vertical-align: top; }
+            caption { 
+                font-size: 14pt;
+                margin-bottom: -1em; 
+            }
+        }
+
+        &.full {
+
+            font-size: 9pt;
+            width: 100%;
+
+            -webkit-column-span: all;
+            -moz-column-span: all;
+            column-span: all;
+
+
+            th { 
+                padding-top: 2em;
+                vertical-align: bottom; 
+            }
+            td { vertical-align: top; }
+            caption { 
+                font-size: 14pt;
+                margin-bottom: -1em; 
+            }
+        }
+    }
+}
+
+/* Hide empty portlets */
+div.emptyPortlet {
+	display: none;
+}
+
+ul {
+	list-style-type: disc;
+	.list-style-image-svg('images/bullet-icon.svg', 'images/bullet-icon.png');
+}
+
+pre,
+.mw-code {
+	line-height: 1.3em;
+    box-shadow: 1px 4px 14px #888;
+}
+
+/* Site Notice (includes notices from CentralNotice extension) */
+#siteNotice {
+	font-size: 0.8em;
+}
+
+.redirectText {
+	font-size: 140%;
+}
+
+.mw-body-content {
+	line-height: @content-line-height;
+	font-size: @content-font-size;
+	z-index: 0;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */

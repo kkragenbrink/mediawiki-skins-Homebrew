@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Slomox",
+			"Zylbath"
+		]
+	},
+	"homebrew-action-addsection": "Thema tofögen",
+	"homebrew-action-delete": "Wegdoon",
+	"homebrew-action-move": "Schuven",
+	"homebrew-action-protect": "Schulen",
+	"homebrew-action-undelete": "Wedderhalen",
+	"homebrew-action-unprotect": "Siedenschuul ännern",
+	"homebrew-view-create": "Opstellen",
+	"homebrew-view-edit": "Ännern",
+	"homebrew-view-history": "Historie bekieken",
+	"homebrew-view-view": "Lesen",
+	"homebrew-view-viewsource": "Borntext bekieken"
+}

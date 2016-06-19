@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"homebrew-action-addsection": "Hoʻohui kumuhana",
+	"homebrew-action-delete": "Holoi",
+	"homebrew-action-move": "E hoʻoneʻe",
+	"homebrew-action-protect": "E hoʻomalu",
+	"homebrew-action-undelete": "Holoiʻole",
+	"homebrew-action-unprotect": "E hoʻololi i ka hoʻomalu",
+	"homebrew-view-create": "Haku",
+	"homebrew-view-edit": "Hoʻololi",
+	"homebrew-view-history": "Nānā i ka mōʻaukala",
+	"homebrew-view-view": "Heluhelu",
+	"homebrew-view-viewsource": "Nānā i ke kumu"
+}

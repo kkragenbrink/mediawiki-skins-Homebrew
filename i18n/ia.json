@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"homebrew-skin-desc": "Version moderne de MonoBook con aspecto rejuvenescite e multe meliorationes de usabilitate.",
+	"homebrew.css": "/* Le CSS placiate hic afficera le usatores del apparentia Homebrew */",
+	"homebrew.js": "/* Omne JavaScript hic se executara pro le usatores del apparentia Homebrew */",
+	"homebrew-action-addsection": "Adder topico",
+	"homebrew-action-delete": "Deler",
+	"homebrew-action-move": "Renominar",
+	"homebrew-action-protect": "Proteger",
+	"homebrew-action-undelete": "Restaurar",
+	"homebrew-action-unprotect": "Cambiar protection",
+	"homebrew-view-create": "Crear",
+	"homebrew-view-edit": "Modificar",
+	"homebrew-view-history": "Vider historia",
+	"homebrew-view-view": "Leger",
+	"homebrew-view-viewsource": "Vider texto fonte",
+	"homebrew-more-actions": "Plus"
+}

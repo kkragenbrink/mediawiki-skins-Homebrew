@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kernoweger",
+			"Kw-Moon",
+			"Nrowe"
+		]
+	},
+	"homebrew-action-addsection": "Keworra testen",
+	"homebrew-action-delete": "Dilea",
+	"homebrew-action-move": "Gwaya",
+	"homebrew-action-protect": "Difres",
+	"homebrew-action-undelete": "Disdhilea",
+	"homebrew-action-unprotect": "Chanjya difresans",
+	"homebrew-view-create": "Gwruthyl",
+	"homebrew-view-edit": "Chanjya",
+	"homebrew-view-history": "Gweles an istori",
+	"homebrew-view-view": "Redya",
+	"homebrew-view-viewsource": "Gweles an bennfenten",
+	"homebrew-more-actions": "Moy"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borislav",
+			"DCLXVI",
+			"Spiritia",
+			"StanProg"
+		]
+	},
+	"homebrew-action-addsection": "Добавяне на тема",
+	"homebrew-action-delete": "Изтриване",
+	"homebrew-action-move": "Преместване",
+	"homebrew-action-protect": "Защита",
+	"homebrew-action-undelete": "Възстановяване",
+	"homebrew-action-unprotect": "Промяна на защитата",
+	"homebrew-view-create": "Създаване",
+	"homebrew-view-edit": "Редактиране",
+	"homebrew-view-history": "История",
+	"homebrew-view-view": "Преглед",
+	"homebrew-view-viewsource": "Преглед на кода",
+	"homebrew-more-actions": "Още"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"OC Ripper"
+		]
+	},
+	"homebrew-action-addsection": "Dodaj temu",
+	"homebrew-action-delete": "Brisanje",
+	"homebrew-action-move": "Preusmjeri",
+	"homebrew-action-protect": "Zaštiti",
+	"homebrew-action-undelete": "Vrati obrisano",
+	"homebrew-action-unprotect": "Promijeni zaštitu",
+	"homebrew-view-create": "Napravi",
+	"homebrew-view-edit": "Uredi",
+	"homebrew-view-history": "Pregled historije",
+	"homebrew-view-view": "Čitaj",
+	"homebrew-view-viewsource": "Vidi izvor (source)"
+}

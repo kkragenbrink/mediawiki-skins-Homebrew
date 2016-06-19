@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"RMizo"
+		]
+	},
+	"homebrew-action-addsection": "Thupui belhna",
+	"homebrew-action-delete": "Paihna",
+	"homebrew-action-move": "Sawnna",
+	"homebrew-action-protect": "Venhimna",
+	"homebrew-action-undelete": "Lak kir lehna",
+	"homebrew-action-unprotect": "Venhimna dinhmun tidanglam rawh",
+	"homebrew-view-create": "Siamna",
+	"homebrew-view-edit": "Siamţhatna",
+	"homebrew-view-history": "Hunhlui-chanchin",
+	"homebrew-view-view": "Chhiarna",
+	"homebrew-view-viewsource": "A hnar enna"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Usingha"
+		]
+	},
+	"homebrew-action-addsection": "বিষয় তিলকর",
+	"homebrew-action-delete": "পুসে বেলা",
+	"homebrew-action-move": "থেইকর",
+	"homebrew-action-protect": "লুকর",
+	"homebrew-action-undelete": "নাপুসি",
+	"homebrew-action-unprotect": "লুকরানিহান সিলকর",
+	"homebrew-view-create": "হঙকরিক",
+	"homebrew-view-edit": "পতানি",
+	"homebrew-view-history": "ইতিহাস চেইক",
+	"homebrew-view-view": "পাকরিক",
+	"homebrew-view-viewsource": "সোর্স চেইক"
+}

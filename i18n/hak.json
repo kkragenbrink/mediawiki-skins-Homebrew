@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anson2812",
+			"Jetlag"
+		]
+	},
+	"homebrew-action-addsection": "加入話題",
+	"homebrew-action-delete": "刪除",
+	"homebrew-action-move": "移動",
+	"homebrew-action-protect": "保護",
+	"homebrew-action-undelete": "恢復",
+	"homebrew-action-unprotect": "更改保護",
+	"homebrew-view-create": "建立",
+	"homebrew-view-edit": "編寫",
+	"homebrew-view-history": "查看歷史",
+	"homebrew-view-view": "閱讀",
+	"homebrew-view-viewsource": "查看源碼"
+}

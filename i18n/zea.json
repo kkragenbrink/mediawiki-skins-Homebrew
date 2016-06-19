@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"homebrew-action-addsection": "Voeg kopje toe",
+	"homebrew-action-delete": "Wissen",
+	"homebrew-action-move": "Verschuuf",
+	"homebrew-action-protect": "Bescherm",
+	"homebrew-action-undelete": "Plaets truhhe",
+	"homebrew-action-unprotect": "Beveiligienge anpass'n",
+	"homebrew-view-create": "Anmaeken",
+	"homebrew-view-edit": "Bewerk",
+	"homebrew-view-history": "Geschiedenisse bekiek'n",
+	"homebrew-view-view": "Lezen",
+	"homebrew-view-viewsource": "Brontekst bekieken"
+}

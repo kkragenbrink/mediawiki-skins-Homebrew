@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinneeb",
+			"MongolWiki",
+			"Wisdom",
+			"Sembuk"
+		]
+	},
+	"homebrew-action-addsection": "Сэдэв нэмэх",
+	"homebrew-action-delete": "Устгах",
+	"homebrew-action-move": "Зөөх",
+	"homebrew-action-protect": "Хамгаалах",
+	"homebrew-action-undelete": "Үл устгах",
+	"homebrew-action-unprotect": "Хамгаалалтаа солих",
+	"homebrew-view-create": "Үүсгэх",
+	"homebrew-view-edit": "Засварлах",
+	"homebrew-view-history": "Түүх",
+	"homebrew-view-view": "Унших",
+	"homebrew-view-viewsource": "Кодыг харах",
+	"homebrew-more-actions": "Дэлгэрэнгүй"
+}

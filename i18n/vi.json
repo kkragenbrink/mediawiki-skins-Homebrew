@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen",
+			"Vinhtantran",
+			"Withoutaname"
+		]
+	},
+	"skinname-homebrew": "Vectơ",
+	"homebrew-skin-desc": "Giao diện làm lại từ MonoBook có màu tươi và khả dụng hơn",
+	"homebrew.css": "/* Mã CSS đặt ở đây sẽ ảnh hưởng đến thành viên sử dụng giao diện Vectơ */",
+	"homebrew.js": "/* Mã JavaScript tại đây sẽ được tải khi người dùng sử dụng giao diện Vectơ */",
+	"homebrew-action-addsection": "Thêm chủ đề",
+	"homebrew-action-delete": "Xóa",
+	"homebrew-action-move": "Di chuyển",
+	"homebrew-action-protect": "Khóa",
+	"homebrew-action-undelete": "Phục hồi",
+	"homebrew-action-unprotect": "Đổi mức khóa",
+	"homebrew-view-create": "Tạo",
+	"homebrew-view-edit": "Sửa đổi",
+	"homebrew-view-history": "Xem lịch sử",
+	"homebrew-view-view": "Đọc",
+	"homebrew-view-viewsource": "Xem mã nguồn",
+	"homebrew-more-actions": "Khác"
+}

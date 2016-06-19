@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"homebrew-action-addsection": "Temu pśidaś",
+	"homebrew-action-delete": "Wulašowaś",
+	"homebrew-action-move": "Pśesunuś",
+	"homebrew-action-protect": "Šćitaś",
+	"homebrew-action-undelete": "Wótnowiś",
+	"homebrew-action-unprotect": "Šćit změniś",
+	"homebrew-view-create": "Napóraś",
+	"homebrew-view-edit": "Wobźěłaś",
+	"homebrew-view-history": "Wersije a awtory",
+	"homebrew-view-view": "Cytaś",
+	"homebrew-view-viewsource": "Žrědło se woglědaś"
+}

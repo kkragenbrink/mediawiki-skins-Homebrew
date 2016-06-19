@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gmelfi",
+			"Melos",
+			"Pippinu",
+			"Sarvaturi"
+		]
+	},
+	"homebrew-skin-desc": "Virsioni muderna di MonoBook cu n'aspettu novu e tanti migghiuramenti nta l'usabbilità",
+	"homebrew-action-addsection": "Agghiunci n'argumentu",
+	"homebrew-action-delete": "Cancella",
+	"homebrew-action-move": "Sposta",
+	"homebrew-action-protect": "Pruteggi",
+	"homebrew-action-undelete": "Annulla la cancillazzioni",
+	"homebrew-action-unprotect": "Cancia la prutizzioni",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Cancia",
+	"homebrew-view-history": "Talìa la cronuluggìa",
+	"homebrew-view-view": "Leggi",
+	"homebrew-view-viewsource": "Talìa la surgenti",
+	"homebrew-more-actions": "Àutri cosi"
+}

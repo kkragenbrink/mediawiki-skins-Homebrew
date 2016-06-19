@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Friðrik Bragi Dýrfjörð",
+			"Maxí",
+			"Snævar",
+			"Ævar Arnfjörð Bjarmason"
+		]
+	},
+	"homebrew-action-addsection": "Bæta við umræðu",
+	"homebrew-action-delete": "Eyða",
+	"homebrew-action-move": "Færa",
+	"homebrew-action-protect": "Vernda",
+	"homebrew-action-undelete": "Hætta við eyðingu",
+	"homebrew-action-unprotect": "Breyta verndunarstigi",
+	"homebrew-view-create": "Skapa",
+	"homebrew-view-edit": "Breyta",
+	"homebrew-view-history": "Breytingaskrá",
+	"homebrew-view-view": "Lesa",
+	"homebrew-view-viewsource": "Sýna frumkóða",
+	"homebrew-more-actions": "Meira"
+}

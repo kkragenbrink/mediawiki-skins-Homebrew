@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saiddzone",
+			"Saimawnkham"
+		]
+	},
+	"homebrew-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
+	"homebrew-action-move": "ၶၢႆႉ",
+	"homebrew-action-protect": "ႁေႉၵင်ႈ",
+	"homebrew-view-create": "သၢင်ႈ",
+	"homebrew-view-edit": "မူၼ်ႉမႄး",
+	"homebrew-view-history": "တူၺ်းပိုၼ်း",
+	"homebrew-view-view": "လူတူၺ်း",
+	"homebrew-view-viewsource": "တူၺ်း ငဝ်ႈငႃႇ",
+	"homebrew-more-actions": "ၼမ်လိူဝ်"
+}

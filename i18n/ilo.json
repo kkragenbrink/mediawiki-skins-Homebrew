@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang",
+			"Saluyot"
+		]
+	},
+	"homebrew-skin-desc": "Moderno a bersion ti MonoBook nga addaan iti baro a langa ken adu kadagiti naserbi a panagpasayaat",
+	"homebrew-action-addsection": "Agnayon iti topiko",
+	"homebrew-action-delete": "Ikkaten",
+	"homebrew-action-move": "Iyalis",
+	"homebrew-action-protect": "Salakniban",
+	"homebrew-action-undelete": "Isubli ti inikkat",
+	"homebrew-action-unprotect": "Sukatan ti salaknib",
+	"homebrew-view-create": "Agaramid",
+	"homebrew-view-edit": "Urnosen",
+	"homebrew-view-history": "Kitaen ti pakasaritaan",
+	"homebrew-view-view": "Basaen",
+	"homebrew-view-viewsource": "Kitaen ti taudan",
+	"homebrew-more-actions": "Adu pay"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kizito"
+		]
+	},
+	"homebrew-action-addsection": "Tandikawo emboozi endala",
+	"homebrew-action-delete": "Gyawo olupapula luno",
+	"homebrew-action-move": "Simbuliza",
+	"homebrew-action-protect": "Ssiba",
+	"homebrew-action-undelete": "Zawo",
+	"homebrew-action-unprotect": "Kyusa ebikugizo",
+	"homebrew-view-create": "Lukolewo",
+	"homebrew-view-edit": "Kyusa",
+	"homebrew-view-history": "Ennanda ya fayiro eno",
+	"homebrew-view-view": "Soma",
+	"homebrew-view-viewsource": "Kebera obulambike obw'ennono obw'olupapula luno"
+}

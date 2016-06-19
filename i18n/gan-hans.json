@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent",
+			"Xiaomingyan"
+		]
+	},
+	"homebrew-action-addsection": "添主题",
+	"homebrew-action-delete": "删吥",
+	"homebrew-action-move": "移吥",
+	"homebrew-action-protect": "护到",
+	"homebrew-action-undelete": "望下删吥𠮶页面",
+	"homebrew-action-unprotect": "更改保护",
+	"homebrew-view-create": "创建",
+	"homebrew-view-edit": "编辑",
+	"homebrew-view-history": "望下历史",
+	"homebrew-view-view": "读",
+	"homebrew-view-viewsource": "望下原始码"
+}

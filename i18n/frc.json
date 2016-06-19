@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebe123",
+			"Hangmanwa7id"
+		]
+	},
+	"homebrew-action-delete": "Supprimer",
+	"homebrew-action-move": "Renommer",
+	"homebrew-action-protect": "Protéger",
+	"homebrew-view-create": "Créer",
+	"homebrew-view-edit": "Changer",
+	"homebrew-view-view": "Lire",
+	"homebrew-view-viewsource": "Regarder la source",
+	"homebrew-more-actions": "Plus"
+}

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Warbola"
+		]
+	},
+	"homebrew-action-addsection": "Pangid jūrõ tēma",
+	"homebrew-action-delete": "Kištāntõgid jarā",
+	"homebrew-action-move": "Vīž jarā",
+	"homebrew-action-protect": "Kaitsõmi",
+	"homebrew-view-create": "Lūo",
+	"homebrew-view-edit": "Redigīer",
+	"homebrew-view-history": "Nägţ istōrijõ",
+	"homebrew-view-view": "Vaņ",
+	"homebrew-view-viewsource": "Vaņ ovāt tekstõ"
+}

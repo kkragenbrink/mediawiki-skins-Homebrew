@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Girmitya",
+			"Thakurji"
+		]
+	},
+	"homebrew-action-addsection": "Topic jorro",
+	"homebrew-action-delete": "Mitao",
+	"homebrew-action-move": "Naam badlo",
+	"homebrew-action-protect": "Bachao",
+	"homebrew-action-undelete": "Pahile jaise karo",
+	"homebrew-action-unprotect": "Surakchha ke badlo",
+	"homebrew-view-create": "Banao",
+	"homebrew-view-edit": "Badlo",
+	"homebrew-view-history": "Itihaas dekho",
+	"homebrew-view-view": "Parrho",
+	"homebrew-view-viewsource": "Source dekho"
+}

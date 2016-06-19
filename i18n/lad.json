@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Universal Life"
+		]
+	},
+	"homebrew-action-addsection": "Ajustar sujeto",
+	"homebrew-action-delete": "Efassar",
+	"homebrew-action-move": "Taşirear",
+	"homebrew-action-protect": "Guadrar",
+	"homebrew-action-undelete": "Traer atrás",
+	"homebrew-action-unprotect": "Trocar proteksyon",
+	"homebrew-view-create": "Criar",
+	"homebrew-view-edit": "Trocar",
+	"homebrew-view-history": "Ver la istoria",
+	"homebrew-view-view": "Meldar",
+	"homebrew-view-viewsource": "Ver su manadero"
+}

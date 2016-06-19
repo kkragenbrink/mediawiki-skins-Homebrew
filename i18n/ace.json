@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fadli Idris",
+			"Si Gam Acèh"
+		]
+	},
+	"homebrew-action-addsection": "Tamah bhaih",
+	"homebrew-action-delete": "Sampôh",
+	"homebrew-action-move": "Pupinah",
+	"homebrew-action-protect": "Peulindông",
+	"homebrew-action-undelete": "Bateuë sampôh",
+	"homebrew-action-unprotect": "Gantoe neulindông",
+	"homebrew-view-create": "Peugöt",
+	"homebrew-view-edit": "Andam",
+	"homebrew-view-history": "Eu riwayat",
+	"homebrew-view-view": "Beuët",
+	"homebrew-view-viewsource": "Eu nè",
+	"homebrew-more-actions": "Lom"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes",
+			"Robin0van0der0vliet"
+		]
+	},
+	"homebrew-action-addsection": "Voog köpke toe",
+	"homebrew-action-delete": "Ewegsjaffe",
+	"homebrew-action-move": "Verplaats",
+	"homebrew-action-protect": "Besjirm",
+	"homebrew-action-undelete": "Plaats trök",
+	"homebrew-action-unprotect": "Anger beveiliging",
+	"homebrew-view-create": "Maak aan",
+	"homebrew-view-edit": "Bewirk",
+	"homebrew-view-history": "Bekiek de gesjiedenis",
+	"homebrew-view-view": "Laes",
+	"homebrew-view-viewsource": "Bekiek bróntèks",
+	"homebrew-more-actions": "Mieë"
+}

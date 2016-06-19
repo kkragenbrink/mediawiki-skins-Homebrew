@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rkupsala"
+		]
+	},
+	"homebrew-action-delete": "Kufwa",
+	"homebrew-action-move": "Nata",
+	"homebrew-action-protect": "Keba",
+	"homebrew-view-create": "Tunga",
+	"homebrew-view-edit": "Soba",
+	"homebrew-view-history": "Tala bansoba",
+	"homebrew-view-view": "Tânga"
+}

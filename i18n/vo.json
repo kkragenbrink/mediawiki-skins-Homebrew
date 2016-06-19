@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Malafaya"
+		]
+	},
+	"homebrew-action-addsection": "Lüükön yegädi",
+	"homebrew-action-delete": "Moükön",
+	"homebrew-action-move": "Topätükön",
+	"homebrew-action-protect": "Jelön",
+	"homebrew-action-undelete": "Sämoükön",
+	"homebrew-action-unprotect": "Votükön jeli",
+	"homebrew-view-create": "Jafön",
+	"homebrew-view-edit": "Redakön",
+	"homebrew-view-history": "Logön jenotemi",
+	"homebrew-view-view": "Reidön",
+	"homebrew-view-viewsource": "Logön fonäti",
+	"homebrew-more-actions": "Pluikos"
+}

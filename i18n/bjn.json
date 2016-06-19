@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ezagren",
+			"J Subhi"
+		]
+	},
+	"homebrew-action-addsection": "Tambahi tupik",
+	"homebrew-action-delete": "Hapus",
+	"homebrew-action-move": "Pindahakan",
+	"homebrew-action-protect": "Lindungi",
+	"homebrew-action-undelete": "Pawalangan pahapusan",
+	"homebrew-action-unprotect": "Palindungan",
+	"homebrew-view-create": "Ulah",
+	"homebrew-view-edit": "Babak",
+	"homebrew-view-history": "Tiringi halam",
+	"homebrew-view-view": "Baca",
+	"homebrew-view-viewsource": "Tiringi asal mula"
+}

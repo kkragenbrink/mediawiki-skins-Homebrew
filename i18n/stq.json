@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyt"
+		]
+	},
+	"homebrew-action-addsection": "Ousnit bietouföigje",
+	"homebrew-action-delete": "Läskje",
+	"homebrew-action-move": "Ferskuuwe",
+	"homebrew-action-protect": "Skutsje",
+	"homebrew-action-undelete": "Wierhäärstaale",
+	"homebrew-action-unprotect": "Siedenskuts annerje",
+	"homebrew-view-create": "Moakje",
+	"homebrew-view-edit": "Beoarbaidje",
+	"homebrew-view-history": "Versionsgeskichte",
+	"homebrew-view-view": "Leese",
+	"homebrew-view-viewsource": "Wältext bekiekje"
+}

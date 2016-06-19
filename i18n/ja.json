@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Marine-Blue",
+			"Penn Station",
+			"Shirayuki",
+			"Whym",
+			"青子守歌",
+			"Takot"
+		]
+	},
+	"skinname-homebrew": "ベクター",
+	"homebrew-skin-desc": "新しい見た目でユーザビリティが改善された、モダンバージョンのMonobook。",
+	"homebrew.css": "/* ここに記述したCSSはベクター外装の利用者に影響します */",
+	"homebrew.js": "/* ここにあるすべてのJavaScriptは、ベクター外装を使用している利用者に対して読み込まれます */",
+	"homebrew-action-addsection": "話題追加",
+	"homebrew-action-delete": "削除",
+	"homebrew-action-move": "移動",
+	"homebrew-action-protect": "保護",
+	"homebrew-action-undelete": "復元",
+	"homebrew-action-unprotect": "保護再設定",
+	"homebrew-view-create": "作成",
+	"homebrew-view-edit": "編集",
+	"homebrew-view-history": "履歴表示",
+	"homebrew-view-view": "閲覧",
+	"homebrew-view-viewsource": "ソースを閲覧",
+	"homebrew-more-actions": "その他"
+}

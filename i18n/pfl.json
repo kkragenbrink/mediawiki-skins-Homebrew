@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	},
+	"homebrew-action-addsection": "Abschnidd dzufiesche",
+	"homebrew-action-delete": "Lesche",
+	"homebrew-action-move": "Vaschiewe",
+	"homebrew-action-protect": "Schidze",
+	"homebrew-action-undelete": "Zriggbringe",
+	"homebrew-view-create": "Oaleesche",
+	"homebrew-view-edit": "Droa schaffe",
+	"homebrew-view-history": "Dadaigschischd",
+	"homebrew-view-view": "Lese",
+	"homebrew-view-viewsource": "Gwelltegschd zaische",
+	"homebrew-more-actions": "Mea"
+}

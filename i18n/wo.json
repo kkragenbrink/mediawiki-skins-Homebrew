@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ibou"
+		]
+	},
+	"homebrew-action-addsection": "Yokkuw tëriit",
+	"homebrew-action-delete": "Far",
+	"homebrew-action-move": "Tuddewaat",
+	"homebrew-action-protect": "Aar",
+	"homebrew-action-undelete": "Delloowaat",
+	"homebrew-action-unprotect": "Aaradi",
+	"homebrew-view-create": "Sos",
+	"homebrew-view-edit": "Soppi",
+	"homebrew-view-history": "Wone jaar-jaaram",
+	"homebrew-view-view": "Jàng",
+	"homebrew-view-viewsource": "Wone gongikuwaayam",
+	"homebrew-more-actions": "Yeneen"
+}

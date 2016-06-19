@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"MacTire02",
+			"Shimmin Beg"
+		]
+	},
+	"homebrew-action-addsection": "Cur cooish noa rish",
+	"homebrew-action-delete": "Scryss",
+	"homebrew-action-move": "Scugh",
+	"homebrew-action-protect": "Coadee",
+	"homebrew-action-undelete": "Jee-scryss",
+	"homebrew-action-unprotect": "Caghlaa coadey",
+	"homebrew-view-create": "Croo",
+	"homebrew-view-edit": "Reagh",
+	"homebrew-view-history": "Jeeagh er shennaghys",
+	"homebrew-view-view": "Lhaih",
+	"homebrew-view-viewsource": "Jeeagh er bun"
+}

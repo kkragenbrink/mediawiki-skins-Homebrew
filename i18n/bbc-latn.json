@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daniel Harahap",
+			"WBT003Bugari",
+			"WBT006Hendra",
+			"WBT009Anju"
+		]
+	},
+	"homebrew-action-addsection": "Bagian na imbaru",
+	"homebrew-action-delete": "Sesa",
+	"homebrew-action-move": "Pahusor",
+	"homebrew-action-protect": "Ramoti",
+	"homebrew-action-undelete": "unang sesa",
+	"homebrew-action-unprotect": "Uba parlindungan",
+	"homebrew-view-create": "Tompa",
+	"homebrew-view-edit": "Paubah",
+	"homebrew-view-history": "Patudu andorang na",
+	"homebrew-view-view": "Jaha",
+	"homebrew-view-viewsource": "Ida haroanna"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Demmy"
+		]
+	},
+	"homebrew-action-addsection": "Àfikún orí-ọ̀rọ̀",
+	"homebrew-action-delete": "Ìparẹ́",
+	"homebrew-action-move": "Ìyípòdà",
+	"homebrew-action-protect": "Àbò",
+	"homebrew-action-undelete": "Ìmúkúrò ìparẹ́",
+	"homebrew-action-unprotect": "Ìyípadà àbò",
+	"homebrew-view-create": "Ṣ'èdá",
+	"homebrew-view-edit": "Àtúnṣe",
+	"homebrew-view-history": "Wo ìtàn",
+	"homebrew-view-view": "Àwòkà",
+	"homebrew-view-viewsource": "Wo àmìọ̀rọ̀",
+	"homebrew-more-actions": "Ọ̀pọ̀"
+}

@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Paraw2"
+		]
+	},
+	"homebrew-action-addsection": "بابەت تازە بدە سەری",
+	"homebrew-action-delete": "بسڕەوە",
+	"homebrew-action-move": "جیوەجی بکە",
+	"homebrew-action-protect": "بپیەرێزەێ",
+	"homebrew-view-create": "درسکردن",
+	"homebrew-view-edit": "وێراشتەێ بکە",
+	"homebrew-view-history": "دیرۆکەگەی بۊن",
+	"homebrew-view-view": "بخوەنە",
+	"homebrew-view-viewsource": "سەرچاوەگەێ بۊن"
+}

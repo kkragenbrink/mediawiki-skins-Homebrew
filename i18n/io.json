@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Malafaya"
+		]
+	},
+	"homebrew-action-addsection": "Adjuntar topiko",
+	"homebrew-action-delete": "Efacar",
+	"homebrew-action-move": "Movar",
+	"homebrew-action-protect": "Protektar",
+	"homebrew-action-undelete": "Rekuperar",
+	"homebrew-action-unprotect": "Desprotektar",
+	"homebrew-view-create": "Krear",
+	"homebrew-view-edit": "Redaktar",
+	"homebrew-view-history": "Vidar versionaro",
+	"homebrew-view-view": "Lektar",
+	"homebrew-view-viewsource": "Vidar fonto"
+}

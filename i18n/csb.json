@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba",
+			"Kuvaly"
+		]
+	},
+	"homebrew-action-addsection": "Dodôj témã",
+	"homebrew-action-delete": "Rëmôj",
+	"homebrew-action-move": "Przeniesë",
+	"homebrew-action-protect": "Zazychrëjë",
+	"homebrew-action-undelete": "Doprowôdzë nazôd",
+	"homebrew-action-unprotect": "Òdzychrëjë",
+	"homebrew-view-create": "Ùsôdzë",
+	"homebrew-view-edit": "Edicëjô",
+	"homebrew-view-history": "Historëjô lopka",
+	"homebrew-view-view": "Czëtôj",
+	"homebrew-view-viewsource": "Zdrojowi tekst"
+}

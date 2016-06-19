@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"UV"
+		]
+	},
+	"homebrew-action-addsection": "Partem novam addere",
+	"homebrew-action-delete": "Delere",
+	"homebrew-action-move": "Movere",
+	"homebrew-action-protect": "Protegere",
+	"homebrew-action-undelete": "Restituere",
+	"homebrew-action-unprotect": "Protectionem mutare",
+	"homebrew-view-create": "Creare",
+	"homebrew-view-edit": "Recensere",
+	"homebrew-view-history": "Historiam inspicere",
+	"homebrew-view-view": "Legere",
+	"homebrew-view-viewsource": "Fontem inspicere",
+	"homebrew-more-actions": "Plus"
+}

@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abanima",
+			"Calak",
+			"Meno25",
+			"Mido",
+			"OsamaK",
+			"أحمد",
+			"زكريا",
+			"Khaled"
+		]
+	},
+	"skinname-homebrew": "فكتور",
+	"homebrew-skin-desc": "نسة حديثة من مونوبوك بمظهر جديد وسهولة الاستخدام",
+	"homebrew.css": "/* الأنماط المتراصة CSS المعروضة هنا ستؤثر على مستخدمي واجهة فكتور */",
+	"homebrew.js": "/* أي جافاسكريبت هنا سيتم تحميلها للمستخدمين الذين يستعملون واجهة فكتور */",
+	"homebrew-action-addsection": "أضف موضوعا",
+	"homebrew-action-delete": "احذف",
+	"homebrew-action-move": "انقل",
+	"homebrew-action-protect": "احم",
+	"homebrew-action-undelete": "ألغ الحذف",
+	"homebrew-action-unprotect": "غير الحماية",
+	"homebrew-view-create": "أنشئ",
+	"homebrew-view-edit": "عدل",
+	"homebrew-view-history": "اعرض التاريخ",
+	"homebrew-view-view": "اقرأ",
+	"homebrew-view-viewsource": "اعرض المصدر",
+	"homebrew-more-actions": "مزيد"
+}

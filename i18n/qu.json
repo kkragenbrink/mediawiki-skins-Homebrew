@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"AlimanRuna"
+		]
+	},
+	"homebrew-action-addsection": "Allwiyta yapay",
+	"homebrew-action-delete": "Qulluy",
+	"homebrew-action-move": "Astay",
+	"homebrew-action-protect": "Amachay",
+	"homebrew-action-undelete": "Qullusqata paqarichiy",
+	"homebrew-action-unprotect": "Amachayta wakinchay",
+	"homebrew-view-create": "Kamariy",
+	"homebrew-view-edit": "Llamk'apuy",
+	"homebrew-view-history": "Wiñay kawsayta qhaway",
+	"homebrew-view-view": "Ñawiriy",
+	"homebrew-view-viewsource": "Pukyu qillqata qhaway",
+	"homebrew-more-actions": "Aswan"
+}

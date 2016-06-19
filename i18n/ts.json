@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Thuvack"
+		]
+	},
+	"homebrew-action-addsection": "Veka nholoko ya mhaka",
+	"homebrew-action-delete": "Sula",
+	"homebrew-action-move": "Yi sa kunwana",
+	"homebrew-action-protect": "Sirhelela",
+	"homebrew-action-undelete": "Cinca kusula",
+	"homebrew-action-unprotect": "Cinca kusirhelela",
+	"homebrew-view-create": "Tumbuluxa",
+	"homebrew-view-edit": "Lulamisa",
+	"homebrew-view-history": "Languta matimu",
+	"homebrew-view-view": "Hlaya",
+	"homebrew-view-viewsource": "Languta xihlovo"
+}

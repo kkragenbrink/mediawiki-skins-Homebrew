@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ibrahim"
+		]
+	},
+	"homebrew-action-addsection": "Иловаи унвон",
+	"homebrew-action-delete": "Ҳазф",
+	"homebrew-action-move": "Кӯчонидан",
+	"homebrew-action-protect": "Муҳофизат",
+	"homebrew-action-undelete": "Эҳё",
+	"homebrew-action-unprotect": "Тағйири муҳофизат",
+	"homebrew-view-create": "Эҷод",
+	"homebrew-view-edit": "Вироиш",
+	"homebrew-view-history": "Намоиши таърих",
+	"homebrew-view-view": "Хондан",
+	"homebrew-view-viewsource": "Намоиши манбаъ"
+}

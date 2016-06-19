@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andria",
+			"Marzedu",
+			"Via maxima",
+			"Uharteko",
+			"Taxandru"
+		]
+	},
+	"homebrew-action-addsection": "Agiunghe cuntierra",
+	"homebrew-action-delete": "Burra",
+	"homebrew-action-move": "Move",
+	"homebrew-action-protect": "Barda",
+	"homebrew-action-undelete": "Recùpera",
+	"homebrew-view-create": "Crea",
+	"homebrew-view-edit": "Modìfica",
+	"homebrew-view-history": "Càstia istòria",
+	"homebrew-view-view": "Leghe",
+	"homebrew-view-viewsource": "Càstia mitza",
+	"homebrew-more-actions": "Prus"
+}

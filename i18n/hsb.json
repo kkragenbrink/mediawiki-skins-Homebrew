@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"homebrew-action-addsection": "Temu přidać",
+	"homebrew-action-delete": "wušmórnyć",
+	"homebrew-action-move": "přesunyć",
+	"homebrew-action-protect": "škitać",
+	"homebrew-action-undelete": "Wobnowić",
+	"homebrew-action-unprotect": "Škit wotstronić",
+	"homebrew-view-create": "Wutworić",
+	"homebrew-view-edit": "Wobdźěłać",
+	"homebrew-view-history": "Stawizny",
+	"homebrew-view-view": "Čitać",
+	"homebrew-view-viewsource": "Žórło sej wobhladać",
+	"homebrew-more-actions": "Wjace"
+}

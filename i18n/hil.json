@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anjoeli9806",
+			"Redhotchili23"
+		]
+	},
+	"homebrew-action-addsection": "Magdugang sing topiko",
+	"homebrew-action-delete": "Panason",
+	"homebrew-action-move": "Saylohon",
+	"homebrew-action-protect": "Pangapinan",
+	"homebrew-action-undelete": "Dulaon ang pagpanas",
+	"homebrew-action-unprotect": "Ilisan ang pagpangapin",
+	"homebrew-view-create": "Himuon",
+	"homebrew-view-edit": "Liwaton",
+	"homebrew-view-history": "Lantawon ang nagkalatabo",
+	"homebrew-view-view": "Magbasa",
+	"homebrew-view-viewsource": "Lantawon ang ginhalinan",
+	"homebrew-more-actions": "Dugang Pa"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន",
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"skinname-homebrew": "វ៉ិចទ័រ​​",
+	"homebrew.css": "/* CSS បានដាក់ទីនេះនឹងមានអនុភាពលើអ្នកប្រើប្រាស់នៃសំបក Homebrew */",
+	"homebrew-action-addsection": "បន្ថែម​ប្រធានបទ​",
+	"homebrew-action-delete": "លុបចោល",
+	"homebrew-action-move": "ប្តូរទីតាំង",
+	"homebrew-action-protect": "ការពារ",
+	"homebrew-action-undelete": "ឈប់លុបចោល",
+	"homebrew-action-unprotect": "ប្ដូរការការពារ",
+	"homebrew-view-create": "បង្កើត​",
+	"homebrew-view-edit": "កែប្រែ​",
+	"homebrew-view-history": "មើល​ប្រវត្តិ​",
+	"homebrew-view-view": "អាន",
+	"homebrew-view-viewsource": "មើល​កូដ",
+	"homebrew-more-actions": "បន្ថែមទៀត"
+}

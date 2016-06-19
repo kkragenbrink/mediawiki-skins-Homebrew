@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher",
+			"Жељко Тодоровић",
+			"Михајло Анђелковић"
+		]
+	},
+	"skinname-homebrew": "Векторско",
+	"homebrew.css": "/* CSS постављен овде ће утицати на све кориснике теме „Векторско“ */",
+	"homebrew.js": "/* Јаваскрипт постављен овде ће се учитати за све оне који користе тему „Векторско“ */",
+	"homebrew-action-addsection": "Додај тему",
+	"homebrew-action-delete": "Обриши",
+	"homebrew-action-move": "Премести",
+	"homebrew-action-protect": "Заштити",
+	"homebrew-action-undelete": "Врати",
+	"homebrew-action-unprotect": "Промени заштиту",
+	"homebrew-view-create": "Направи",
+	"homebrew-view-edit": "Уреди",
+	"homebrew-view-history": "Историја",
+	"homebrew-view-view": "Читај",
+	"homebrew-view-viewsource": "Изворни код",
+	"homebrew-more-actions": "Више"
+}

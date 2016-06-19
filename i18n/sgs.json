@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"homebrew-action-addsection": "Pridietė ožvardėnėma",
+	"homebrew-action-delete": "Trintė",
+	"homebrew-action-move": "Parvadintė",
+	"homebrew-action-protect": "Ožrakintė",
+	"homebrew-action-undelete": "Atkortė",
+	"homebrew-action-unprotect": "Keistė apsauga",
+	"homebrew-view-create": "Padėrbtė",
+	"homebrew-view-edit": "Taisītė",
+	"homebrew-view-history": "Veizietė istuorėjė",
+	"homebrew-view-view": "Skaitītė",
+	"homebrew-view-viewsource": "Veizietė kuoda",
+	"homebrew-more-actions": "Dā"
+}

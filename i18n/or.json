@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jnanaranjan Sahu",
+			"Psubhashish"
+		]
+	},
+	"homebrew-action-addsection": "ନୂଆ ଯୋଡ଼ନ୍ତୁ",
+	"homebrew-action-delete": "ଲିଭାଇବେ",
+	"homebrew-action-move": "ଘୁଞ୍ଚାଇବେ",
+	"homebrew-action-protect": "କିଳିବେ",
+	"homebrew-action-undelete": "ଲିଭାଇବେ ନାହିଁ",
+	"homebrew-action-unprotect": "କିଳିବେ ନାହିଁ",
+	"homebrew-view-create": "ତିଆରି କରନ୍ତୁ",
+	"homebrew-view-edit": "ସମ୍ପାଦନା (Edit)",
+	"homebrew-view-history": "ଇତିହାସ",
+	"homebrew-view-view": "ପଢ଼ନ୍ତୁ",
+	"homebrew-view-viewsource": "ସୋର୍ସ ଦେଖନ୍ତୁ",
+	"homebrew-more-actions": "ଅଧିକ"
+}

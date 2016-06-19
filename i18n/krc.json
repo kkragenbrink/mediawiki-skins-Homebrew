@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iltever",
+			"Къарачайлы"
+		]
+	},
+	"skinname-homebrew": "Вектор",
+	"homebrew-action-addsection": "Джангы тема къош",
+	"homebrew-action-delete": "Кетер",
+	"homebrew-action-move": "Атын ауушдур",
+	"homebrew-action-protect": "Джакъла",
+	"homebrew-action-undelete": "Къайтар",
+	"homebrew-action-unprotect": "Джакълауну тюрлендир",
+	"homebrew-view-create": "Къура",
+	"homebrew-view-edit": "Тюрлендир",
+	"homebrew-view-history": "Тарихи",
+	"homebrew-view-view": "Окъу",
+	"homebrew-view-viewsource": "Кодха къара",
+	"homebrew-more-actions": "Энтда"
+}

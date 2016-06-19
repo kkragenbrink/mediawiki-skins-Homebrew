@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Red Winged Duck",
+			"Wizardist"
+		]
+	},
+	"skinname-homebrew": "Вэктар",
+	"homebrew-skin-desc": "Сучасная вэрсія MonoBook з абноўленым выглядам і шматлікімі паляпшэньнямі",
+	"homebrew-action-addsection": "Дадаць тэму",
+	"homebrew-action-delete": "Выдаліць",
+	"homebrew-action-move": "Перанесьці",
+	"homebrew-action-protect": "Абараніць",
+	"homebrew-action-undelete": "Аднавіць",
+	"homebrew-action-unprotect": "Зьмяніць абарону",
+	"homebrew-view-create": "Стварыць",
+	"homebrew-view-edit": "Рэдагаваць",
+	"homebrew-view-history": "Паказаць гісторыю",
+	"homebrew-view-view": "Чытаць",
+	"homebrew-view-viewsource": "Паказаць крыніцу",
+	"homebrew-more-actions": "Болей"
+}

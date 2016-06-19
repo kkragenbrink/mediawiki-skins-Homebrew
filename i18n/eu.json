@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Unai Fdz. de Betoño",
+			"Xabier Armendaritz",
+			"Fitoschido",
+			"Subi"
+		]
+	},
+	"homebrew-skin-desc": "MonoBook-en bertsio modernoa, itxura berriarekin eta erabilgarritasun hobekuntza askorekin",
+	"homebrew-action-addsection": "Gehitu atala",
+	"homebrew-action-delete": "Ezabatu",
+	"homebrew-action-move": "Mugitu",
+	"homebrew-action-protect": "Babestu",
+	"homebrew-action-undelete": "Berreskuratu",
+	"homebrew-action-unprotect": "Babesa aldatu",
+	"homebrew-view-create": "Sortu",
+	"homebrew-view-edit": "Aldatu",
+	"homebrew-view-history": "Ikusi historia",
+	"homebrew-view-view": "Irakurri",
+	"homebrew-view-viewsource": "Kodea ikusia",
+	"homebrew-more-actions": "Gehiago"
+}

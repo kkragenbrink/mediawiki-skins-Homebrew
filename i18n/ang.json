@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gott wisst",
+			"JJohnson1701"
+		]
+	},
+	"homebrew-action-addsection": "Besettan mearcunge",
+	"homebrew-action-delete": "Forlēosan",
+	"homebrew-action-move": "Wegan",
+	"homebrew-action-protect": "Beorgan",
+	"homebrew-action-undelete": "Scieppan tramet eft",
+	"homebrew-action-unprotect": "Andwendan beorgunge",
+	"homebrew-view-create": "Scieppan",
+	"homebrew-view-edit": "Ādihtan",
+	"homebrew-view-history": "Stǣr",
+	"homebrew-view-view": "Rǣdan",
+	"homebrew-view-viewsource": "Sēon fruman",
+	"homebrew-more-actions": "Mā"
+}

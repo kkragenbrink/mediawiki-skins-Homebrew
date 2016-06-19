@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Filipinayzd",
+			"Geopoet"
+		]
+	},
+	"homebrew-action-addsection": "Idagdag an topic",
+	"homebrew-action-delete": "puráon",
+	"homebrew-action-move": "Ibalyó",
+	"homebrew-action-protect": "Protektaran",
+	"homebrew-action-undelete": "Bawion sa pagkapara",
+	"homebrew-action-unprotect": "Ribayan an proteksyon",
+	"homebrew-view-create": "Magmukna",
+	"homebrew-view-edit": "Liwatón",
+	"homebrew-view-history": "Tanawon sa historiya",
+	"homebrew-view-view": "Basáha",
+	"homebrew-view-viewsource": "Hilingón an ginikánan"
+}

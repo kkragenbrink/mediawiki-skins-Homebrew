@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro"
+		]
+	},
+	"homebrew-action-addsection": "Мевзу къош",
+	"homebrew-action-delete": "Ёкъ эт",
+	"homebrew-action-move": "Адыны денъиштир",
+	"homebrew-action-protect": "Къорчала",
+	"homebrew-action-undelete": "Янъыдан ярат",
+	"homebrew-action-unprotect": "Къорчалавны денъиштир",
+	"homebrew-view-create": "Ярат",
+	"homebrew-view-edit": "Денъиштир",
+	"homebrew-view-history": "Кечмишини косьтер",
+	"homebrew-view-view": "Окъу",
+	"homebrew-view-viewsource": "Менба кодуны косьтер"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo",
+			"Event",
+			"Nghtwlkr"
+		]
+	},
+	"homebrew-skin-desc": "Moderne versjon av MonoBook med et friskt utseende og mange bruksforbedringer",
+	"homebrew-action-addsection": "Nytt emne",
+	"homebrew-action-delete": "Slett",
+	"homebrew-action-move": "Flytt",
+	"homebrew-action-protect": "Beskytt",
+	"homebrew-action-undelete": "Gjenopprett",
+	"homebrew-action-unprotect": "Endre beskyttelse",
+	"homebrew-view-create": "Opprett",
+	"homebrew-view-edit": "Rediger",
+	"homebrew-view-history": "Vis historikk",
+	"homebrew-view-view": "Les",
+	"homebrew-view-viewsource": "Vis kilden",
+	"homebrew-more-actions": "Mer"
+}

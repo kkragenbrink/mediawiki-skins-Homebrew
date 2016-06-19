@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"NamwikiTL",
+			"VASANTH S.N."
+		]
+	},
+	"homebrew-action-addsection": "ವಿಷಯ ಸೇರಾಲೆ",
+	"homebrew-action-delete": "ದೆತ್ತ್ ಪಾಡ್ಲೆ",
+	"homebrew-action-move": "ಸ್ಥಳಾಂತರ ಮಲ್ಪುಲೆ",
+	"homebrew-action-protect": "ಸ೦ರಕ್ಷಿಸಾಲೆ",
+	"homebrew-action-undelete": "ಮಾಜಾವಡೆ",
+	"homebrew-action-unprotect": "ಬದಲಾವಣೆನ್ ರಕ್ಷಿಸಾಲೆ",
+	"homebrew-view-create": " ಸುರು ಮಲ್ಪುಲೆ",
+	"homebrew-view-edit": "ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ",
+	"homebrew-view-history": "ಇತಿಹಾಸೊನು ತೂಲೆ",
+	"homebrew-view-view": "ಓದ್ಲೇ",
+	"homebrew-view-viewsource": "ಮೂಲೊನು ತೂಲೆ",
+	"homebrew-more-actions": "ನನಲಾ"
+}

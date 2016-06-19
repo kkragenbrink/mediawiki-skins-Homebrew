@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mohau"
+		]
+	},
+	"homebrew-action-addsection": "Lokela sererwa",
+	"homebrew-action-delete": "Phumula",
+	"homebrew-action-move": "Huduša",
+	"homebrew-action-protect": "Lota",
+	"homebrew-view-create": "Hlola",
+	"homebrew-view-edit": "Fetola",
+	"homebrew-view-history": "Laetša histori",
+	"homebrew-view-view": "Bala",
+	"homebrew-view-viewsource": "Lebelela mothopo"
+}

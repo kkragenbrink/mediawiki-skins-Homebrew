@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Smihael",
+			"Yerpo"
+		]
+	},
+	"homebrew-skin-desc": "Sodobna različica MonoBook s svežim videzom in mnogimi izboljšavami uporabnosti",
+	"homebrew-action-addsection": "Dodaj temo",
+	"homebrew-action-delete": "Izbriši",
+	"homebrew-action-move": "Prestavi",
+	"homebrew-action-protect": "Zaščiti",
+	"homebrew-action-undelete": "Vrni",
+	"homebrew-action-unprotect": "Spremeni zaščito",
+	"homebrew-view-create": "Ustvari",
+	"homebrew-view-edit": "Uredi",
+	"homebrew-view-history": "Zgodovina",
+	"homebrew-view-view": "Preberi",
+	"homebrew-view-viewsource": "Izvorno besedilo",
+	"homebrew-more-actions": "Več"
+}

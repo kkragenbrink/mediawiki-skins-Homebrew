@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"skinname-homebrew": "動力",
+	"homebrew.css": "/* 此之 CSS 用於動力面之簿也 */",
+	"homebrew.js": "/* 此之JavaScript將載於用動力面之簿 */",
+	"homebrew-action-addsection": "入題",
+	"homebrew-action-delete": "刪",
+	"homebrew-action-move": "遷",
+	"homebrew-action-protect": "緘",
+	"homebrew-action-undelete": "覽刪",
+	"homebrew-action-unprotect": "啟",
+	"homebrew-view-create": "立",
+	"homebrew-view-edit": "纂",
+	"homebrew-view-history": "覽史",
+	"homebrew-view-view": "閱",
+	"homebrew-view-viewsource": "覽源"
+}

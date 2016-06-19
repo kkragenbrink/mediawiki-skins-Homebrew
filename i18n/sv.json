@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"Martinwiss",
+			"Najami",
+			"Skalman",
+			"WikiPhoenix",
+			"Lokal Profil"
+		]
+	},
+	"skinname-homebrew": "Homebrew",
+	"homebrew-skin-desc": "Modern version av MonoBook med ett nytt utseende och flera användarvänlighetsförbättringar",
+	"homebrew.css": "/* CSS som skrivs här kommer att påverka alla användare av utseendet Homebrew */",
+	"homebrew.js": "/* JavaScript här kommer att laddas för dem som använder utseendet Homebrew */",
+	"homebrew-action-addsection": "Nytt ämne",
+	"homebrew-action-delete": "Radera",
+	"homebrew-action-move": "Flytta",
+	"homebrew-action-protect": "Skrivskydda",
+	"homebrew-action-undelete": "Återställ",
+	"homebrew-action-unprotect": "Ändra skydd",
+	"homebrew-view-create": "Skapa",
+	"homebrew-view-edit": "Redigera",
+	"homebrew-view-history": "Visa historik",
+	"homebrew-view-view": "Visa",
+	"homebrew-view-viewsource": "Visa källa",
+	"homebrew-more-actions": "Mer"
+}

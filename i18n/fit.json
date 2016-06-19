@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mestos"
+		]
+	},
+	"homebrew-action-addsection": "Lissää aine",
+	"homebrew-action-delete": "Ota poies",
+	"homebrew-action-move": "Siirä",
+	"homebrew-action-protect": "Suojaa",
+	"homebrew-action-undelete": "Pane takashiin",
+	"homebrew-action-unprotect": "Muuta suojaa",
+	"homebrew-view-create": "Luo",
+	"homebrew-view-edit": "Mookkaa",
+	"homebrew-view-history": "Näytä histuuria",
+	"homebrew-view-view": "Lue",
+	"homebrew-view-viewsource": "Näytä lähekooti"
+}

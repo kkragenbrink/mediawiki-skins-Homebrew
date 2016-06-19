@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sindhu"
+		]
+	},
+	"homebrew-action-delete": "ڊاھيو",
+	"homebrew-action-move": "چوريو",
+	"homebrew-action-protect": "تحفظيو",
+	"homebrew-action-unprotect": "اڻتحفظيو",
+	"homebrew-view-create": "سرجيو",
+	"homebrew-view-edit": "سنواريو",
+	"homebrew-view-history": "تاريخ يا سوانح ڏسو",
+	"homebrew-view-view": "پڙه",
+	"homebrew-view-viewsource": "ڪوڊ ڏسو",
+	"homebrew-more-actions": "وڌيڪ"
+}

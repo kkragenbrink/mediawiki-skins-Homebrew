@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Byeboer",
+			"Naudefj"
+		]
+	},
+	"homebrew-action-addsection": "Nuwe onderwerp",
+	"homebrew-action-delete": "Skrap",
+	"homebrew-action-move": "Skuif",
+	"homebrew-action-protect": "Beskerm",
+	"homebrew-action-undelete": "Ontskrap",
+	"homebrew-action-unprotect": "Wysig beskerming",
+	"homebrew-view-create": "Skep",
+	"homebrew-view-edit": "Wysig",
+	"homebrew-view-history": "Wys geskiedenis",
+	"homebrew-view-view": "Lees",
+	"homebrew-view-viewsource": "Wys bronteks",
+	"homebrew-more-actions": "Meer"
+}

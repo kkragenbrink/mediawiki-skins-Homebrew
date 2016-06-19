@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Diupwijk",
+			"EileenSanda"
+		]
+	},
+	"homebrew-skin-desc": "Moderna versión af MonoBook við frískari útsjónd og nógvum nýtslubetringum",
+	"homebrew-action-addsection": "Nýtt evni",
+	"homebrew-action-delete": "Strika",
+	"homebrew-action-move": "Flyt",
+	"homebrew-action-protect": "Friða",
+	"homebrew-action-undelete": "Endurstovna",
+	"homebrew-action-unprotect": "Broyt verju",
+	"homebrew-view-create": "Stovna",
+	"homebrew-view-edit": "Rætta",
+	"homebrew-view-history": "Vís søgu",
+	"homebrew-view-view": "Les",
+	"homebrew-view-viewsource": "Vís keldu",
+	"homebrew-more-actions": "Meira"
+}

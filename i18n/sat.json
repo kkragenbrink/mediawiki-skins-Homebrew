@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Albinus",
+			"Samar88",
+			"Srabony90"
+		]
+	},
+	"homebrew-action-addsection": "Asol katha joṛaome",
+	"homebrew-action-delete": "Giḍi",
+	"homebrew-action-move": "Ocoḱ́me",
+	"homebrew-action-protect": "Bańcao",
+	"homebrew-action-undelete": "Bań getgiḍi",
+	"homebrew-action-unprotect": "Bodol rukhiyạ",
+	"homebrew-view-create": "Tearme",
+	"homebrew-view-edit": "So̠mpado̠n",
+	"homebrew-view-history": "Jạṛ ńelme",
+	"homebrew-view-view": "Paṛhaḱme",
+	"homebrew-view-viewsource": "Ńamoḱaḱ ńelme"
+}

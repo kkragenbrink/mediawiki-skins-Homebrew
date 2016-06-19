@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pras"
+		]
+	},
+	"homebrew-action-addsection": "Tambah topik",
+	"homebrew-action-delete": "Busak",
+	"homebrew-action-move": "Pindhahna",
+	"homebrew-action-protect": "Reksa",
+	"homebrew-action-undelete": "Batalna pambusakan",
+	"homebrew-action-unprotect": "Owahi pangreksan",
+	"homebrew-view-create": "Gawé",
+	"homebrew-view-edit": "Sunting",
+	"homebrew-view-history": "Sajarah kaca",
+	"homebrew-view-view": "Waca",
+	"homebrew-view-viewsource": "Pirsani sumber",
+	"homebrew-more-actions": "Salajengipun"
+}

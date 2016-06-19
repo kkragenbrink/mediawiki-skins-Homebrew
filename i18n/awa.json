@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"1AnuraagPandey"
+		]
+	},
+	"homebrew-action-addsection": "शिर्षक जोडा जाय",
+	"homebrew-action-delete": "मेटावा जाय",
+	"homebrew-action-move": "घुस्कावा जाय",
+	"homebrew-action-protect": "सुरक्षित करा जाय",
+	"homebrew-action-undelete": "हटाइब वापस लिहा जाय",
+	"homebrew-action-unprotect": "सुरक्षा परिवर्तन करा जाय",
+	"homebrew-view-create": "बनावा जाय",
+	"homebrew-view-edit": "सम्पादन",
+	"homebrew-view-history": "इतिहास देखा जाय",
+	"homebrew-view-view": "पढा जाय",
+	"homebrew-view-viewsource": "स्रोत देखा जाय",
+	"homebrew-more-actions": "अउर"
+}

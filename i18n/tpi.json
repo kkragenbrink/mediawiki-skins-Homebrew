@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iketsi",
+			"Wantok"
+		]
+	},
+	"homebrew-action-delete": "Rausim",
+	"homebrew-action-move": "Surikim",
+	"homebrew-action-protect": "Tambuim",
+	"homebrew-view-create": "Kirapim",
+	"homebrew-view-edit": "Senisim",
+	"homebrew-view-history": "Ol senis",
+	"homebrew-view-view": "Rit",
+	"homebrew-view-viewsource": "Lukim as tok"
+}

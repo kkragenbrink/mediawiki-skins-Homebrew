@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Sapral Mikail"
+		]
+	},
+	"homebrew-action-addsection": "БӀагал тӀатоха",
+	"homebrew-action-delete": "ДӀадаккха",
+	"homebrew-action-move": "ЦӀи хувца",
+	"homebrew-action-protect": "Лораде",
+	"homebrew-action-undelete": "Юхаоттаде",
+	"homebrew-action-unprotect": "Лорам хувца",
+	"homebrew-view-create": "Кхолларле",
+	"homebrew-view-edit": "Хувцам",
+	"homebrew-view-history": "Искар",
+	"homebrew-view-view": "Дешар",
+	"homebrew-view-viewsource": "Зембакхама бӀаргтассам"
+}

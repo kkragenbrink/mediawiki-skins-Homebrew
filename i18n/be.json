@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikalai Udodau",
+			"Yury Tarasievich",
+			"Дзяніс Тутэйшы",
+			"Хомелка"
+		]
+	},
+	"homebrew-skin-desc": "Сучасная версія вокладкі Манабук, з абноўленым відам і шматлікімі зручнымі паляпшэннямі",
+	"homebrew-action-addsection": "Дадаць тэму",
+	"homebrew-action-delete": "Сцерці",
+	"homebrew-action-move": "Перанесці",
+	"homebrew-action-protect": "Ахова",
+	"homebrew-action-undelete": "Аднавіць",
+	"homebrew-action-unprotect": "Змяніць ахову",
+	"homebrew-view-create": "Стварыць",
+	"homebrew-view-edit": "Правіць",
+	"homebrew-view-history": "Паказаць гісторыю",
+	"homebrew-view-view": "Чытаць",
+	"homebrew-view-viewsource": "Паказаць зыходны тэкст",
+	"homebrew-more-actions": "Яшчэ"
+}

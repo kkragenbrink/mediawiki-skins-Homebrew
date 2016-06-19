@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"FRANCIS5091",
+			"FRANELYA"
+		]
+	},
+	"homebrew-action-addsection": "Ruhangai piboboroson",
+	"homebrew-action-delete": "Pugaso",
+	"homebrew-action-move": "Poundoliho",
+	"homebrew-action-protect": "Tingoligai",
+	"homebrew-action-undelete": "Kada pugaso",
+	"homebrew-action-unprotect": "Alanai tingolig",
+	"homebrew-view-create": "Pomonsoi",
+	"homebrew-view-edit": "Idito",
+	"homebrew-view-history": "Intaai susuyan",
+	"homebrew-view-view": "Basao",
+	"homebrew-view-viewsource": "Intaai wowonod"
+}

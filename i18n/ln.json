@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin",
+			"Moyogo"
+		]
+	},
+	"homebrew-action-addsection": "Kobakisa mpɔ̂",
+	"homebrew-action-delete": "Kolímwisa",
+	"homebrew-action-move": "Kobóngola nkómbó",
+	"homebrew-action-protect": "Kobátela",
+	"homebrew-action-undelete": "Kolímwisa tɛ̂",
+	"homebrew-action-unprotect": " Kobátela tɛ̂",
+	"homebrew-view-create": "Kokela",
+	"homebrew-view-edit": "Kobɔngisa",
+	"homebrew-view-history": "Komɔ́nisa mokóló",
+	"homebrew-view-view": "Kotánga",
+	"homebrew-view-viewsource": "Komɔ́nisa mosólo",
+	"homebrew-more-actions": "Elandí"
+}

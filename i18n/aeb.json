@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csisc",
+			"Malekbr",
+			"GeekEmad"
+		]
+	},
+	"homebrew-action-addsection": "أضف موضوعا",
+	"homebrew-action-delete": "احذف",
+	"homebrew-action-move": "انقل",
+	"homebrew-action-protect": "احم",
+	"homebrew-action-undelete": "استرجع الحذف",
+	"homebrew-action-unprotect": "غير الحماية",
+	"homebrew-view-create": "أنشئ",
+	"homebrew-view-edit": "Baddel",
+	"homebrew-view-history": "Warri listorik",
+	"homebrew-view-view": "Aqrê",
+	"homebrew-view-viewsource": "اعرض المصدر",
+	"homebrew-more-actions": "Akŧar"
+}

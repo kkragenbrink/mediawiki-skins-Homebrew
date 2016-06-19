@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kandar"
+		]
+	},
+	"homebrew-skin-desc": "MonoBook vérsi modéren dina pidangan anu leuwih anyar jeung leuwih hadé",
+	"homebrew-action-addsection": "Jejer anyar",
+	"homebrew-action-delete": "Hapus",
+	"homebrew-action-move": "Pindahkeun",
+	"homebrew-action-protect": "Konci",
+	"homebrew-action-undelete": "Bolaykeun ngahapus",
+	"homebrew-action-unprotect": "Robah protéksi",
+	"homebrew-view-create": "Jieun",
+	"homebrew-view-edit": "Édit",
+	"homebrew-view-history": "Témbongkeun jujutan",
+	"homebrew-view-view": "Baca",
+	"homebrew-view-viewsource": "Témbongkeun sumber",
+	"homebrew-more-actions": "Lianna"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Denö",
+			"Ilja.mos",
+			"Mashoi7"
+		]
+	},
+	"homebrew-action-addsection": "Ližiä aihe",
+	"homebrew-action-move": "Siirrä",
+	"homebrew-action-protect": "Suojua",
+	"homebrew-action-unprotect": "Vaihta suojavustu",
+	"homebrew-view-create": "Luaji",
+	"homebrew-view-edit": "Korjua",
+	"homebrew-view-history": "Kačo histourii",
+	"homebrew-view-view": "Luve",
+	"homebrew-view-viewsource": "Kačo algukoodu",
+	"homebrew-more-actions": "Vie"
+}

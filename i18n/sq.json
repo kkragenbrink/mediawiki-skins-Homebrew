@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dasius",
+			"GretaDoci",
+			"MicroBoy",
+			"Mikullovci11",
+			"Olsi"
+		]
+	},
+	"homebrew-action-addsection": "Shto një temë",
+	"homebrew-action-delete": "Grise",
+	"homebrew-action-move": "Zhvendose",
+	"homebrew-action-protect": "Mbroje",
+	"homebrew-action-undelete": "Anullo fshirjen",
+	"homebrew-action-unprotect": "Ndrysho mbrojtjen",
+	"homebrew-view-create": "Krijo",
+	"homebrew-view-edit": "Redakto",
+	"homebrew-view-history": "Shiko historikun",
+	"homebrew-view-view": "Lexo",
+	"homebrew-view-viewsource": "Shiko tekstin",
+	"homebrew-more-actions": "Më tepër..."
+}
